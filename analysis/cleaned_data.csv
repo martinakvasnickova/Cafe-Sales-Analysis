@@ -4,7 +4,7 @@ TXN_4977031,Cake,4.0,3.0,12.0,Cash,In-store,2023-05-16,Tuesday,May
 TXN_4271903,Cookie,4.0,1.0,4.0,Credit Card,In-store,2023-07-19,Wednesday,July
 TXN_3160411,Coffee,2.0,2.0,4.0,Digital Wallet,In-store,2023-06-11,Sunday,June
 TXN_2602893,Smoothie,5.0,4.0,20.0,Credit Card,,2023-03-31,Friday,March
-TXN_6699534,Sandwich,4.0,4.0,16.0,Cash,UNKNOWN,2023-10-28,Saturday,October
+TXN_6699534,Sandwich,4.0,4.0,16.0,Cash,Unknown location,2023-10-28,Saturday,October
 TXN_4717867,,5.0,3.0,15.0,,Takeaway,2023-07-28,Friday,July
 TXN_2064365,Sandwich,5.0,4.0,20.0,,In-store,2023-12-31,Sunday,December
 TXN_2548360,Salad,5.0,5.0,25.0,Cash,Takeaway,2023-11-07,Tuesday,November
@@ -27,7 +27,7 @@ TXN_7640952,Cake,4.0,3.0,12.0,Digital Wallet,Takeaway,,,
 TXN_1736287,Coffee,5.0,2.0,10.0,Digital Wallet,,2023-06-02,Friday,June
 TXN_9677376,Smoothie,4.0,4.0,16.0,,In-store,2023-08-15,Tuesday,August
 TXN_8853997,Smoothie,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-10-09,Monday,October
-TXN_9130559,Sandwich,1.0,4.0,4.0,Credit Card,UNKNOWN,2023-05-28,Sunday,May
+TXN_9130559,Sandwich,1.0,4.0,4.0,Credit Card,Unknown location,2023-05-28,Sunday,May
 TXN_1080432,Salad,2.0,5.0,10.0,Credit Card,In-store,2023-04-29,Saturday,April
 TXN_2655815,Smoothie,4.0,4.0,16.0,,Takeaway,2023-06-08,Thursday,June
 TXN_2083138,Smoothie,3.0,4.0,12.0,,In-store,2023-04-17,Monday,April
@@ -68,7 +68,7 @@ TXN_1993289,Sandwich,2.0,4.0,8.0,,In-store,2023-04-18,Tuesday,April
 TXN_2123367,Cookie,2.0,1.0,2.0,,,2023-11-07,Tuesday,November
 TXN_5266394,Cake,3.0,3.0,9.0,Cash,In-store,2023-10-28,Saturday,October
 TXN_5107946,Cake,4.0,3.0,12.0,Credit Card,,2023-12-22,Friday,December
-TXN_8035512,Tea,3.0,1.5,4.5,Cash,UNKNOWN,2023-10-29,Sunday,October
+TXN_8035512,Tea,3.0,1.5,4.5,Cash,Unknown location,2023-10-29,Sunday,October
 TXN_8718498,Cake,5.0,3.0,15.0,Credit Card,ERROR,2023-04-30,Sunday,April
 TXN_3955361,Cookie,5.0,1.0,5.0,,Takeaway,2023-04-02,Sunday,April
 TXN_4132730,Cookie,5.0,1.0,5.0,,In-store,2023-03-12,Sunday,March
@@ -85,7 +85,7 @@ TXN_1621920,Salad,3.0,5.0,15.0,,Takeaway,2023-10-28,Saturday,October
 TXN_3808639,Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-12-15,Friday,December
 TXN_7028009,Cake,4.0,3.0,12.0,,Takeaway,,,
 TXN_7447872,Juice,2.0,3.0,6.0,,,,,
-TXN_3775339,Cookie,3.0,1.0,3.0,Credit Card,UNKNOWN,2023-04-03,Monday,April
+TXN_3775339,Cookie,3.0,1.0,3.0,Credit Card,Unknown location,2023-04-03,Monday,April
 TXN_9547091,Cookie,3.0,1.0,3.0,Credit Card,,2023-10-08,Sunday,October
 TXN_4358673,Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-12-28,Thursday,December
 TXN_4174591,Tea,4.0,1.5,6.0,Digital Wallet,,2023-08-30,Wednesday,August
@@ -199,7 +199,7 @@ TXN_3786188,Tea,3.0,1.5,4.5,Credit Card,In-store,2023-10-20,Friday,October
 TXN_4530804,Coffee,4.0,2.0,8.0,,,2023-01-12,Thursday,January
 TXN_9642066,Sandwich,3.0,4.0,12.0,Credit Card,In-store,2023-08-31,Thursday,August
 TXN_7328294,Juice,2.0,3.0,6.0,Cash,,2023-07-07,Friday,July
-TXN_1908636,Tea,2.0,1.5,3.0,,UNKNOWN,,,
+TXN_1908636,Tea,2.0,1.5,3.0,,Unknown location,,,
 TXN_9238066,Tea,5.0,1.5,7.5,Digital Wallet,In-store,2023-09-15,Friday,September
 TXN_5415901,Cake,2.0,3.0,6.0,Digital Wallet,,2023-10-21,Saturday,October
 TXN_6616971,Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-09-02,Saturday,September
@@ -214,7 +214,7 @@ TXN_7852990,Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-07-10,Monday,July
 TXN_2534066,Salad,2.0,5.0,10.0,Cash,,2023-10-13,Friday,October
 TXN_2059647,Tea,1.0,1.5,1.5,Digital Wallet,In-store,2023-05-29,Monday,May
 TXN_2485183,Smoothie,5.0,4.0,20.0,Cash,In-store,2023-07-07,Friday,July
-TXN_7374846,Sandwich,1.0,4.0,4.0,Credit Card,UNKNOWN,2023-05-29,Monday,May
+TXN_7374846,Sandwich,1.0,4.0,4.0,Credit Card,Unknown location,2023-05-29,Monday,May
 TXN_9401522,Sandwich,4.0,4.0,16.0,Digital Wallet,In-store,2023-11-16,Thursday,November
 TXN_8250651,Sandwich,4.0,4.0,16.0,Digital Wallet,In-store,2023-03-13,Monday,March
 TXN_7191245,Cake,4.0,3.0,12.0,,Takeaway,2023-05-22,Monday,May
@@ -238,7 +238,7 @@ TXN_2020318,Tea,3.0,1.5,4.5,Digital Wallet,In-store,2023-10-12,Thursday,October
 TXN_8692094,Coffee,5.0,2.0,10.0,,Takeaway,2023-08-30,Wednesday,August
 TXN_5307411,Cake,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-10-21,Saturday,October
 TXN_9703120,Coffee,3.0,2.0,6.0,Credit Card,,2023-11-02,Thursday,November
-TXN_1289133,Juice,1.0,3.0,3.0,Cash,UNKNOWN,2023-09-19,Tuesday,September
+TXN_1289133,Juice,1.0,3.0,3.0,Cash,Unknown location,2023-09-19,Tuesday,September
 TXN_2031459,Cake,3.0,3.0,9.0,Cash,Takeaway,2023-07-04,Tuesday,July
 TXN_1333682,Smoothie,1.0,4.0,4.0,Digital Wallet,,2023-01-28,Saturday,January
 TXN_2256622,Cookie,2.0,1.0,2.0,Cash,In-store,2023-10-04,Wednesday,October
@@ -276,7 +276,7 @@ TXN_1524626,Smoothie,2.0,4.0,8.0,Digital Wallet,,2023-12-29,Friday,December
 TXN_7275407,Smoothie,2.0,4.0,8.0,Digital Wallet,In-store,2023-10-20,Friday,October
 TXN_2889622,Juice,4.0,3.0,12.0,Credit Card,,2023-11-01,Wednesday,November
 TXN_9472241,Salad,3.0,5.0,15.0,Cash,Takeaway,2023-06-30,Friday,June
-TXN_7345414,Salad,1.0,5.0,5.0,,UNKNOWN,2023-02-15,Wednesday,February
+TXN_7345414,Salad,1.0,5.0,5.0,,Unknown location,2023-02-15,Wednesday,February
 TXN_2814363,Tea,2.0,1.5,3.0,,,2023-07-02,Sunday,July
 TXN_1846004,Juice,3.0,3.0,9.0,Cash,In-store,2023-05-21,Sunday,May
 TXN_7140471,Cake,1.0,3.0,3.0,Credit Card,,2023-05-25,Thursday,May
@@ -360,11 +360,11 @@ TXN_8209125,Cookie,3.0,1.0,3.0,Credit Card,Takeaway,2023-01-30,Monday,January
 TXN_1751164,Salad,2.0,5.0,10.0,Cash,,2023-09-11,Monday,September
 TXN_3730415,Cake,4.0,3.0,12.0,Credit Card,Takeaway,2023-04-09,Sunday,April
 TXN_4134253,Tea,4.0,1.5,6.0,Cash,In-store,2023-10-07,Saturday,October
-TXN_3256497,Coffee,2.0,2.0,4.0,Cash,UNKNOWN,2023-08-20,Sunday,August
+TXN_3256497,Coffee,2.0,2.0,4.0,Cash,Unknown location,2023-08-20,Sunday,August
 TXN_8763180,Smoothie,1.0,4.0,4.0,,Takeaway,2023-04-16,Sunday,April
 TXN_3219175,Sandwich,5.0,4.0,20.0,,ERROR,2023-02-23,Thursday,February
 TXN_6234872,Smoothie,1.0,4.0,4.0,,ERROR,2023-12-23,Saturday,December
-TXN_7919440,Tea,4.0,1.5,6.0,Cash,UNKNOWN,2023-08-19,Saturday,August
+TXN_7919440,Tea,4.0,1.5,6.0,Cash,Unknown location,2023-08-19,Saturday,August
 TXN_7558641,Coffee,1.0,2.0,2.0,Digital Wallet,In-store,2023-12-22,Friday,December
 TXN_9940220,Juice,2.0,3.0,6.0,,Takeaway,2023-03-05,Sunday,March
 TXN_8805984,Juice,2.0,3.0,6.0,Credit Card,Takeaway,,,
@@ -424,11 +424,11 @@ TXN_4696439,Cookie,1.0,1.0,1.0,Cash,In-store,2023-05-27,Saturday,May
 TXN_8826983,Smoothie,5.0,4.0,20.0,Cash,In-store,2023-01-14,Saturday,January
 TXN_8267034,Juice,2.0,3.0,6.0,,Takeaway,2023-06-20,Tuesday,June
 TXN_1959334,Coffee,3.0,2.0,6.0,,,2023-06-29,Thursday,June
-TXN_6842808,Tea,2.0,1.5,3.0,,UNKNOWN,2023-10-22,Sunday,October
+TXN_6842808,Tea,2.0,1.5,3.0,,Unknown location,2023-10-22,Sunday,October
 TXN_2947822,Cake,4.0,3.0,12.0,Digital Wallet,In-store,2023-10-27,Friday,October
-TXN_5531712,Tea,2.0,1.5,3.0,Cash,UNKNOWN,2023-01-09,Monday,January
+TXN_5531712,Tea,2.0,1.5,3.0,Cash,Unknown location,2023-01-09,Monday,January
 TXN_2148838,Sandwich,2.0,4.0,8.0,Credit Card,,2023-08-05,Saturday,August
-TXN_1330506,Cookie,3.0,1.0,3.0,Digital Wallet,UNKNOWN,2023-11-10,Friday,November
+TXN_1330506,Cookie,3.0,1.0,3.0,Digital Wallet,Unknown location,2023-11-10,Friday,November
 TXN_5898743,Juice,4.0,3.0,12.0,,Takeaway,,,
 TXN_8957369,Salad,4.0,5.0,20.0,Digital Wallet,,2023-10-18,Wednesday,October
 TXN_9340653,Smoothie,1.0,4.0,4.0,Digital Wallet,,2023-10-19,Thursday,October
@@ -455,7 +455,7 @@ TXN_3381656,Cake,5.0,3.0,15.0,Cash,Takeaway,2023-10-26,Thursday,October
 TXN_9956154,Cake,4.0,3.0,12.0,,In-store,2023-05-11,Thursday,May
 TXN_1183995,Salad,5.0,5.0,25.0,Digital Wallet,Takeaway,2023-03-28,Tuesday,March
 TXN_9113574,Coffee,4.0,2.0,8.0,,In-store,2023-01-04,Wednesday,January
-TXN_5813015,Cookie,5.0,1.0,5.0,Digital Wallet,UNKNOWN,2023-10-07,Saturday,October
+TXN_5813015,Cookie,5.0,1.0,5.0,Digital Wallet,Unknown location,2023-10-07,Saturday,October
 TXN_3213035,Smoothie,4.0,4.0,16.0,,In-store,2023-05-21,Sunday,May
 TXN_3789752,Juice,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-12-16,Saturday,December
 TXN_7578769,Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-01-30,Monday,January
@@ -495,19 +495,19 @@ TXN_1124753,Salad,4.0,5.0,20.0,Digital Wallet,In-store,2023-10-19,Thursday,Octob
 TXN_9410981,Cookie,2.0,1.0,2.0,,Takeaway,2023-02-07,Tuesday,February
 TXN_9349962,,4.0,4.0,16.0,,In-store,,,
 TXN_7611120,Juice,2.0,3.0,6.0,Cash,Takeaway,2023-03-30,Thursday,March
-TXN_2106959,Sandwich,5.0,4.0,20.0,Digital Wallet,UNKNOWN,2023-09-05,Tuesday,September
+TXN_2106959,Sandwich,5.0,4.0,20.0,Digital Wallet,Unknown location,2023-09-05,Tuesday,September
 TXN_2237115,Coffee,1.0,2.0,2.0,,Takeaway,2023-01-13,Friday,January
 TXN_6836137,Cake,4.0,3.0,12.0,,In-store,2023-08-30,Wednesday,August
 TXN_6316959,Tea,2.0,1.5,3.0,Cash,In-store,2023-11-10,Friday,November
 TXN_2265984,Cookie,5.0,1.0,5.0,Credit Card,Takeaway,2023-10-18,Wednesday,October
-TXN_6352917,Salad,5.0,5.0,25.0,Cash,UNKNOWN,2023-05-05,Friday,May
+TXN_6352917,Salad,5.0,5.0,25.0,Cash,Unknown location,2023-05-05,Friday,May
 TXN_9564123,Cake,4.0,3.0,12.0,Credit Card,,2023-03-23,Thursday,March
 TXN_3946544,Cake,5.0,3.0,15.0,Credit Card,,,,
 TXN_1123138,Salad,1.0,5.0,5.0,Cash,In-store,2023-02-10,Friday,February
 TXN_9212503,Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-10-08,Sunday,October
 TXN_6868049,Juice,5.0,3.0,15.0,Digital Wallet,,,,
 TXN_2806243,Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-01-14,Saturday,January
-TXN_9759896,Tea,4.0,1.5,6.0,,UNKNOWN,2023-12-02,Saturday,December
+TXN_9759896,Tea,4.0,1.5,6.0,,Unknown location,2023-12-02,Saturday,December
 TXN_7560807,Salad,2.0,5.0,10.0,Credit Card,,2023-04-16,Sunday,April
 TXN_3286932,Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-07-11,Tuesday,July
 TXN_3481470,Salad,4.0,5.0,20.0,Credit Card,In-store,2023-12-24,Sunday,December
@@ -532,7 +532,7 @@ TXN_8964812,Salad,4.0,5.0,20.0,Digital Wallet,,2023-10-14,Saturday,October
 TXN_6721531,Tea,4.0,1.5,6.0,,In-store,2023-03-06,Monday,March
 TXN_5447508,Sandwich,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-28,Wednesday,June
 TXN_5686113,Sandwich,5.0,4.0,20.0,Digital Wallet,In-store,2023-09-09,Saturday,September
-TXN_9239779,Salad,1.0,5.0,5.0,Cash,UNKNOWN,2023-01-09,Monday,January
+TXN_9239779,Salad,1.0,5.0,5.0,Cash,Unknown location,2023-01-09,Monday,January
 TXN_9265319,Salad,3.0,5.0,15.0,Cash,,2023-11-15,Wednesday,November
 TXN_9265313,Cake,3.0,3.0,9.0,,In-store,2023-10-01,Sunday,October
 TXN_3397609,Smoothie,2.0,4.0,8.0,Digital Wallet,In-store,2023-07-22,Saturday,July
@@ -579,7 +579,7 @@ TXN_1279428,Salad,1.0,5.0,5.0,Digital Wallet,,2023-03-02,Thursday,March
 TXN_9866728,Juice,1.0,3.0,3.0,Cash,In-store,2023-10-26,Thursday,October
 TXN_1706201,Coffee,3.0,2.0,6.0,Credit Card,In-store,2023-08-23,Wednesday,August
 TXN_2498488,Smoothie,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-12-06,Wednesday,December
-TXN_5387067,Salad,3.0,5.0,15.0,Credit Card,UNKNOWN,2023-06-11,Sunday,June
+TXN_5387067,Salad,3.0,5.0,15.0,Credit Card,Unknown location,2023-06-11,Sunday,June
 TXN_4431179,Sandwich,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-08-13,Sunday,August
 TXN_5051924,Tea,5.0,1.5,7.5,,,2023-05-23,Tuesday,May
 TXN_9033890,Salad,1.0,5.0,5.0,,Takeaway,2023-08-05,Saturday,August
@@ -599,13 +599,13 @@ TXN_7020671,Coffee,1.0,2.0,2.0,,ERROR,2023-09-01,Friday,September
 TXN_6581437,Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-10-23,Monday,October
 TXN_6128621,Salad,3.0,5.0,15.0,Digital Wallet,In-store,2023-11-10,Friday,November
 TXN_5758199,Coffee,4.0,2.0,8.0,Credit Card,,2023-06-11,Sunday,June
-TXN_3145041,Tea,5.0,1.5,7.5,,UNKNOWN,2023-09-23,Saturday,September
+TXN_3145041,Tea,5.0,1.5,7.5,,Unknown location,2023-09-23,Saturday,September
 TXN_9960577,Sandwich,1.0,4.0,4.0,Cash,,2023-06-24,Saturday,June
 TXN_1349738,Sandwich,3.0,4.0,12.0,Cash,ERROR,2023-03-26,Sunday,March
 TXN_4512118,Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-04-20,Thursday,April
 TXN_5763254,Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-09-15,Friday,September
 TXN_8167279,Salad,5.0,5.0,25.0,,In-store,,,
-TXN_8114990,Juice,1.0,3.0,3.0,,UNKNOWN,2023-02-27,Monday,February
+TXN_8114990,Juice,1.0,3.0,3.0,,Unknown location,2023-02-27,Monday,February
 TXN_4961655,Juice,5.0,3.0,15.0,Cash,Takeaway,2023-05-06,Saturday,May
 TXN_5595352,Juice,1.0,3.0,3.0,Cash,In-store,2023-02-20,Monday,February
 TXN_2004851,Salad,5.0,5.0,25.0,Credit Card,,,,
@@ -617,7 +617,7 @@ TXN_2611960,Sandwich,3.0,4.0,12.0,Credit Card,,2023-09-11,Monday,September
 TXN_7923140,Coffee,2.0,2.0,4.0,Digital Wallet,,2023-04-02,Sunday,April
 TXN_5229169,Juice,2.0,3.0,6.0,Credit Card,Takeaway,2023-09-08,Friday,September
 TXN_1018880,Smoothie,5.0,4.0,20.0,Digital Wallet,,2023-07-15,Saturday,July
-TXN_4074732,Salad,3.0,5.0,15.0,Credit Card,UNKNOWN,2023-04-09,Sunday,April
+TXN_4074732,Salad,3.0,5.0,15.0,Credit Card,Unknown location,2023-04-09,Sunday,April
 TXN_9409728,Tea,2.0,1.5,3.0,,In-store,2023-03-06,Monday,March
 TXN_5840223,Tea,4.0,1.5,6.0,Cash,,2023-12-20,Wednesday,December
 TXN_5576265,Smoothie,4.0,4.0,16.0,Credit Card,Takeaway,2023-04-08,Saturday,April
@@ -637,7 +637,7 @@ TXN_9263967,Cookie,3.0,1.0,3.0,Credit Card,In-store,2023-09-14,Thursday,Septembe
 TXN_6540946,Juice,4.0,3.0,12.0,Digital Wallet,,2023-10-08,Sunday,October
 TXN_2914088,Salad,5.0,5.0,25.0,Cash,In-store,2023-03-22,Wednesday,March
 TXN_6571898,Juice,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-02-02,Thursday,February
-TXN_4015710,Juice,4.0,3.0,12.0,Cash,UNKNOWN,2023-05-18,Thursday,May
+TXN_4015710,Juice,4.0,3.0,12.0,Cash,Unknown location,2023-05-18,Thursday,May
 TXN_2108486,Juice,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-12-28,Thursday,December
 TXN_5228270,Juice,3.0,3.0,9.0,,Takeaway,2023-04-12,Wednesday,April
 TXN_4387303,Cookie,1.0,1.0,1.0,,,2023-06-27,Tuesday,June
@@ -651,7 +651,7 @@ TXN_5315441,Smoothie,5.0,4.0,20.0,Digital Wallet,In-store,2023-10-31,Tuesday,Oct
 TXN_9196322,Cookie,4.0,1.0,4.0,Digital Wallet,In-store,2023-08-12,Saturday,August
 TXN_4009547,Juice,4.0,3.0,12.0,Credit Card,,2023-05-13,Saturday,May
 TXN_2109416,Sandwich,1.0,4.0,4.0,,In-store,2023-09-21,Thursday,September
-TXN_1063366,Juice,3.0,3.0,9.0,,UNKNOWN,2023-03-20,Monday,March
+TXN_1063366,Juice,3.0,3.0,9.0,,Unknown location,2023-03-20,Monday,March
 TXN_2393500,Juice,1.0,3.0,3.0,Credit Card,In-store,2023-12-15,Friday,December
 TXN_9738758,Coffee,1.0,2.0,2.0,Cash,In-store,2023-12-31,Sunday,December
 TXN_7838465,Sandwich,3.0,4.0,12.0,Credit Card,Takeaway,2023-06-15,Thursday,June
@@ -678,7 +678,7 @@ TXN_8066743,Tea,3.0,1.5,4.5,Cash,Takeaway,2023-11-13,Monday,November
 TXN_6376175,Juice,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-02-24,Friday,February
 TXN_9840274,Sandwich,5.0,4.0,20.0,,Takeaway,2023-02-25,Saturday,February
 TXN_7982985,Cookie,1.0,1.0,1.0,Credit Card,,2023-01-27,Friday,January
-TXN_2855581,Coffee,4.0,2.0,8.0,Credit Card,UNKNOWN,2023-10-23,Monday,October
+TXN_2855581,Coffee,4.0,2.0,8.0,Credit Card,Unknown location,2023-10-23,Monday,October
 TXN_7585348,Cake,3.0,3.0,9.0,Credit Card,Takeaway,2023-03-16,Thursday,March
 TXN_4005014,Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-07-10,Monday,July
 TXN_4478185,Cake,2.0,3.0,6.0,Cash,In-store,2023-08-25,Friday,August
@@ -689,7 +689,7 @@ TXN_1026827,Cookie,4.0,1.0,4.0,Digital Wallet,In-store,2023-01-02,Monday,January
 TXN_7269513,Salad,3.0,5.0,15.0,Cash,,2023-05-12,Friday,May
 TXN_5134545,Tea,5.0,1.5,7.5,Digital Wallet,,2023-10-17,Tuesday,October
 TXN_7997144,Juice,4.0,3.0,12.0,Credit Card,,2023-02-25,Saturday,February
-TXN_7315198,Salad,2.0,5.0,10.0,,UNKNOWN,2023-09-23,Saturday,September
+TXN_7315198,Salad,2.0,5.0,10.0,,Unknown location,2023-09-23,Saturday,September
 TXN_4339682,Salad,5.0,5.0,25.0,,In-store,2023-03-04,Saturday,March
 TXN_3363831,Juice,3.0,3.0,9.0,Digital Wallet,,2023-05-10,Wednesday,May
 TXN_5369555,Juice,4.0,3.0,12.0,Cash,Takeaway,2023-02-24,Friday,February
@@ -704,7 +704,7 @@ TXN_4634772,Juice,3.0,3.0,9.0,Credit Card,In-store,2023-01-12,Thursday,January
 TXN_3519066,Cake,1.0,3.0,3.0,,Takeaway,2023-11-08,Wednesday,November
 TXN_8034156,Sandwich,1.0,4.0,4.0,Cash,In-store,2023-07-22,Saturday,July
 TXN_2163229,Cookie,4.0,1.0,4.0,Cash,Takeaway,2023-12-21,Thursday,December
-TXN_4109764,Juice,3.0,3.0,9.0,Credit Card,UNKNOWN,2023-07-12,Wednesday,July
+TXN_4109764,Juice,3.0,3.0,9.0,Credit Card,Unknown location,2023-07-12,Wednesday,July
 TXN_1343750,Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,2023-02-15,Wednesday,February
 TXN_6387964,Tea,5.0,1.5,7.5,Digital Wallet,,2023-08-07,Monday,August
 TXN_2743397,Cake,2.0,3.0,6.0,Digital Wallet,,2023-10-03,Tuesday,October
@@ -713,7 +713,7 @@ TXN_9392028,Salad,5.0,5.0,25.0,Credit Card,In-store,2023-01-13,Friday,January
 TXN_3547825,Cookie,3.0,1.0,3.0,,Takeaway,2023-09-04,Monday,September
 TXN_9101792,Coffee,5.0,2.0,10.0,Cash,,2023-06-13,Tuesday,June
 TXN_3463928,Tea,4.0,1.5,6.0,Credit Card,In-store,2023-06-07,Wednesday,June
-TXN_8503406,Smoothie,2.0,4.0,8.0,Digital Wallet,UNKNOWN,2023-02-15,Wednesday,February
+TXN_8503406,Smoothie,2.0,4.0,8.0,Digital Wallet,Unknown location,2023-02-15,Wednesday,February
 TXN_1992966,Smoothie,5.0,4.0,20.0,,In-store,2023-08-09,Wednesday,August
 TXN_2179458,,1.0,3.0,3.0,Cash,In-store,2023-10-23,Monday,October
 TXN_1964555,Smoothie,2.0,4.0,8.0,Digital Wallet,,2023-04-11,Tuesday,April
@@ -748,7 +748,7 @@ TXN_2391446,Sandwich,3.0,4.0,12.0,,In-store,2023-12-06,Wednesday,December
 TXN_2826603,Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-22,Thursday,June
 TXN_3760598,Cake,3.0,3.0,9.0,Digital Wallet,In-store,2023-10-24,Tuesday,October
 TXN_7679707,Tea,1.0,1.5,1.5,Credit Card,In-store,2023-07-22,Saturday,July
-TXN_3831364,Tea,1.0,1.5,1.5,Digital Wallet,UNKNOWN,2023-03-03,Friday,March
+TXN_3831364,Tea,1.0,1.5,1.5,Digital Wallet,Unknown location,2023-03-03,Friday,March
 TXN_5038513,Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,2023-10-24,Tuesday,October
 TXN_5007619,Cake,5.0,3.0,15.0,Credit Card,In-store,2023-07-05,Wednesday,July
 TXN_5124870,Tea,1.0,1.5,1.5,Digital Wallet,,2023-08-11,Friday,August
@@ -817,7 +817,7 @@ TXN_5348445,Salad,5.0,5.0,25.0,Digital Wallet,In-store,2023-11-15,Wednesday,Nove
 TXN_8920751,Tea,2.0,1.5,3.0,,,2023-04-20,Thursday,April
 TXN_7215985,Tea,4.0,1.5,6.0,Credit Card,In-store,2023-08-07,Monday,August
 TXN_7448296,Cookie,1.0,1.0,1.0,Credit Card,In-store,2023-11-15,Wednesday,November
-TXN_2625324,Coffee,1.0,2.0,2.0,,UNKNOWN,2023-09-02,Saturday,September
+TXN_2625324,Coffee,1.0,2.0,2.0,,Unknown location,2023-09-02,Saturday,September
 TXN_1494608,Tea,3.0,1.5,4.5,Credit Card,In-store,2023-05-07,Sunday,May
 TXN_7615147,Sandwich,4.0,4.0,16.0,Cash,In-store,2023-05-19,Friday,May
 TXN_3426892,Salad,4.0,5.0,20.0,Credit Card,,2023-05-23,Tuesday,May
@@ -830,12 +830,12 @@ TXN_7223120,Juice,1.0,3.0,3.0,,,2023-03-13,Monday,March
 TXN_1991104,Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-11-29,Wednesday,November
 TXN_3380698,Coffee,3.0,2.0,6.0,Credit Card,Takeaway,2023-12-15,Friday,December
 TXN_9084554,,4.0,4.0,16.0,Credit Card,In-store,2023-06-08,Thursday,June
-TXN_2996948,Smoothie,3.0,4.0,12.0,,UNKNOWN,2023-06-25,Sunday,June
-TXN_1148945,Coffee,1.0,2.0,2.0,,UNKNOWN,2023-09-05,Tuesday,September
+TXN_2996948,Smoothie,3.0,4.0,12.0,,Unknown location,2023-06-25,Sunday,June
+TXN_1148945,Coffee,1.0,2.0,2.0,,Unknown location,2023-09-05,Tuesday,September
 TXN_2078577,Tea,4.0,1.5,6.0,Credit Card,,2023-01-31,Tuesday,January
 TXN_4007285,Sandwich,5.0,4.0,20.0,Digital Wallet,,2023-01-16,Monday,January
 TXN_1512118,Salad,4.0,5.0,20.0,Cash,In-store,2023-03-01,Wednesday,March
-TXN_6077816,Cake,3.0,3.0,9.0,Credit Card,UNKNOWN,2023-09-26,Tuesday,September
+TXN_6077816,Cake,3.0,3.0,9.0,Credit Card,Unknown location,2023-09-26,Tuesday,September
 TXN_5136936,Cake,3.0,3.0,9.0,Cash,,2023-08-24,Thursday,August
 TXN_8623443,Salad,3.0,5.0,15.0,Credit Card,In-store,2023-09-04,Monday,September
 TXN_5654490,Tea,4.0,1.5,6.0,Credit Card,,2023-05-22,Monday,May
@@ -843,7 +843,7 @@ TXN_4033888,Sandwich,2.0,4.0,8.0,Cash,In-store,2023-02-04,Saturday,February
 TXN_4591512,Tea,2.0,1.5,3.0,,,2023-08-11,Friday,August
 TXN_6886495,Cookie,4.0,1.0,4.0,Cash,,2023-08-07,Monday,August
 TXN_9218683,Cake,2.0,3.0,6.0,Digital Wallet,In-store,,,
-TXN_2153529,Cookie,1.0,1.0,1.0,Credit Card,UNKNOWN,2023-09-11,Monday,September
+TXN_2153529,Cookie,1.0,1.0,1.0,Credit Card,Unknown location,2023-09-11,Monday,September
 TXN_7880148,Cake,3.0,3.0,9.0,Credit Card,Takeaway,2023-12-12,Tuesday,December
 TXN_3688181,Cake,1.0,3.0,3.0,,Takeaway,2023-08-23,Wednesday,August
 TXN_2482129,Juice,1.0,3.0,3.0,Cash,ERROR,2023-12-12,Tuesday,December
@@ -881,7 +881,7 @@ TXN_6428593,Tea,5.0,1.5,7.5,,,2023-09-06,Wednesday,September
 TXN_8780340,Cake,5.0,3.0,15.0,Credit Card,,2023-08-29,Tuesday,August
 TXN_3963927,Sandwich,4.0,4.0,16.0,Credit Card,In-store,2023-01-03,Tuesday,January
 TXN_2906443,Cake,4.0,3.0,12.0,,,2023-08-14,Monday,August
-TXN_2660295,Cookie,3.0,1.0,3.0,,UNKNOWN,2023-12-06,Wednesday,December
+TXN_2660295,Cookie,3.0,1.0,3.0,,Unknown location,2023-12-06,Wednesday,December
 TXN_7023528,Tea,5.0,1.5,7.5,Cash,In-store,2023-10-28,Saturday,October
 TXN_5419862,Juice,5.0,3.0,15.0,Digital Wallet,,2023-05-29,Monday,May
 TXN_9124680,Cookie,2.0,1.0,2.0,Cash,Takeaway,2023-10-03,Tuesday,October
@@ -890,13 +890,13 @@ TXN_3516263,Cake,2.0,3.0,6.0,Digital Wallet,In-store,2023-09-23,Saturday,Septemb
 TXN_1591640,Cake,2.0,3.0,6.0,Cash,In-store,2023-05-26,Friday,May
 TXN_9358958,Smoothie,1.0,4.0,4.0,,Takeaway,2023-05-08,Monday,May
 TXN_3008336,,5.0,4.0,20.0,Credit Card,,2023-07-27,Thursday,July
-TXN_7401710,Sandwich,5.0,4.0,20.0,Cash,UNKNOWN,2023-10-24,Tuesday,October
+TXN_7401710,Sandwich,5.0,4.0,20.0,Cash,Unknown location,2023-10-24,Tuesday,October
 TXN_2176727,Tea,1.0,1.5,1.5,,Takeaway,2023-07-26,Wednesday,July
 TXN_5595717,Juice,2.0,3.0,6.0,,,2023-06-16,Friday,June
 TXN_1697018,Juice,4.0,3.0,12.0,Digital Wallet,In-store,2023-07-02,Sunday,July
 TXN_1910957,Tea,5.0,1.5,7.5,,Takeaway,2023-07-25,Tuesday,July
 TXN_2667225,Salad,2.0,5.0,10.0,Cash,In-store,2023-11-21,Tuesday,November
-TXN_3152531,Coffee,3.0,2.0,6.0,Credit Card,UNKNOWN,2023-11-24,Friday,November
+TXN_3152531,Coffee,3.0,2.0,6.0,Credit Card,Unknown location,2023-11-24,Friday,November
 TXN_5033045,Salad,3.0,5.0,15.0,Digital Wallet,,2023-04-21,Friday,April
 TXN_9159212,Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-01-12,Thursday,January
 TXN_6881523,Juice,5.0,3.0,15.0,,Takeaway,2023-02-24,Friday,February
@@ -904,7 +904,7 @@ TXN_3282436,Salad,5.0,5.0,25.0,Credit Card,In-store,2023-12-14,Thursday,December
 TXN_4206256,Smoothie,3.0,4.0,12.0,,ERROR,2023-10-10,Tuesday,October
 TXN_8465274,Cake,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-02-01,Wednesday,February
 TXN_8330446,Smoothie,3.0,4.0,12.0,Credit Card,In-store,2023-08-06,Sunday,August
-TXN_1282260,Sandwich,5.0,4.0,20.0,Digital Wallet,UNKNOWN,2023-07-21,Friday,July
+TXN_1282260,Sandwich,5.0,4.0,20.0,Digital Wallet,Unknown location,2023-07-21,Friday,July
 TXN_9769410,Salad,1.0,5.0,5.0,Cash,In-store,2023-07-22,Saturday,July
 TXN_7482583,Tea,5.0,1.5,7.5,Credit Card,,,,
 TXN_3865224,Coffee,3.0,2.0,6.0,,,2023-07-25,Tuesday,July
@@ -927,7 +927,7 @@ TXN_1803889,Salad,4.0,5.0,20.0,,,2023-06-23,Friday,June
 TXN_6829707,Sandwich,1.0,4.0,4.0,Cash,Takeaway,2023-08-17,Thursday,August
 TXN_7303706,Coffee,2.0,2.0,4.0,Cash,In-store,2023-12-14,Thursday,December
 TXN_1730647,Juice,5.0,3.0,15.0,Digital Wallet,In-store,2023-01-18,Wednesday,January
-TXN_9691018,Sandwich,2.0,4.0,8.0,Digital Wallet,UNKNOWN,2023-07-21,Friday,July
+TXN_9691018,Sandwich,2.0,4.0,8.0,Digital Wallet,Unknown location,2023-07-21,Friday,July
 TXN_5480564,Salad,3.0,5.0,15.0,Digital Wallet,,2023-05-28,Sunday,May
 TXN_9138791,Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-03-22,Wednesday,March
 TXN_2367947,Smoothie,5.0,4.0,20.0,,Takeaway,2023-05-13,Saturday,May
@@ -948,7 +948,7 @@ TXN_1235969,Cookie,1.0,1.0,1.0,Digital Wallet,,2023-07-08,Saturday,July
 TXN_4240796,Juice,4.0,3.0,12.0,,,2023-03-28,Tuesday,March
 TXN_3736798,Coffee,4.0,2.0,8.0,Digital Wallet,In-store,2023-07-01,Saturday,July
 TXN_9102030,Smoothie,4.0,4.0,16.0,Digital Wallet,In-store,,,
-TXN_8118419,Cake,3.0,3.0,9.0,,UNKNOWN,2023-12-03,Sunday,December
+TXN_8118419,Cake,3.0,3.0,9.0,,Unknown location,2023-12-03,Sunday,December
 TXN_3089814,Cake,5.0,3.0,15.0,Digital Wallet,,2023-03-25,Saturday,March
 TXN_6719521,Salad,5.0,5.0,25.0,Cash,In-store,2023-08-03,Thursday,August
 TXN_6530795,Cookie,1.0,1.0,1.0,Credit Card,,2023-04-30,Sunday,April
@@ -1041,12 +1041,12 @@ TXN_4988665,Cake,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-12-16,Saturday,Decembe
 TXN_7740907,Smoothie,5.0,4.0,20.0,,In-store,2023-02-11,Saturday,February
 TXN_9596100,,4.0,3.0,12.0,Cash,Takeaway,2023-05-04,Thursday,May
 TXN_5019407,Juice,4.0,3.0,12.0,Credit Card,,2023-04-17,Monday,April
-TXN_2482363,Tea,3.0,1.5,4.5,Cash,UNKNOWN,2023-08-06,Sunday,August
+TXN_2482363,Tea,3.0,1.5,4.5,Cash,Unknown location,2023-08-06,Sunday,August
 TXN_5412834,Smoothie,4.0,4.0,16.0,Cash,Takeaway,2023-07-13,Thursday,July
 TXN_1389258,Salad,1.0,5.0,5.0,Cash,Takeaway,2023-12-31,Sunday,December
 TXN_3223187,Coffee,2.0,2.0,4.0,Credit Card,,2023-08-21,Monday,August
 TXN_9288207,Cake,4.0,3.0,12.0,,Takeaway,2023-05-16,Tuesday,May
-TXN_8300706,Salad,2.0,5.0,10.0,Digital Wallet,UNKNOWN,2023-12-23,Saturday,December
+TXN_8300706,Salad,2.0,5.0,10.0,Digital Wallet,Unknown location,2023-12-23,Saturday,December
 TXN_8076559,Cake,5.0,3.0,15.0,Cash,Takeaway,2023-11-02,Thursday,November
 TXN_4310310,Cake,3.0,3.0,9.0,Cash,Takeaway,2023-03-08,Wednesday,March
 TXN_5301689,Cake,5.0,3.0,15.0,,In-store,2023-04-11,Tuesday,April
@@ -1062,7 +1062,7 @@ TXN_4258949,Cake,2.0,3.0,6.0,,,2023-03-07,Tuesday,March
 TXN_6129205,Sandwich,5.0,4.0,20.0,Cash,In-store,2023-07-20,Thursday,July
 TXN_3444519,Cookie,4.0,1.0,4.0,,Takeaway,2023-03-10,Friday,March
 TXN_6813508,Salad,1.0,5.0,5.0,Cash,,2023-10-26,Thursday,October
-TXN_5540986,Cake,3.0,3.0,9.0,,UNKNOWN,2023-05-12,Friday,May
+TXN_5540986,Cake,3.0,3.0,9.0,,Unknown location,2023-05-12,Friday,May
 TXN_4832513,Cookie,5.0,1.0,5.0,Credit Card,In-store,2023-06-05,Monday,June
 TXN_6202035,Tea,2.0,1.5,3.0,,In-store,2023-09-06,Wednesday,September
 TXN_4108120,Coffee,2.0,2.0,4.0,,In-store,2023-06-14,Wednesday,June
@@ -1075,7 +1075,7 @@ TXN_9469533,Cookie,4.0,1.0,4.0,Cash,,2023-05-22,Monday,May
 TXN_6492919,Juice,3.0,3.0,9.0,Digital Wallet,,2023-09-24,Sunday,September
 TXN_4356223,Salad,3.0,5.0,15.0,Digital Wallet,Takeaway,2023-11-23,Thursday,November
 TXN_7515082,Coffee,2.0,2.0,4.0,,In-store,2023-10-21,Saturday,October
-TXN_7216161,Tea,4.0,1.5,6.0,Credit Card,UNKNOWN,2023-07-06,Thursday,July
+TXN_7216161,Tea,4.0,1.5,6.0,Credit Card,Unknown location,2023-07-06,Thursday,July
 TXN_2426782,Coffee,2.0,2.0,4.0,Credit Card,In-store,2023-11-04,Saturday,November
 TXN_3484520,Juice,3.0,3.0,9.0,Credit Card,,2023-08-15,Tuesday,August
 TXN_2806515,Smoothie,4.0,4.0,16.0,,In-store,2023-12-31,Sunday,December
@@ -1096,7 +1096,7 @@ TXN_8930109,Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-05-17,Wednesday,May
 TXN_9799798,Coffee,5.0,2.0,10.0,Credit Card,Takeaway,2023-05-23,Tuesday,May
 TXN_8831813,Smoothie,5.0,4.0,20.0,,,2023-11-23,Thursday,November
 TXN_5067373,Cookie,3.0,1.0,3.0,Cash,ERROR,2023-10-18,Wednesday,October
-TXN_5755839,Sandwich,3.0,4.0,12.0,Credit Card,UNKNOWN,2023-12-19,Tuesday,December
+TXN_5755839,Sandwich,3.0,4.0,12.0,Credit Card,Unknown location,2023-12-19,Tuesday,December
 TXN_1681153,Juice,3.0,3.0,9.0,Cash,Takeaway,2023-02-09,Thursday,February
 TXN_4255503,Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-11-19,Sunday,November
 TXN_2385697,Coffee,1.0,2.0,2.0,Cash,Takeaway,2023-09-10,Sunday,September
@@ -1109,7 +1109,7 @@ TXN_7391267,Cake,3.0,3.0,9.0,Digital Wallet,In-store,2023-12-07,Thursday,Decembe
 TXN_1388606,Cake,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-08-31,Thursday,August
 TXN_2336857,Cake,3.0,3.0,9.0,Cash,In-store,2023-08-02,Wednesday,August
 TXN_9526867,Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,2023-10-21,Saturday,October
-TXN_4427348,Cake,5.0,3.0,15.0,Cash,UNKNOWN,2023-12-22,Friday,December
+TXN_4427348,Cake,5.0,3.0,15.0,Cash,Unknown location,2023-12-22,Friday,December
 TXN_5901180,Cookie,3.0,1.0,3.0,Digital Wallet,,2023-12-20,Wednesday,December
 TXN_4932018,,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-08-23,Wednesday,August
 TXN_3224921,Sandwich,5.0,4.0,20.0,,In-store,2023-04-06,Thursday,April
@@ -1136,7 +1136,7 @@ TXN_4472156,Cookie,1.0,1.0,1.0,,In-store,2023-11-03,Friday,November
 TXN_9121852,Cookie,1.0,1.0,1.0,Credit Card,,,,
 TXN_7043825,Juice,2.0,3.0,6.0,Cash,Takeaway,2023-02-07,Tuesday,February
 TXN_2195630,Sandwich,5.0,4.0,20.0,Credit Card,Takeaway,2023-03-09,Thursday,March
-TXN_2539318,Sandwich,4.0,4.0,16.0,Digital Wallet,UNKNOWN,2023-01-15,Sunday,January
+TXN_2539318,Sandwich,4.0,4.0,16.0,Digital Wallet,Unknown location,2023-01-15,Sunday,January
 TXN_5788769,Juice,1.0,3.0,3.0,Cash,In-store,2023-07-19,Wednesday,July
 TXN_3628056,Cake,4.0,3.0,12.0,Cash,In-store,2023-07-09,Sunday,July
 TXN_5735731,Smoothie,2.0,4.0,8.0,Credit Card,,2023-01-22,Sunday,January
@@ -1177,7 +1177,7 @@ TXN_8115752,Smoothie,2.0,4.0,8.0,Digital Wallet,ERROR,2023-06-27,Tuesday,June
 TXN_9253398,Sandwich,2.0,4.0,8.0,,Takeaway,2023-12-14,Thursday,December
 TXN_3116227,Cake,1.0,3.0,3.0,Digital Wallet,,2023-05-30,Tuesday,May
 TXN_2494138,Cookie,3.0,1.0,3.0,Cash,,2023-01-10,Tuesday,January
-TXN_4889269,Cake,2.0,3.0,6.0,Cash,UNKNOWN,2023-02-19,Sunday,February
+TXN_4889269,Cake,2.0,3.0,6.0,Cash,Unknown location,2023-02-19,Sunday,February
 TXN_6105240,Juice,5.0,3.0,15.0,,In-store,2023-11-27,Monday,November
 TXN_8808162,Smoothie,4.0,4.0,16.0,Digital Wallet,ERROR,2023-05-07,Sunday,May
 TXN_4548466,Tea,4.0,1.5,6.0,Credit Card,Takeaway,2023-11-30,Thursday,November
@@ -1196,20 +1196,20 @@ TXN_9201212,Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-08,Thursday,Ju
 TXN_7752454,Cake,3.0,3.0,9.0,,,,,
 TXN_7055260,Sandwich,4.0,4.0,16.0,Digital Wallet,In-store,2023-06-20,Tuesday,June
 TXN_4773465,Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-11-28,Tuesday,November
-TXN_9087344,Tea,5.0,1.5,7.5,Cash,UNKNOWN,2023-07-29,Saturday,July
+TXN_9087344,Tea,5.0,1.5,7.5,Cash,Unknown location,2023-07-29,Saturday,July
 TXN_1757340,Cake,2.0,3.0,6.0,Credit Card,In-store,2023-12-29,Friday,December
 TXN_9975321,Salad,2.0,5.0,10.0,Digital Wallet,ERROR,2023-03-25,Saturday,March
 TXN_8148137,Tea,1.0,1.5,1.5,,In-store,,,
 TXN_3835043,Juice,2.0,3.0,6.0,Cash,,2023-12-29,Friday,December
 TXN_8366002,Sandwich,2.0,4.0,8.0,Credit Card,,2023-12-26,Tuesday,December
 TXN_9390740,Cake,2.0,3.0,6.0,Cash,In-store,2023-12-06,Wednesday,December
-TXN_4928254,Cake,1.0,3.0,3.0,Credit Card,UNKNOWN,2023-12-22,Friday,December
+TXN_4928254,Cake,1.0,3.0,3.0,Credit Card,Unknown location,2023-12-22,Friday,December
 TXN_7531745,Cake,2.0,3.0,6.0,Cash,,2023-06-23,Friday,June
 TXN_1082421,Salad,1.0,5.0,5.0,Digital Wallet,In-store,2023-12-19,Tuesday,December
 TXN_2148444,Juice,2.0,3.0,6.0,Cash,,2023-11-27,Monday,November
 TXN_1494502,Salad,5.0,5.0,25.0,Digital Wallet,ERROR,,,
 TXN_9277146,Cake,5.0,3.0,15.0,Credit Card,,2023-07-11,Tuesday,July
-TXN_9333347,Smoothie,5.0,4.0,20.0,Cash,UNKNOWN,2023-09-10,Sunday,September
+TXN_9333347,Smoothie,5.0,4.0,20.0,Cash,Unknown location,2023-09-10,Sunday,September
 TXN_9127105,Juice,3.0,3.0,9.0,Cash,,2023-03-04,Saturday,March
 TXN_1417724,Sandwich,2.0,4.0,8.0,Digital Wallet,,2023-06-07,Wednesday,June
 TXN_6451377,Salad,5.0,5.0,25.0,Credit Card,Takeaway,2023-03-19,Sunday,March
@@ -1224,7 +1224,7 @@ TXN_7692628,Tea,2.0,1.5,3.0,Cash,,2023-05-01,Monday,May
 TXN_6731518,Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-12-04,Monday,December
 TXN_3455702,Salad,1.0,5.0,5.0,Cash,Takeaway,2023-03-23,Thursday,March
 TXN_7794561,Juice,4.0,3.0,12.0,Credit Card,In-store,2023-05-18,Thursday,May
-TXN_8908193,Smoothie,5.0,4.0,20.0,Cash,UNKNOWN,2023-04-02,Sunday,April
+TXN_8908193,Smoothie,5.0,4.0,20.0,Cash,Unknown location,2023-04-02,Sunday,April
 TXN_7688625,Coffee,1.0,2.0,2.0,Credit Card,In-store,2023-12-15,Friday,December
 TXN_8831924,Coffee,3.0,2.0,6.0,Digital Wallet,In-store,2023-07-12,Wednesday,July
 TXN_2865104,Cake,5.0,3.0,15.0,,In-store,2023-03-12,Sunday,March
@@ -1266,7 +1266,7 @@ TXN_3488611,Tea,1.0,1.5,1.5,Cash,,2023-02-13,Monday,February
 TXN_3109334,Smoothie,3.0,4.0,12.0,,In-store,2023-04-06,Thursday,April
 TXN_9425645,Cake,3.0,3.0,9.0,Credit Card,Takeaway,2023-03-19,Sunday,March
 TXN_2461238,Coffee,1.0,2.0,2.0,,Takeaway,2023-01-29,Sunday,January
-TXN_4692976,Juice,1.0,3.0,3.0,Digital Wallet,UNKNOWN,2023-11-06,Monday,November
+TXN_4692976,Juice,1.0,3.0,3.0,Digital Wallet,Unknown location,2023-11-06,Monday,November
 TXN_6747376,Smoothie,3.0,4.0,12.0,Digital Wallet,In-store,2023-11-20,Monday,November
 TXN_3689335,Juice,1.0,3.0,3.0,,Takeaway,2023-12-11,Monday,December
 TXN_9662568,Tea,5.0,1.5,7.5,Cash,ERROR,2023-10-30,Monday,October
@@ -1274,7 +1274,7 @@ TXN_5470087,Salad,2.0,5.0,10.0,,Takeaway,2023-10-11,Wednesday,October
 TXN_3717372,Juice,2.0,3.0,6.0,Credit Card,ERROR,2023-02-15,Wednesday,February
 TXN_6727985,Salad,5.0,5.0,25.0,Credit Card,In-store,2023-06-16,Friday,June
 TXN_1755661,Salad,5.0,5.0,25.0,,In-store,2023-07-14,Friday,July
-TXN_5692316,Smoothie,1.0,4.0,4.0,Digital Wallet,UNKNOWN,2023-06-22,Thursday,June
+TXN_5692316,Smoothie,1.0,4.0,4.0,Digital Wallet,Unknown location,2023-06-22,Thursday,June
 TXN_2062269,Juice,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-09-08,Friday,September
 TXN_2160316,Sandwich,1.0,4.0,4.0,,In-store,2023-10-24,Tuesday,October
 TXN_4220743,Sandwich,4.0,4.0,16.0,,In-store,2023-10-22,Sunday,October
@@ -1315,7 +1315,7 @@ TXN_3326110,Coffee,2.0,2.0,4.0,Credit Card,Takeaway,2023-08-13,Sunday,August
 TXN_5455079,Salad,2.0,5.0,10.0,Cash,In-store,2023-11-30,Thursday,November
 TXN_5526475,Tea,4.0,1.5,6.0,Cash,In-store,2023-05-06,Saturday,May
 TXN_3800253,Cake,2.0,3.0,6.0,Cash,Takeaway,2023-01-15,Sunday,January
-TXN_2091128,Cake,1.0,3.0,3.0,Credit Card,UNKNOWN,,,
+TXN_2091128,Cake,1.0,3.0,3.0,Credit Card,Unknown location,,,
 TXN_9169782,Juice,5.0,3.0,15.0,Credit Card,,2023-09-18,Monday,September
 TXN_4639621,Coffee,2.0,2.0,4.0,,In-store,2023-10-12,Thursday,October
 TXN_4432823,,5.0,4.0,20.0,,In-store,2023-02-10,Friday,February
@@ -1351,7 +1351,7 @@ TXN_2493262,Cookie,2.0,1.0,2.0,Credit Card,Takeaway,2023-01-03,Tuesday,January
 TXN_3257591,Sandwich,1.0,4.0,4.0,Credit Card,In-store,,,
 TXN_6038791,Juice,2.0,3.0,6.0,Digital Wallet,In-store,2023-03-06,Monday,March
 TXN_1335337,Tea,3.0,1.5,4.5,Credit Card,In-store,2023-09-06,Wednesday,September
-TXN_6258276,Sandwich,5.0,4.0,20.0,Credit Card,UNKNOWN,2023-01-29,Sunday,January
+TXN_6258276,Sandwich,5.0,4.0,20.0,Credit Card,Unknown location,2023-01-29,Sunday,January
 TXN_6066433,Tea,2.0,1.5,3.0,Cash,,2023-06-17,Saturday,June
 TXN_1872922,Sandwich,5.0,4.0,20.0,,In-store,2023-07-16,Sunday,July
 TXN_7730388,Cookie,5.0,1.0,5.0,Digital Wallet,In-store,2023-09-09,Saturday,September
@@ -1368,7 +1368,7 @@ TXN_3450160,Cake,4.0,3.0,12.0,Credit Card,In-store,2023-10-23,Monday,October
 TXN_4075432,Sandwich,5.0,4.0,20.0,Cash,In-store,2023-09-12,Tuesday,September
 TXN_2023802,Cake,2.0,3.0,6.0,Cash,In-store,2023-02-28,Tuesday,February
 TXN_5130399,Cookie,3.0,1.0,3.0,,,2023-10-21,Saturday,October
-TXN_6745832,Coffee,2.0,2.0,4.0,Credit Card,UNKNOWN,2023-10-02,Monday,October
+TXN_6745832,Coffee,2.0,2.0,4.0,Credit Card,Unknown location,2023-10-02,Monday,October
 TXN_7560989,Sandwich,3.0,4.0,12.0,Digital Wallet,,2023-06-16,Friday,June
 TXN_9367492,Tea,2.0,1.5,3.0,Cash,In-store,2023-06-19,Monday,June
 TXN_3115258,Salad,1.0,5.0,5.0,,Takeaway,2023-12-06,Wednesday,December
@@ -1383,7 +1383,7 @@ TXN_6188394,Juice,5.0,3.0,15.0,Credit Card,In-store,2023-10-05,Thursday,October
 TXN_2553803,Juice,1.0,3.0,3.0,Cash,In-store,2023-12-29,Friday,December
 TXN_5700545,Salad,2.0,5.0,10.0,Credit Card,,2023-05-25,Thursday,May
 TXN_8018479,Tea,1.0,1.5,1.5,Digital Wallet,Takeaway,2023-09-15,Friday,September
-TXN_9465300,Tea,2.0,1.5,3.0,Credit Card,UNKNOWN,2023-09-01,Friday,September
+TXN_9465300,Tea,2.0,1.5,3.0,Credit Card,Unknown location,2023-09-01,Friday,September
 TXN_3046108,Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-01-15,Sunday,January
 TXN_5998419,Juice,4.0,3.0,12.0,,Takeaway,2023-09-26,Tuesday,September
 TXN_4454198,Tea,1.0,1.5,1.5,Digital Wallet,In-store,2023-08-22,Tuesday,August
@@ -1407,7 +1407,7 @@ TXN_5085328,Coffee,4.0,2.0,8.0,Digital Wallet,Takeaway,2023-02-03,Friday,Februar
 TXN_6023823,Cookie,2.0,1.0,2.0,Digital Wallet,,2023-04-20,Thursday,April
 TXN_6541659,Sandwich,3.0,4.0,12.0,,Takeaway,2023-01-29,Sunday,January
 TXN_3203928,Coffee,3.0,2.0,6.0,,In-store,2023-12-04,Monday,December
-TXN_3443235,Sandwich,5.0,4.0,20.0,,UNKNOWN,2023-10-11,Wednesday,October
+TXN_3443235,Sandwich,5.0,4.0,20.0,,Unknown location,2023-10-11,Wednesday,October
 TXN_6191769,Salad,1.0,5.0,5.0,Credit Card,Takeaway,2023-05-17,Wednesday,May
 TXN_6110386,Smoothie,1.0,4.0,4.0,Cash,In-store,2023-03-17,Friday,March
 TXN_7355635,Juice,3.0,3.0,9.0,,In-store,2023-12-21,Thursday,December
@@ -1431,7 +1431,7 @@ TXN_6987950,Cake,4.0,3.0,12.0,Credit Card,,2023-05-04,Thursday,May
 TXN_9967728,Coffee,4.0,2.0,8.0,,,2023-01-30,Monday,January
 TXN_5591967,Sandwich,1.0,4.0,4.0,Credit Card,Takeaway,2023-04-08,Saturday,April
 TXN_5861158,Sandwich,3.0,4.0,12.0,Credit Card,Takeaway,2023-11-21,Tuesday,November
-TXN_7501002,Coffee,1.0,2.0,2.0,Digital Wallet,UNKNOWN,2023-08-23,Wednesday,August
+TXN_7501002,Coffee,1.0,2.0,2.0,Digital Wallet,Unknown location,2023-08-23,Wednesday,August
 TXN_2848654,Smoothie,5.0,4.0,20.0,Digital Wallet,In-store,2023-03-15,Wednesday,March
 TXN_3034652,Juice,5.0,3.0,15.0,Credit Card,In-store,2023-11-04,Saturday,November
 TXN_2710779,Sandwich,5.0,4.0,20.0,Digital Wallet,In-store,2023-09-30,Saturday,September
@@ -1487,7 +1487,7 @@ TXN_5113993,Coffee,1.0,2.0,2.0,Credit Card,Takeaway,2023-02-10,Friday,February
 TXN_2192787,Sandwich,5.0,4.0,20.0,Cash,In-store,2023-01-01,Sunday,January
 TXN_2127588,Cake,4.0,3.0,12.0,Cash,In-store,2023-07-17,Monday,July
 TXN_5284338,Coffee,4.0,2.0,8.0,Cash,Takeaway,2023-03-30,Thursday,March
-TXN_8108748,Sandwich,1.0,4.0,4.0,Cash,UNKNOWN,2023-06-19,Monday,June
+TXN_8108748,Sandwich,1.0,4.0,4.0,Cash,Unknown location,2023-06-19,Monday,June
 TXN_5538713,Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,2023-09-20,Wednesday,September
 TXN_2565449,Smoothie,3.0,4.0,12.0,Credit Card,In-store,2023-10-04,Wednesday,October
 TXN_7264039,Cake,5.0,3.0,15.0,Cash,,2023-09-19,Tuesday,September
@@ -1572,7 +1572,7 @@ TXN_7201361,Smoothie,3.0,4.0,12.0,Cash,In-store,2023-05-26,Friday,May
 TXN_6902481,Juice,3.0,3.0,9.0,Cash,,2023-09-03,Sunday,September
 TXN_4041845,Juice,5.0,3.0,15.0,,,2023-12-01,Friday,December
 TXN_8861272,Coffee,1.0,2.0,2.0,Digital Wallet,,2023-03-27,Monday,March
-TXN_7527954,Cake,4.0,3.0,12.0,,UNKNOWN,2023-12-09,Saturday,December
+TXN_7527954,Cake,4.0,3.0,12.0,,Unknown location,2023-12-09,Saturday,December
 TXN_2229365,Sandwich,2.0,4.0,8.0,Cash,In-store,2023-09-07,Thursday,September
 TXN_5563675,Tea,3.0,1.5,4.5,Digital Wallet,In-store,2023-01-01,Sunday,January
 TXN_7416770,,3.0,3.0,9.0,,Takeaway,2023-04-08,Saturday,April
@@ -1581,7 +1581,7 @@ TXN_3520908,Sandwich,3.0,4.0,12.0,Digital Wallet,ERROR,2023-08-01,Tuesday,August
 TXN_7907499,Juice,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-04-18,Tuesday,April
 TXN_8360073,Cake,4.0,3.0,12.0,Digital Wallet,In-store,2023-06-15,Thursday,June
 TXN_4840295,,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-02-02,Thursday,February
-TXN_4140167,Coffee,2.0,2.0,4.0,Cash,UNKNOWN,2023-06-29,Thursday,June
+TXN_4140167,Coffee,2.0,2.0,4.0,Cash,Unknown location,2023-06-29,Thursday,June
 TXN_2690515,Sandwich,2.0,4.0,8.0,Cash,Takeaway,2023-09-06,Wednesday,September
 TXN_2080682,Coffee,3.0,2.0,6.0,Credit Card,In-store,2023-05-02,Tuesday,May
 TXN_8399341,Tea,5.0,1.5,7.5,Cash,,2023-03-22,Wednesday,March
@@ -1600,7 +1600,7 @@ TXN_1643039,Cookie,3.0,1.0,3.0,,,2023-02-17,Friday,February
 TXN_3683787,Tea,5.0,1.5,7.5,Credit Card,,2023-09-16,Saturday,September
 TXN_5765576,Sandwich,5.0,4.0,20.0,,In-store,2023-11-22,Wednesday,November
 TXN_4155134,Cookie,1.0,1.0,1.0,,Takeaway,2023-05-07,Sunday,May
-TXN_1795044,Coffee,2.0,2.0,4.0,Digital Wallet,UNKNOWN,2023-08-15,Tuesday,August
+TXN_1795044,Coffee,2.0,2.0,4.0,Digital Wallet,Unknown location,2023-08-15,Tuesday,August
 TXN_2399870,Salad,4.0,5.0,20.0,,,2023-04-08,Saturday,April
 TXN_8898121,Tea,4.0,1.5,6.0,Digital Wallet,,2023-03-26,Sunday,March
 TXN_4735392,Smoothie,3.0,4.0,12.0,Credit Card,Takeaway,2023-04-04,Tuesday,April
@@ -1616,7 +1616,7 @@ TXN_8103439,Smoothie,1.0,4.0,4.0,,Takeaway,2023-11-30,Thursday,November
 TXN_8707598,Juice,4.0,3.0,12.0,Credit Card,,2023-10-22,Sunday,October
 TXN_5435751,Sandwich,1.0,4.0,4.0,Credit Card,Takeaway,2023-05-24,Wednesday,May
 TXN_9991468,Juice,4.0,3.0,12.0,Credit Card,,2023-11-30,Thursday,November
-TXN_5186460,Juice,3.0,3.0,9.0,Credit Card,UNKNOWN,2023-11-07,Tuesday,November
+TXN_5186460,Juice,3.0,3.0,9.0,Credit Card,Unknown location,2023-11-07,Tuesday,November
 TXN_8936782,Juice,5.0,3.0,15.0,,In-store,2023-04-01,Saturday,April
 TXN_6885561,Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-24,Saturday,June
 TXN_4089089,Smoothie,5.0,4.0,20.0,,,2023-10-26,Thursday,October
@@ -1631,7 +1631,7 @@ TXN_8837886,Smoothie,3.0,4.0,12.0,,,2023-04-20,Thursday,April
 TXN_1437275,Coffee,3.0,2.0,6.0,Credit Card,,2023-07-22,Saturday,July
 TXN_5791605,Smoothie,3.0,4.0,12.0,,Takeaway,2023-05-17,Wednesday,May
 TXN_5836079,Coffee,1.0,2.0,2.0,Digital Wallet,,2023-07-14,Friday,July
-TXN_9251292,Tea,2.0,1.5,3.0,Cash,UNKNOWN,2023-01-20,Friday,January
+TXN_9251292,Tea,2.0,1.5,3.0,Cash,Unknown location,2023-01-20,Friday,January
 TXN_9639025,Coffee,5.0,2.0,10.0,,,2023-12-06,Wednesday,December
 TXN_7770253,Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-01-06,Friday,January
 TXN_9196116,Cake,2.0,3.0,6.0,,In-store,2023-07-06,Thursday,July
@@ -1657,7 +1657,7 @@ TXN_2492586,Salad,3.0,5.0,15.0,Cash,,2023-05-17,Wednesday,May
 TXN_6145837,Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-08-27,Sunday,August
 TXN_3665727,Cookie,1.0,1.0,1.0,,In-store,2023-10-13,Friday,October
 TXN_5067056,Sandwich,1.0,4.0,4.0,Cash,In-store,2023-08-13,Sunday,August
-TXN_8453110,Smoothie,3.0,4.0,12.0,Digital Wallet,UNKNOWN,2023-06-24,Saturday,June
+TXN_8453110,Smoothie,3.0,4.0,12.0,Digital Wallet,Unknown location,2023-06-24,Saturday,June
 TXN_4954887,Cookie,3.0,1.0,3.0,,In-store,2023-06-11,Sunday,June
 TXN_6132959,Salad,5.0,5.0,25.0,Digital Wallet,,2023-07-01,Saturday,July
 TXN_8626161,Smoothie,3.0,4.0,12.0,Digital Wallet,In-store,2023-11-23,Thursday,November
@@ -1691,7 +1691,7 @@ TXN_9853577,Sandwich,2.0,4.0,8.0,Credit Card,In-store,2023-04-30,Sunday,April
 TXN_4349597,Juice,4.0,3.0,12.0,Credit Card,ERROR,2023-08-21,Monday,August
 TXN_3353214,Smoothie,5.0,4.0,20.0,Credit Card,,2023-08-12,Saturday,August
 TXN_7122708,Sandwich,5.0,4.0,20.0,,Takeaway,2023-06-23,Friday,June
-TXN_8788437,Coffee,1.0,2.0,2.0,,UNKNOWN,2023-11-19,Sunday,November
+TXN_8788437,Coffee,1.0,2.0,2.0,,Unknown location,2023-11-19,Sunday,November
 TXN_1672443,Coffee,1.0,2.0,2.0,Credit Card,Takeaway,2023-10-03,Tuesday,October
 TXN_6277500,Coffee,4.0,2.0,8.0,Credit Card,Takeaway,2023-01-09,Monday,January
 TXN_6671827,Salad,1.0,5.0,5.0,Credit Card,Takeaway,2023-08-09,Wednesday,August
@@ -1716,7 +1716,7 @@ TXN_3943666,Juice,4.0,3.0,12.0,,Takeaway,2023-03-15,Wednesday,March
 TXN_8308672,Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-01-01,Sunday,January
 TXN_3190959,Tea,2.0,1.5,3.0,Credit Card,Takeaway,2023-12-16,Saturday,December
 TXN_6199016,Juice,1.0,3.0,3.0,Digital Wallet,,2023-02-14,Tuesday,February
-TXN_9301279,Smoothie,1.0,4.0,4.0,Credit Card,UNKNOWN,2023-05-27,Saturday,May
+TXN_9301279,Smoothie,1.0,4.0,4.0,Credit Card,Unknown location,2023-05-27,Saturday,May
 TXN_6542877,Juice,1.0,3.0,3.0,,In-store,2023-12-06,Wednesday,December
 TXN_6345733,Coffee,1.0,2.0,2.0,,In-store,2023-11-26,Sunday,November
 TXN_5834491,Tea,3.0,1.5,4.5,,,2023-08-13,Sunday,August
@@ -1756,7 +1756,7 @@ TXN_2764962,Tea,2.0,1.5,3.0,Credit Card,Takeaway,2023-08-13,Sunday,August
 TXN_5396727,Juice,2.0,3.0,6.0,Credit Card,Takeaway,2023-10-13,Friday,October
 TXN_5198827,Tea,5.0,1.5,7.5,,,2023-02-15,Wednesday,February
 TXN_8023817,Juice,4.0,3.0,12.0,,Takeaway,2023-05-08,Monday,May
-TXN_9783452,Juice,3.0,3.0,9.0,Cash,UNKNOWN,2023-04-11,Tuesday,April
+TXN_9783452,Juice,3.0,3.0,9.0,Cash,Unknown location,2023-04-11,Tuesday,April
 TXN_4171507,Tea,1.0,1.5,1.5,,In-store,2023-10-26,Thursday,October
 TXN_1491299,Juice,2.0,3.0,6.0,Credit Card,In-store,2023-02-27,Monday,February
 TXN_4187327,Tea,2.0,1.5,3.0,,Takeaway,2023-04-01,Saturday,April
@@ -1805,7 +1805,7 @@ TXN_1869147,Smoothie,4.0,4.0,16.0,Digital Wallet,,2023-11-21,Tuesday,November
 TXN_3377885,Sandwich,3.0,4.0,12.0,Cash,,2023-05-08,Monday,May
 TXN_9270865,Smoothie,2.0,4.0,8.0,Credit Card,Takeaway,2023-11-06,Monday,November
 TXN_7373126,Smoothie,2.0,4.0,8.0,Credit Card,,2023-11-18,Saturday,November
-TXN_8097899,Coffee,4.0,2.0,8.0,Digital Wallet,UNKNOWN,2023-09-05,Tuesday,September
+TXN_8097899,Coffee,4.0,2.0,8.0,Digital Wallet,Unknown location,2023-09-05,Tuesday,September
 TXN_1248436,Cake,4.0,3.0,12.0,Credit Card,Takeaway,2023-08-14,Monday,August
 TXN_5932169,Salad,5.0,5.0,25.0,Credit Card,ERROR,2023-11-06,Monday,November
 TXN_6064282,Smoothie,4.0,4.0,16.0,Credit Card,,2023-10-18,Wednesday,October
@@ -1837,7 +1837,7 @@ TXN_4959129,,2.0,3.0,6.0,Credit Card,In-store,2023-06-24,Saturday,June
 TXN_5591145,Sandwich,3.0,4.0,12.0,,Takeaway,2023-08-22,Tuesday,August
 TXN_9587015,Salad,3.0,5.0,15.0,Digital Wallet,In-store,2023-06-25,Sunday,June
 TXN_6845472,Smoothie,5.0,4.0,20.0,Digital Wallet,,2023-12-11,Monday,December
-TXN_2861396,Salad,5.0,5.0,25.0,Credit Card,UNKNOWN,2023-01-04,Wednesday,January
+TXN_2861396,Salad,5.0,5.0,25.0,Credit Card,Unknown location,2023-01-04,Wednesday,January
 TXN_6915899,Salad,3.0,5.0,15.0,Credit Card,In-store,2023-05-29,Monday,May
 TXN_6211466,Tea,2.0,1.5,3.0,Cash,In-store,2023-09-12,Tuesday,September
 TXN_5198524,Cake,1.0,3.0,3.0,Credit Card,In-store,2023-06-14,Wednesday,June
@@ -1856,11 +1856,11 @@ TXN_6087494,Juice,5.0,3.0,15.0,Credit Card,,2023-07-05,Wednesday,July
 TXN_5358805,Coffee,5.0,2.0,10.0,Digital Wallet,ERROR,2023-01-01,Sunday,January
 TXN_2490759,Smoothie,3.0,4.0,12.0,Cash,,2023-11-19,Sunday,November
 TXN_2605566,Cake,2.0,3.0,6.0,,,2023-12-01,Friday,December
-TXN_6691781,Coffee,4.0,2.0,8.0,Credit Card,UNKNOWN,2023-09-07,Thursday,September
+TXN_6691781,Coffee,4.0,2.0,8.0,Credit Card,Unknown location,2023-09-07,Thursday,September
 TXN_1730850,Juice,2.0,3.0,6.0,Cash,Takeaway,2023-12-15,Friday,December
 TXN_2202863,Salad,5.0,5.0,25.0,,,2023-07-28,Friday,July
 TXN_7145672,Sandwich,1.0,4.0,4.0,Credit Card,,2023-10-11,Wednesday,October
-TXN_5974123,Sandwich,2.0,4.0,8.0,Digital Wallet,UNKNOWN,2023-06-25,Sunday,June
+TXN_5974123,Sandwich,2.0,4.0,8.0,Digital Wallet,Unknown location,2023-06-25,Sunday,June
 TXN_9833245,Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-04-30,Sunday,April
 TXN_7944534,Tea,2.0,1.5,3.0,Digital Wallet,In-store,2023-10-13,Friday,October
 TXN_6337312,Salad,1.0,5.0,5.0,,In-store,2023-01-11,Wednesday,January
@@ -1896,7 +1896,7 @@ TXN_9021000,Coffee,3.0,2.0,6.0,,,2023-01-20,Friday,January
 TXN_4205369,Salad,5.0,5.0,25.0,,Takeaway,2023-07-16,Sunday,July
 TXN_5313211,Smoothie,5.0,4.0,20.0,Credit Card,ERROR,2023-05-04,Thursday,May
 TXN_2282283,Cookie,2.0,1.0,2.0,Digital Wallet,,2023-02-23,Thursday,February
-TXN_7211769,Juice,1.0,3.0,3.0,Credit Card,UNKNOWN,2023-09-11,Monday,September
+TXN_7211769,Juice,1.0,3.0,3.0,Credit Card,Unknown location,2023-09-11,Monday,September
 TXN_3722720,Salad,2.0,5.0,10.0,,In-store,2023-06-27,Tuesday,June
 TXN_7624646,Smoothie,2.0,4.0,8.0,,,2023-03-24,Friday,March
 TXN_6725579,Tea,2.0,1.5,3.0,Credit Card,Takeaway,2023-02-21,Tuesday,February
@@ -1931,11 +1931,11 @@ TXN_3756680,Tea,2.0,1.5,3.0,Credit Card,ERROR,2023-08-30,Wednesday,August
 TXN_8611913,Tea,5.0,1.5,7.5,Digital Wallet,In-store,2023-07-16,Sunday,July
 TXN_7387701,Coffee,1.0,2.0,2.0,Cash,Takeaway,,,
 TXN_9904091,Salad,4.0,5.0,20.0,,,2023-05-20,Saturday,May
-TXN_4953063,Tea,5.0,1.5,7.5,Credit Card,UNKNOWN,,,
+TXN_4953063,Tea,5.0,1.5,7.5,Credit Card,Unknown location,,,
 TXN_5908857,Smoothie,5.0,4.0,20.0,,In-store,2023-06-04,Sunday,June
 TXN_4411172,Smoothie,4.0,4.0,16.0,Cash,,2023-07-09,Sunday,July
 TXN_6841805,Cake,2.0,3.0,6.0,,,2023-02-14,Tuesday,February
-TXN_7800236,Salad,3.0,5.0,15.0,Digital Wallet,UNKNOWN,2023-07-19,Wednesday,July
+TXN_7800236,Salad,3.0,5.0,15.0,Digital Wallet,Unknown location,2023-07-19,Wednesday,July
 TXN_2413026,Coffee,1.0,2.0,2.0,,Takeaway,2023-04-26,Wednesday,April
 TXN_9947479,Smoothie,5.0,4.0,20.0,Cash,Takeaway,2023-09-27,Wednesday,September
 TXN_6403859,Sandwich,5.0,4.0,20.0,Credit Card,In-store,2023-03-06,Monday,March
@@ -1947,10 +1947,10 @@ TXN_6259001,Tea,4.0,1.5,6.0,Digital Wallet,In-store,2023-01-30,Monday,January
 TXN_6119081,Coffee,2.0,2.0,4.0,Cash,In-store,2023-09-27,Wednesday,September
 TXN_4811887,Cake,2.0,3.0,6.0,Cash,In-store,2023-02-11,Saturday,February
 TXN_9587814,Juice,3.0,3.0,9.0,Cash,In-store,2023-01-25,Wednesday,January
-TXN_7682605,Tea,5.0,1.5,7.5,Digital Wallet,UNKNOWN,2023-10-19,Thursday,October
+TXN_7682605,Tea,5.0,1.5,7.5,Digital Wallet,Unknown location,2023-10-19,Thursday,October
 TXN_4690415,Sandwich,2.0,4.0,8.0,Digital Wallet,,,,
 TXN_7946450,Smoothie,1.0,4.0,4.0,Credit Card,In-store,2023-07-15,Saturday,July
-TXN_2611393,Smoothie,3.0,4.0,12.0,,UNKNOWN,2023-04-25,Tuesday,April
+TXN_2611393,Smoothie,3.0,4.0,12.0,,Unknown location,2023-04-25,Tuesday,April
 TXN_2122597,Cake,3.0,3.0,9.0,Credit Card,,2023-05-11,Thursday,May
 TXN_3267783,Cake,3.0,3.0,9.0,,In-store,2023-10-30,Monday,October
 TXN_7852397,Tea,3.0,1.5,4.5,Cash,In-store,2023-08-10,Thursday,August
@@ -1996,7 +1996,7 @@ TXN_4483304,Smoothie,4.0,4.0,16.0,Credit Card,Takeaway,2023-11-08,Wednesday,Nove
 TXN_3720223,Cake,4.0,3.0,12.0,Cash,Takeaway,2023-10-22,Sunday,October
 TXN_4506778,Cake,3.0,3.0,9.0,Digital Wallet,,2023-04-21,Friday,April
 TXN_8226226,Sandwich,1.0,4.0,4.0,,In-store,2023-07-30,Sunday,July
-TXN_9723120,Tea,5.0,1.5,7.5,Credit Card,UNKNOWN,2023-01-26,Thursday,January
+TXN_9723120,Tea,5.0,1.5,7.5,Credit Card,Unknown location,2023-01-26,Thursday,January
 TXN_2726676,Coffee,3.0,2.0,6.0,Digital Wallet,In-store,2023-08-10,Thursday,August
 TXN_4011694,Coffee,1.0,2.0,2.0,Credit Card,In-store,2023-09-02,Saturday,September
 TXN_3327212,Tea,2.0,1.5,3.0,Credit Card,,2023-12-20,Wednesday,December
@@ -2012,7 +2012,7 @@ TXN_6476304,Sandwich,2.0,4.0,8.0,Credit Card,,2023-03-17,Friday,March
 TXN_3893927,Salad,4.0,5.0,20.0,,In-store,2023-09-14,Thursday,September
 TXN_5947976,Coffee,3.0,2.0,6.0,,In-store,2023-05-21,Sunday,May
 TXN_4139983,Tea,5.0,1.5,7.5,Cash,Takeaway,2023-10-16,Monday,October
-TXN_4571222,Cookie,2.0,1.0,2.0,Credit Card,UNKNOWN,2023-03-21,Tuesday,March
+TXN_4571222,Cookie,2.0,1.0,2.0,Credit Card,Unknown location,2023-03-21,Tuesday,March
 TXN_6484542,Salad,5.0,5.0,25.0,Credit Card,,2023-05-18,Thursday,May
 TXN_5183630,Coffee,4.0,2.0,8.0,,In-store,2023-02-15,Wednesday,February
 TXN_5562799,Cookie,5.0,1.0,5.0,,,2023-10-25,Wednesday,October
@@ -2024,7 +2024,7 @@ TXN_3670939,Tea,3.0,1.5,4.5,Cash,,2023-07-13,Thursday,July
 TXN_2935871,Cookie,4.0,1.0,4.0,Cash,Takeaway,2023-07-07,Friday,July
 TXN_1610204,Cake,1.0,3.0,3.0,,Takeaway,2023-02-19,Sunday,February
 TXN_8372268,Salad,2.0,5.0,10.0,,Takeaway,2023-06-15,Thursday,June
-TXN_1239021,Sandwich,5.0,4.0,20.0,Credit Card,UNKNOWN,2023-09-15,Friday,September
+TXN_1239021,Sandwich,5.0,4.0,20.0,Credit Card,Unknown location,2023-09-15,Friday,September
 TXN_1863866,Smoothie,1.0,4.0,4.0,Cash,,2023-10-03,Tuesday,October
 TXN_4630854,Tea,1.0,1.5,1.5,Digital Wallet,,2023-02-10,Friday,February
 TXN_5355693,Smoothie,1.0,4.0,4.0,,,2023-12-03,Sunday,December
@@ -2057,7 +2057,7 @@ TXN_8774692,Tea,5.0,1.5,7.5,Digital Wallet,,2023-07-12,Wednesday,July
 TXN_4887268,Salad,1.0,5.0,5.0,Credit Card,In-store,2023-10-16,Monday,October
 TXN_9506372,Cake,4.0,3.0,12.0,,,2023-11-06,Monday,November
 TXN_6651961,Salad,4.0,5.0,20.0,Credit Card,In-store,2023-02-08,Wednesday,February
-TXN_2537138,Cake,3.0,3.0,9.0,,UNKNOWN,2023-10-24,Tuesday,October
+TXN_2537138,Cake,3.0,3.0,9.0,,Unknown location,2023-10-24,Tuesday,October
 TXN_2015313,Salad,5.0,5.0,25.0,Cash,,2023-10-18,Wednesday,October
 TXN_5604797,Coffee,1.0,2.0,2.0,Cash,In-store,2023-10-13,Friday,October
 TXN_6303383,Cake,4.0,3.0,12.0,Digital Wallet,In-store,2023-09-22,Friday,September
@@ -2079,7 +2079,7 @@ TXN_4138399,Cookie,5.0,1.0,5.0,Credit Card,Takeaway,2023-07-03,Monday,July
 TXN_1724233,Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-02-01,Wednesday,February
 TXN_1564506,Smoothie,5.0,4.0,20.0,Digital Wallet,In-store,2023-02-01,Wednesday,February
 TXN_3520982,Salad,5.0,5.0,25.0,,,2023-10-26,Thursday,October
-TXN_6130455,Tea,2.0,1.5,3.0,Digital Wallet,UNKNOWN,,,
+TXN_6130455,Tea,2.0,1.5,3.0,Digital Wallet,Unknown location,,,
 TXN_8936591,Cookie,5.0,1.0,5.0,,In-store,2023-03-22,Wednesday,March
 TXN_7622389,Tea,4.0,1.5,6.0,Digital Wallet,In-store,2023-02-26,Sunday,February
 TXN_2896048,Tea,4.0,1.5,6.0,Cash,,2023-05-17,Wednesday,May
@@ -2120,10 +2120,10 @@ TXN_1336900,Coffee,5.0,2.0,10.0,Credit Card,ERROR,2023-01-16,Monday,January
 TXN_2250785,Cake,1.0,3.0,3.0,Cash,,2023-03-19,Sunday,March
 TXN_8122340,Coffee,4.0,2.0,8.0,Credit Card,,2023-06-09,Friday,June
 TXN_9911498,Coffee,4.0,2.0,8.0,Cash,In-store,2023-03-27,Monday,March
-TXN_4130861,Salad,2.0,5.0,10.0,Credit Card,UNKNOWN,,,
+TXN_4130861,Salad,2.0,5.0,10.0,Credit Card,Unknown location,,,
 TXN_3741325,Sandwich,5.0,4.0,20.0,Digital Wallet,,2023-07-04,Tuesday,July
 TXN_8658970,Salad,3.0,5.0,15.0,Credit Card,,2023-09-03,Sunday,September
-TXN_2887971,Smoothie,2.0,4.0,8.0,Digital Wallet,UNKNOWN,2023-06-26,Monday,June
+TXN_2887971,Smoothie,2.0,4.0,8.0,Digital Wallet,Unknown location,2023-06-26,Monday,June
 TXN_9865855,Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-04-18,Tuesday,April
 TXN_2217295,Juice,4.0,3.0,12.0,Credit Card,In-store,2023-11-22,Wednesday,November
 TXN_8913492,Sandwich,4.0,4.0,16.0,Credit Card,In-store,2023-12-25,Monday,December
@@ -2143,7 +2143,7 @@ TXN_6071339,Coffee,5.0,2.0,10.0,Cash,Takeaway,2023-10-17,Tuesday,October
 TXN_9540864,Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,2023-08-07,Monday,August
 TXN_6389404,Juice,5.0,3.0,15.0,Digital Wallet,In-store,2023-11-20,Monday,November
 TXN_8199524,Cake,5.0,3.0,15.0,Cash,ERROR,2023-12-01,Friday,December
-TXN_1212652,Juice,3.0,3.0,9.0,Credit Card,UNKNOWN,2023-01-30,Monday,January
+TXN_1212652,Juice,3.0,3.0,9.0,Credit Card,Unknown location,2023-01-30,Monday,January
 TXN_1799247,Coffee,3.0,2.0,6.0,,,2023-01-25,Wednesday,January
 TXN_5745054,Smoothie,1.0,4.0,4.0,Credit Card,,2023-01-26,Thursday,January
 TXN_3499226,Juice,1.0,3.0,3.0,Credit Card,Takeaway,2023-09-08,Friday,September
@@ -2198,9 +2198,9 @@ TXN_7585599,Cake,1.0,3.0,3.0,Credit Card,,2023-01-12,Thursday,January
 TXN_1635631,Cookie,4.0,1.0,4.0,Credit Card,,2023-07-04,Tuesday,July
 TXN_8907996,Sandwich,4.0,4.0,16.0,Cash,In-store,2023-02-19,Sunday,February
 TXN_3206049,Coffee,4.0,2.0,8.0,,,2023-03-27,Monday,March
-TXN_4620647,Coffee,1.0,2.0,2.0,Digital Wallet,UNKNOWN,2023-07-15,Saturday,July
+TXN_4620647,Coffee,1.0,2.0,2.0,Digital Wallet,Unknown location,2023-07-15,Saturday,July
 TXN_5348915,Juice,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-07-09,Sunday,July
-TXN_4036214,Cake,2.0,3.0,6.0,Credit Card,UNKNOWN,2023-10-17,Tuesday,October
+TXN_4036214,Cake,2.0,3.0,6.0,Credit Card,Unknown location,2023-10-17,Tuesday,October
 TXN_6323914,Juice,1.0,3.0,3.0,Credit Card,In-store,2023-03-19,Sunday,March
 TXN_7804128,Sandwich,5.0,4.0,20.0,Digital Wallet,In-store,2023-02-12,Sunday,February
 TXN_2930752,Cake,2.0,3.0,6.0,Credit Card,,2023-03-04,Saturday,March
@@ -2235,7 +2235,7 @@ TXN_8424417,Smoothie,2.0,4.0,8.0,,Takeaway,2023-10-21,Saturday,October
 TXN_3985920,Salad,5.0,5.0,25.0,Digital Wallet,In-store,2023-03-29,Wednesday,March
 TXN_7335526,Sandwich,4.0,4.0,16.0,Cash,In-store,2023-06-03,Saturday,June
 TXN_5989987,Smoothie,4.0,4.0,16.0,Cash,,2023-08-02,Wednesday,August
-TXN_8132632,Tea,3.0,1.5,4.5,,UNKNOWN,2023-07-26,Wednesday,July
+TXN_8132632,Tea,3.0,1.5,4.5,,Unknown location,2023-07-26,Wednesday,July
 TXN_2408294,Sandwich,4.0,4.0,16.0,Digital Wallet,In-store,2023-12-26,Tuesday,December
 TXN_7380756,Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-10-16,Monday,October
 TXN_1145888,Coffee,4.0,2.0,8.0,,,2023-01-26,Thursday,January
@@ -2339,9 +2339,9 @@ TXN_7418962,Smoothie,4.0,4.0,16.0,Cash,,2023-03-07,Tuesday,March
 TXN_7217537,Salad,3.0,5.0,15.0,Cash,In-store,2023-12-19,Tuesday,December
 TXN_8845592,Sandwich,5.0,4.0,20.0,Credit Card,In-store,2023-11-12,Sunday,November
 TXN_2402637,,2.0,4.0,8.0,,Takeaway,2023-06-18,Sunday,June
-TXN_2081985,Coffee,2.0,2.0,4.0,Digital Wallet,UNKNOWN,2023-03-24,Friday,March
+TXN_2081985,Coffee,2.0,2.0,4.0,Digital Wallet,Unknown location,2023-03-24,Friday,March
 TXN_5664467,Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-11-06,Monday,November
-TXN_2275523,Tea,4.0,1.5,6.0,Digital Wallet,UNKNOWN,2023-09-02,Saturday,September
+TXN_2275523,Tea,4.0,1.5,6.0,Digital Wallet,Unknown location,2023-09-02,Saturday,September
 TXN_6451747,Salad,4.0,5.0,20.0,Cash,,2023-05-23,Tuesday,May
 TXN_2680626,Cake,3.0,3.0,9.0,Cash,In-store,2023-01-08,Sunday,January
 TXN_8668840,Cake,5.0,3.0,15.0,Digital Wallet,,2023-10-03,Tuesday,October
@@ -2429,7 +2429,7 @@ TXN_3465980,Cookie,4.0,1.0,4.0,Cash,Takeaway,2023-07-08,Saturday,July
 TXN_4220189,Tea,1.0,1.5,1.5,,Takeaway,2023-08-16,Wednesday,August
 TXN_7343905,Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-01-17,Tuesday,January
 TXN_9813938,Sandwich,5.0,4.0,20.0,Cash,,2023-06-30,Friday,June
-TXN_6129460,Juice,5.0,3.0,15.0,Cash,UNKNOWN,2023-11-19,Sunday,November
+TXN_6129460,Juice,5.0,3.0,15.0,Cash,Unknown location,2023-11-19,Sunday,November
 TXN_9470590,Salad,1.0,5.0,5.0,Credit Card,Takeaway,2023-04-11,Tuesday,April
 TXN_7212607,Coffee,3.0,2.0,6.0,Digital Wallet,In-store,2023-08-06,Sunday,August
 TXN_8384628,Salad,3.0,5.0,15.0,Credit Card,Takeaway,2023-08-22,Tuesday,August
@@ -2442,7 +2442,7 @@ TXN_4674667,Coffee,2.0,2.0,4.0,,Takeaway,2023-05-24,Wednesday,May
 TXN_4278785,Salad,3.0,5.0,15.0,Cash,In-store,2023-04-29,Saturday,April
 TXN_4462052,Cookie,1.0,1.0,1.0,Cash,In-store,2023-10-12,Thursday,October
 TXN_3379368,Cake,5.0,3.0,15.0,Credit Card,,2023-05-26,Friday,May
-TXN_7651864,Smoothie,4.0,4.0,16.0,Digital Wallet,UNKNOWN,2023-04-29,Saturday,April
+TXN_7651864,Smoothie,4.0,4.0,16.0,Digital Wallet,Unknown location,2023-04-29,Saturday,April
 TXN_7089173,Juice,1.0,3.0,3.0,Digital Wallet,,2023-01-14,Saturday,January
 TXN_1906642,Cookie,4.0,1.0,4.0,,Takeaway,2023-06-06,Tuesday,June
 TXN_5234368,Coffee,3.0,2.0,6.0,Digital Wallet,,2023-06-10,Saturday,June
@@ -2460,7 +2460,7 @@ TXN_7612618,Smoothie,4.0,4.0,16.0,Credit Card,ERROR,2023-04-12,Wednesday,April
 TXN_7321789,Juice,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-05-10,Wednesday,May
 TXN_3679126,Cookie,1.0,1.0,1.0,Cash,,2023-07-15,Saturday,July
 TXN_2008137,Coffee,4.0,2.0,8.0,,ERROR,2023-10-07,Saturday,October
-TXN_2622670,Cake,5.0,3.0,15.0,Digital Wallet,UNKNOWN,2023-01-28,Saturday,January
+TXN_2622670,Cake,5.0,3.0,15.0,Digital Wallet,Unknown location,2023-01-28,Saturday,January
 TXN_2152670,Tea,3.0,1.5,4.5,Credit Card,In-store,2023-12-24,Sunday,December
 TXN_3482117,Sandwich,2.0,4.0,8.0,,,2023-07-18,Tuesday,July
 TXN_4943715,Coffee,5.0,2.0,10.0,Digital Wallet,,2023-10-06,Friday,October
@@ -2494,7 +2494,7 @@ TXN_3514492,Juice,3.0,3.0,9.0,Digital Wallet,In-store,2023-02-23,Thursday,Februa
 TXN_4227337,Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-12-15,Friday,December
 TXN_5790213,Juice,3.0,3.0,9.0,Cash,,2023-08-30,Wednesday,August
 TXN_3546261,Tea,3.0,1.5,4.5,,Takeaway,2023-03-20,Monday,March
-TXN_3334257,Sandwich,2.0,4.0,8.0,Cash,UNKNOWN,2023-06-10,Saturday,June
+TXN_3334257,Sandwich,2.0,4.0,8.0,Cash,Unknown location,2023-06-10,Saturday,June
 TXN_5665767,Tea,4.0,1.5,6.0,,,2023-08-22,Tuesday,August
 TXN_4527464,Tea,4.0,1.5,6.0,,In-store,2023-08-09,Wednesday,August
 TXN_1011236,Cake,1.0,3.0,3.0,Cash,In-store,2023-02-08,Wednesday,February
@@ -2508,7 +2508,7 @@ TXN_6113452,Sandwich,2.0,4.0,8.0,Cash,Takeaway,2023-09-21,Thursday,September
 TXN_1752617,Tea,5.0,1.5,7.5,,Takeaway,2023-09-05,Tuesday,September
 TXN_1949789,Salad,2.0,5.0,10.0,,Takeaway,2023-11-07,Tuesday,November
 TXN_7386089,Sandwich,2.0,4.0,8.0,,In-store,2023-07-15,Saturday,July
-TXN_6751134,Sandwich,3.0,4.0,12.0,,UNKNOWN,2023-01-12,Thursday,January
+TXN_6751134,Sandwich,3.0,4.0,12.0,,Unknown location,2023-01-12,Thursday,January
 TXN_2731270,Cake,1.0,3.0,3.0,,Takeaway,2023-05-31,Wednesday,May
 TXN_3026930,Cake,2.0,3.0,6.0,Cash,In-store,2023-03-23,Thursday,March
 TXN_2801651,Juice,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-07-10,Monday,July
@@ -2534,7 +2534,7 @@ TXN_5442505,Cake,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-09-07,Thursday,Septem
 TXN_4708410,Cake,4.0,3.0,12.0,Digital Wallet,In-store,2023-10-08,Sunday,October
 TXN_4847617,Sandwich,4.0,4.0,16.0,Credit Card,,2023-08-04,Friday,August
 TXN_1898329,Cake,5.0,3.0,15.0,Cash,In-store,2023-04-12,Wednesday,April
-TXN_1945918,Juice,2.0,3.0,6.0,,UNKNOWN,2023-09-12,Tuesday,September
+TXN_1945918,Juice,2.0,3.0,6.0,,Unknown location,2023-09-12,Tuesday,September
 TXN_8147057,Juice,1.0,3.0,3.0,Digital Wallet,In-store,2023-08-21,Monday,August
 TXN_9546556,,5.0,3.0,15.0,Cash,In-store,2023-08-18,Friday,August
 TXN_4935258,Cake,2.0,3.0,6.0,Credit Card,,2023-09-14,Thursday,September
@@ -2542,7 +2542,7 @@ TXN_5588239,Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-03-31,Friday,March
 TXN_6575599,Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-10-09,Monday,October
 TXN_1229376,Cake,3.0,3.0,9.0,Digital Wallet,In-store,2023-08-14,Monday,August
 TXN_1732216,Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-08-30,Wednesday,August
-TXN_1756717,Smoothie,3.0,4.0,12.0,Credit Card,UNKNOWN,2023-01-22,Sunday,January
+TXN_1756717,Smoothie,3.0,4.0,12.0,Credit Card,Unknown location,2023-01-22,Sunday,January
 TXN_8188857,Cake,1.0,3.0,3.0,,,2023-12-21,Thursday,December
 TXN_9783697,Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-07-14,Friday,July
 TXN_6991253,Juice,3.0,3.0,9.0,,In-store,2023-12-13,Wednesday,December
@@ -2553,7 +2553,7 @@ TXN_9063299,Cake,4.0,3.0,12.0,Digital Wallet,In-store,2023-06-15,Thursday,June
 TXN_4318159,Coffee,4.0,2.0,8.0,Digital Wallet,,2023-03-30,Thursday,March
 TXN_8127390,Tea,3.0,1.5,4.5,,In-store,2023-01-19,Thursday,January
 TXN_9682798,Cake,3.0,3.0,9.0,Cash,In-store,2023-09-15,Friday,September
-TXN_9716971,Salad,4.0,5.0,20.0,Digital Wallet,UNKNOWN,2023-06-21,Wednesday,June
+TXN_9716971,Salad,4.0,5.0,20.0,Digital Wallet,Unknown location,2023-06-21,Wednesday,June
 TXN_7827797,Salad,3.0,5.0,15.0,,Takeaway,2023-06-30,Friday,June
 TXN_4343391,Cookie,5.0,1.0,5.0,Cash,Takeaway,2023-06-01,Thursday,June
 TXN_6877186,Cookie,2.0,1.0,2.0,Credit Card,In-store,2023-12-05,Tuesday,December
@@ -2599,7 +2599,7 @@ TXN_6391414,Smoothie,4.0,4.0,16.0,Cash,In-store,2023-05-08,Monday,May
 TXN_2613440,Juice,3.0,3.0,9.0,Credit Card,In-store,2023-04-15,Saturday,April
 TXN_5632564,Cookie,1.0,1.0,1.0,Credit Card,,2023-11-04,Saturday,November
 TXN_3475075,Cake,3.0,3.0,9.0,Cash,Takeaway,,,
-TXN_4704439,Coffee,3.0,2.0,6.0,Cash,UNKNOWN,2023-06-14,Wednesday,June
+TXN_4704439,Coffee,3.0,2.0,6.0,Cash,Unknown location,2023-06-14,Wednesday,June
 TXN_3292043,Cookie,5.0,1.0,5.0,,ERROR,,,
 TXN_2666340,Cake,2.0,3.0,6.0,Cash,Takeaway,2023-09-29,Friday,September
 TXN_6539480,Cake,5.0,3.0,15.0,Cash,Takeaway,2023-08-25,Friday,August
@@ -2666,7 +2666,7 @@ TXN_9433806,Coffee,1.0,2.0,2.0,,,,,
 TXN_5227574,Juice,4.0,3.0,12.0,Digital Wallet,ERROR,2023-04-10,Monday,April
 TXN_5485774,Coffee,2.0,2.0,4.0,Credit Card,,2023-07-20,Thursday,July
 TXN_6504165,Juice,3.0,3.0,9.0,Cash,Takeaway,2023-02-13,Monday,February
-TXN_2391659,Tea,5.0,1.5,7.5,,UNKNOWN,2023-02-16,Thursday,February
+TXN_2391659,Tea,5.0,1.5,7.5,,Unknown location,2023-02-16,Thursday,February
 TXN_8964493,Smoothie,1.0,4.0,4.0,Cash,,2023-02-10,Friday,February
 TXN_1931832,,4.0,4.0,16.0,Credit Card,,2023-05-07,Sunday,May
 TXN_4939667,Salad,1.0,5.0,5.0,Cash,Takeaway,2023-01-23,Monday,January
@@ -2710,7 +2710,7 @@ TXN_6392156,Cookie,5.0,1.0,5.0,Credit Card,Takeaway,2023-11-12,Sunday,November
 TXN_1315847,Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-06-19,Monday,June
 TXN_9367729,Coffee,2.0,2.0,4.0,,Takeaway,2023-10-10,Tuesday,October
 TXN_1464150,Coffee,5.0,2.0,10.0,Cash,Takeaway,2023-02-14,Tuesday,February
-TXN_4203560,Juice,1.0,3.0,3.0,,UNKNOWN,2023-08-20,Sunday,August
+TXN_4203560,Juice,1.0,3.0,3.0,,Unknown location,2023-08-20,Sunday,August
 TXN_1493452,Sandwich,3.0,4.0,12.0,,,2023-11-08,Wednesday,November
 TXN_4528664,Salad,3.0,5.0,15.0,Cash,In-store,2023-12-31,Sunday,December
 TXN_1775278,Juice,4.0,3.0,12.0,Credit Card,Takeaway,2023-02-22,Wednesday,February
@@ -2810,7 +2810,7 @@ TXN_6916853,Smoothie,5.0,4.0,20.0,Cash,,2023-12-22,Friday,December
 TXN_9086710,Salad,2.0,5.0,10.0,,In-store,2023-10-27,Friday,October
 TXN_1830278,Cookie,3.0,1.0,3.0,Credit Card,,2023-05-15,Monday,May
 TXN_8388122,Tea,4.0,1.5,6.0,,In-store,2023-11-01,Wednesday,November
-TXN_8612901,Juice,3.0,3.0,9.0,Digital Wallet,UNKNOWN,2023-03-18,Saturday,March
+TXN_8612901,Juice,3.0,3.0,9.0,Digital Wallet,Unknown location,2023-03-18,Saturday,March
 TXN_7752958,Juice,2.0,3.0,6.0,,,2023-09-22,Friday,September
 TXN_5311814,Tea,4.0,1.5,6.0,Digital Wallet,,2023-07-06,Thursday,July
 TXN_2933739,Cookie,1.0,1.0,1.0,Digital Wallet,,2023-09-15,Friday,September
@@ -2864,7 +2864,7 @@ TXN_3539062,Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-10-04,Wednesday,Octo
 TXN_8782513,Sandwich,5.0,4.0,20.0,,Takeaway,2023-10-15,Sunday,October
 TXN_2851804,Coffee,3.0,2.0,6.0,,,2023-11-30,Thursday,November
 TXN_9175519,Cake,4.0,3.0,12.0,,ERROR,2023-10-05,Thursday,October
-TXN_6224451,Sandwich,1.0,4.0,4.0,Credit Card,UNKNOWN,2023-03-19,Sunday,March
+TXN_6224451,Sandwich,1.0,4.0,4.0,Credit Card,Unknown location,2023-03-19,Sunday,March
 TXN_7630912,Juice,2.0,3.0,6.0,Credit Card,,2023-01-04,Wednesday,January
 TXN_2134911,Tea,5.0,1.5,7.5,Digital Wallet,In-store,2023-10-07,Saturday,October
 TXN_9123562,Juice,5.0,3.0,15.0,Credit Card,Takeaway,,,
@@ -2899,7 +2899,7 @@ TXN_6037144,Tea,3.0,1.5,4.5,Cash,Takeaway,2023-09-02,Saturday,September
 TXN_3494014,Cake,1.0,3.0,3.0,Credit Card,In-store,2023-06-09,Friday,June
 TXN_3656884,Coffee,5.0,2.0,10.0,Credit Card,,2023-10-08,Sunday,October
 TXN_2277013,Smoothie,3.0,4.0,12.0,,,2023-07-26,Wednesday,July
-TXN_5423636,Sandwich,4.0,4.0,16.0,Cash,UNKNOWN,2023-10-18,Wednesday,October
+TXN_5423636,Sandwich,4.0,4.0,16.0,Cash,Unknown location,2023-10-18,Wednesday,October
 TXN_8040251,Coffee,1.0,2.0,2.0,Digital Wallet,,2023-04-16,Sunday,April
 TXN_1635137,Cake,2.0,3.0,6.0,Cash,,2023-12-28,Thursday,December
 TXN_8411549,Tea,4.0,1.5,6.0,Credit Card,In-store,2023-02-15,Wednesday,February
@@ -2920,7 +2920,7 @@ TXN_6987705,Cookie,5.0,1.0,5.0,Cash,,2023-06-04,Sunday,June
 TXN_8490157,Salad,2.0,5.0,10.0,Credit Card,In-store,2023-09-06,Wednesday,September
 TXN_7878395,Salad,3.0,5.0,15.0,Credit Card,In-store,2023-05-26,Friday,May
 TXN_1672632,Salad,3.0,5.0,15.0,Digital Wallet,,2023-07-04,Tuesday,July
-TXN_9216314,Cake,1.0,3.0,3.0,Credit Card,UNKNOWN,2023-03-07,Tuesday,March
+TXN_9216314,Cake,1.0,3.0,3.0,Credit Card,Unknown location,2023-03-07,Tuesday,March
 TXN_1647144,Salad,2.0,5.0,10.0,,Takeaway,2023-08-29,Tuesday,August
 TXN_4090464,Sandwich,5.0,4.0,20.0,Cash,Takeaway,2023-01-16,Monday,January
 TXN_2172301,Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-04-06,Thursday,April
@@ -2943,7 +2943,7 @@ TXN_7294526,Smoothie,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-12-02,Saturday,De
 TXN_5618976,Coffee,2.0,2.0,4.0,Cash,Takeaway,2023-12-05,Tuesday,December
 TXN_3964398,Cake,4.0,3.0,12.0,Credit Card,Takeaway,2023-10-20,Friday,October
 TXN_4372163,Sandwich,1.0,4.0,4.0,,,2023-03-10,Friday,March
-TXN_7242133,Coffee,3.0,2.0,6.0,,UNKNOWN,2023-05-20,Saturday,May
+TXN_7242133,Coffee,3.0,2.0,6.0,,Unknown location,2023-05-20,Saturday,May
 TXN_7083168,Cookie,4.0,1.0,4.0,,Takeaway,2023-06-01,Thursday,June
 TXN_3419352,Salad,3.0,5.0,15.0,Digital Wallet,In-store,2023-10-22,Sunday,October
 TXN_7497565,Cookie,4.0,1.0,4.0,,Takeaway,2023-10-07,Saturday,October
@@ -2954,7 +2954,7 @@ TXN_9100063,Sandwich,2.0,4.0,8.0,,In-store,2023-09-16,Saturday,September
 TXN_6202631,Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-07-29,Saturday,July
 TXN_1868447,Tea,3.0,1.5,4.5,Cash,ERROR,2023-09-30,Saturday,September
 TXN_4726531,Salad,5.0,5.0,25.0,Cash,Takeaway,2023-09-09,Saturday,September
-TXN_8640655,Coffee,3.0,2.0,6.0,,UNKNOWN,2023-12-27,Wednesday,December
+TXN_8640655,Coffee,3.0,2.0,6.0,,Unknown location,2023-12-27,Wednesday,December
 TXN_8377812,Tea,2.0,1.5,3.0,Digital Wallet,In-store,2023-03-27,Monday,March
 TXN_2603561,Coffee,3.0,2.0,6.0,Digital Wallet,,2023-04-25,Tuesday,April
 TXN_9822173,Cake,5.0,3.0,15.0,Digital Wallet,,2023-05-22,Monday,May
@@ -2969,7 +2969,7 @@ TXN_5276842,Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-06-26,Monday,June
 TXN_1367003,Salad,5.0,5.0,25.0,Cash,In-store,2023-11-10,Friday,November
 TXN_5696844,Cookie,2.0,1.0,2.0,,In-store,2023-01-29,Sunday,January
 TXN_5672156,Cookie,2.0,1.0,2.0,Credit Card,In-store,2023-07-05,Wednesday,July
-TXN_6293225,Cake,4.0,3.0,12.0,Cash,UNKNOWN,2023-07-02,Sunday,July
+TXN_6293225,Cake,4.0,3.0,12.0,Cash,Unknown location,2023-07-02,Sunday,July
 TXN_6567880,Sandwich,5.0,4.0,20.0,Credit Card,,2023-08-15,Tuesday,August
 TXN_6355620,Cookie,1.0,1.0,1.0,Cash,,2023-06-18,Sunday,June
 TXN_3466686,Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-09-03,Sunday,September
@@ -3035,8 +3035,8 @@ TXN_8620426,Cookie,3.0,1.0,3.0,Credit Card,Takeaway,2023-11-28,Tuesday,November
 TXN_2037742,Cake,4.0,3.0,12.0,Digital Wallet,In-store,2023-11-14,Tuesday,November
 TXN_7013527,Salad,2.0,5.0,10.0,Credit Card,In-store,2023-05-18,Thursday,May
 TXN_2798420,Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-03-17,Friday,March
-TXN_6500126,Smoothie,2.0,4.0,8.0,,UNKNOWN,,,
-TXN_3926570,Coffee,3.0,2.0,6.0,,UNKNOWN,2023-09-04,Monday,September
+TXN_6500126,Smoothie,2.0,4.0,8.0,,Unknown location,,,
+TXN_3926570,Coffee,3.0,2.0,6.0,,Unknown location,2023-09-04,Monday,September
 TXN_9489442,Coffee,3.0,2.0,6.0,Credit Card,Takeaway,2023-02-06,Monday,February
 TXN_5506907,Cookie,2.0,1.0,2.0,Cash,Takeaway,2023-12-08,Friday,December
 TXN_8155325,Coffee,5.0,2.0,10.0,Digital Wallet,In-store,2023-11-27,Monday,November
@@ -3070,8 +3070,8 @@ TXN_5644074,Sandwich,2.0,4.0,8.0,Digital Wallet,In-store,2023-11-08,Wednesday,No
 TXN_5173881,Cookie,3.0,1.0,3.0,Cash,Takeaway,2023-01-29,Sunday,January
 TXN_2396923,Cookie,1.0,1.0,1.0,Digital Wallet,,2023-11-02,Thursday,November
 TXN_9612877,Smoothie,1.0,4.0,4.0,Cash,In-store,2023-03-07,Tuesday,March
-TXN_4841285,Tea,2.0,1.5,3.0,Credit Card,UNKNOWN,2023-05-04,Thursday,May
-TXN_1263426,Sandwich,2.0,4.0,8.0,,UNKNOWN,2023-10-20,Friday,October
+TXN_4841285,Tea,2.0,1.5,3.0,Credit Card,Unknown location,2023-05-04,Thursday,May
+TXN_1263426,Sandwich,2.0,4.0,8.0,,Unknown location,2023-10-20,Friday,October
 TXN_5293518,Sandwich,3.0,4.0,12.0,,In-store,2023-07-16,Sunday,July
 TXN_4296204,Salad,5.0,5.0,25.0,Digital Wallet,In-store,2023-11-28,Tuesday,November
 TXN_6478978,Juice,3.0,3.0,9.0,Credit Card,Takeaway,2023-10-27,Friday,October
@@ -3154,7 +3154,7 @@ TXN_5824950,Coffee,1.0,2.0,2.0,Credit Card,In-store,2023-12-06,Wednesday,Decembe
 TXN_6682782,Cookie,5.0,1.0,5.0,Cash,In-store,2023-12-15,Friday,December
 TXN_2468359,Salad,2.0,5.0,10.0,,,2023-07-20,Thursday,July
 TXN_9405019,Cake,5.0,3.0,15.0,,,,,
-TXN_7210366,Cake,2.0,3.0,6.0,Digital Wallet,UNKNOWN,2023-03-25,Saturday,March
+TXN_7210366,Cake,2.0,3.0,6.0,Digital Wallet,Unknown location,2023-03-25,Saturday,March
 TXN_3206293,Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-05-04,Thursday,May
 TXN_5827969,Salad,5.0,5.0,25.0,Digital Wallet,,2023-07-03,Monday,July
 TXN_6999471,,1.0,3.0,3.0,,,2023-08-07,Monday,August
@@ -3164,7 +3164,7 @@ TXN_8066306,Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-01-07,Saturday,Januar
 TXN_2260351,Coffee,3.0,2.0,6.0,Cash,,2023-10-26,Thursday,October
 TXN_5224275,Cookie,4.0,1.0,4.0,Credit Card,In-store,2023-12-17,Sunday,December
 TXN_3842567,Salad,1.0,5.0,5.0,Credit Card,In-store,2023-03-13,Monday,March
-TXN_8742742,Cake,4.0,3.0,12.0,,UNKNOWN,2023-03-07,Tuesday,March
+TXN_8742742,Cake,4.0,3.0,12.0,,Unknown location,2023-03-07,Tuesday,March
 TXN_5687012,Salad,2.0,5.0,10.0,Cash,,2023-03-12,Sunday,March
 TXN_5784372,Salad,2.0,5.0,10.0,Cash,,2023-05-23,Tuesday,May
 TXN_5905025,Cookie,4.0,1.0,4.0,,Takeaway,2023-03-08,Wednesday,March
@@ -3203,7 +3203,7 @@ TXN_8377178,Coffee,5.0,2.0,10.0,,,2023-02-03,Friday,February
 TXN_8125141,Tea,3.0,1.5,4.5,,Takeaway,2023-04-18,Tuesday,April
 TXN_9673343,,2.0,4.0,8.0,Cash,In-store,2023-06-22,Thursday,June
 TXN_8734331,Tea,3.0,1.5,4.5,,,2023-05-17,Wednesday,May
-TXN_9565246,Coffee,5.0,2.0,10.0,Cash,UNKNOWN,2023-12-28,Thursday,December
+TXN_9565246,Coffee,5.0,2.0,10.0,Cash,Unknown location,2023-12-28,Thursday,December
 TXN_9914747,Coffee,5.0,2.0,10.0,,,2023-12-05,Tuesday,December
 TXN_6148776,Coffee,5.0,2.0,10.0,,Takeaway,2023-03-02,Thursday,March
 TXN_4992510,Cookie,4.0,1.0,4.0,Cash,In-store,2023-01-26,Thursday,January
@@ -3213,9 +3213,9 @@ TXN_8131052,Cookie,1.0,1.0,1.0,Credit Card,Takeaway,2023-09-16,Saturday,Septembe
 TXN_8425819,Sandwich,1.0,4.0,4.0,,,2023-01-09,Monday,January
 TXN_8116619,Smoothie,3.0,4.0,12.0,Cash,In-store,,,
 TXN_6636395,Juice,4.0,3.0,12.0,Cash,In-store,2023-01-30,Monday,January
-TXN_2137354,Coffee,2.0,2.0,4.0,,UNKNOWN,2023-05-17,Wednesday,May
+TXN_2137354,Coffee,2.0,2.0,4.0,,Unknown location,2023-05-17,Wednesday,May
 TXN_3353615,Coffee,4.0,2.0,8.0,Credit Card,Takeaway,2023-07-24,Monday,July
-TXN_2703095,Salad,1.0,5.0,5.0,,UNKNOWN,2023-10-05,Thursday,October
+TXN_2703095,Salad,1.0,5.0,5.0,,Unknown location,2023-10-05,Thursday,October
 TXN_7282082,Sandwich,4.0,4.0,16.0,,In-store,2023-02-02,Thursday,February
 TXN_6705109,Cake,3.0,3.0,9.0,Cash,In-store,2023-08-05,Saturday,August
 TXN_5788053,Sandwich,5.0,4.0,20.0,Digital Wallet,,2023-01-04,Wednesday,January
@@ -3238,7 +3238,7 @@ TXN_1307239,Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-10-26,Thursday,Octob
 TXN_5138519,Cake,5.0,3.0,15.0,Cash,In-store,2023-05-22,Monday,May
 TXN_8763436,Juice,4.0,3.0,12.0,Cash,,2023-04-11,Tuesday,April
 TXN_2450896,Smoothie,1.0,4.0,4.0,Digital Wallet,Takeaway,,,
-TXN_4052950,Salad,2.0,5.0,10.0,Credit Card,UNKNOWN,2023-03-13,Monday,March
+TXN_4052950,Salad,2.0,5.0,10.0,Credit Card,Unknown location,2023-03-13,Monday,March
 TXN_2207332,Coffee,1.0,2.0,2.0,Credit Card,,2023-01-12,Thursday,January
 TXN_8302551,Cake,4.0,3.0,12.0,,,,,
 TXN_6710660,Salad,2.0,5.0,10.0,Cash,In-store,2023-02-08,Wednesday,February
@@ -3254,7 +3254,7 @@ TXN_7089466,Cookie,4.0,1.0,4.0,,,2023-12-26,Tuesday,December
 TXN_2898188,Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-04-26,Wednesday,April
 TXN_3741197,Cake,4.0,3.0,12.0,Credit Card,,2023-10-13,Friday,October
 TXN_5300938,Tea,5.0,1.5,7.5,Cash,Takeaway,2023-10-30,Monday,October
-TXN_3547013,Tea,3.0,1.5,4.5,,UNKNOWN,2023-04-26,Wednesday,April
+TXN_3547013,Tea,3.0,1.5,4.5,,Unknown location,2023-04-26,Wednesday,April
 TXN_7705748,Juice,3.0,3.0,9.0,Digital Wallet,,2023-07-14,Friday,July
 TXN_7469391,Coffee,5.0,2.0,10.0,Cash,In-store,,,
 TXN_8073173,Tea,5.0,1.5,7.5,Cash,,2023-07-05,Wednesday,July
@@ -3274,7 +3274,7 @@ TXN_9507568,Smoothie,4.0,4.0,16.0,Credit Card,,2023-10-12,Thursday,October
 TXN_7952916,Coffee,4.0,2.0,8.0,,,2023-12-10,Sunday,December
 TXN_1058927,Sandwich,4.0,4.0,16.0,Cash,,2023-07-08,Saturday,July
 TXN_2165365,Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-08,Thursday,June
-TXN_4497327,Cookie,2.0,1.0,2.0,Credit Card,UNKNOWN,2023-11-08,Wednesday,November
+TXN_4497327,Cookie,2.0,1.0,2.0,Credit Card,Unknown location,2023-11-08,Wednesday,November
 TXN_6029333,Cake,1.0,3.0,3.0,,,2023-06-10,Saturday,June
 TXN_9300970,Cake,2.0,3.0,6.0,Credit Card,Takeaway,2023-03-06,Monday,March
 TXN_3931747,Cookie,4.0,1.0,4.0,,Takeaway,2023-01-14,Saturday,January
@@ -3382,7 +3382,7 @@ TXN_6714068,Coffee,1.0,2.0,2.0,,,2023-02-17,Friday,February
 TXN_6920323,Sandwich,1.0,4.0,4.0,Credit Card,,2023-06-10,Saturday,June
 TXN_6519486,Cake,5.0,3.0,15.0,,,2023-02-05,Sunday,February
 TXN_7524971,Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-09-05,Tuesday,September
-TXN_4650447,Tea,1.0,1.5,1.5,Cash,UNKNOWN,2023-08-18,Friday,August
+TXN_4650447,Tea,1.0,1.5,1.5,Cash,Unknown location,2023-08-18,Friday,August
 TXN_3928174,Coffee,3.0,2.0,6.0,,,2023-09-11,Monday,September
 TXN_1475403,Cookie,1.0,1.0,1.0,Cash,In-store,,,
 TXN_1700027,Smoothie,4.0,4.0,16.0,Digital Wallet,In-store,2023-06-04,Sunday,June
@@ -3392,7 +3392,7 @@ TXN_2409052,Sandwich,1.0,4.0,4.0,Credit Card,In-store,2023-07-08,Saturday,July
 TXN_8528546,Cake,3.0,3.0,9.0,Cash,,2023-12-09,Saturday,December
 TXN_4849860,Tea,4.0,1.5,6.0,Credit Card,In-store,2023-12-01,Friday,December
 TXN_6905794,Salad,1.0,5.0,5.0,Cash,Takeaway,2023-05-31,Wednesday,May
-TXN_4469769,Salad,5.0,5.0,25.0,,UNKNOWN,2023-08-15,Tuesday,August
+TXN_4469769,Salad,5.0,5.0,25.0,,Unknown location,2023-08-15,Tuesday,August
 TXN_9452261,Cake,5.0,3.0,15.0,,,2023-11-29,Wednesday,November
 TXN_1940330,Tea,4.0,1.5,6.0,,In-store,2023-01-12,Thursday,January
 TXN_1576355,Coffee,4.0,2.0,8.0,,,2023-10-20,Friday,October
@@ -3400,14 +3400,14 @@ TXN_9511794,Cookie,1.0,1.0,1.0,Cash,Takeaway,2023-06-10,Saturday,June
 TXN_9024781,Smoothie,4.0,4.0,16.0,Cash,In-store,2023-09-12,Tuesday,September
 TXN_7771526,Juice,1.0,3.0,3.0,Cash,In-store,2023-04-28,Friday,April
 TXN_7070302,Salad,3.0,5.0,15.0,,In-store,2023-04-30,Sunday,April
-TXN_6511228,Salad,4.0,5.0,20.0,Credit Card,UNKNOWN,2023-11-01,Wednesday,November
+TXN_6511228,Salad,4.0,5.0,20.0,Credit Card,Unknown location,2023-11-01,Wednesday,November
 TXN_5320512,Tea,5.0,1.5,7.5,,In-store,2023-04-25,Tuesday,April
 TXN_2972777,Juice,4.0,3.0,12.0,Credit Card,,2023-04-08,Saturday,April
 TXN_8591813,Coffee,3.0,2.0,6.0,Cash,Takeaway,2023-10-31,Tuesday,October
 TXN_4095768,Salad,5.0,5.0,25.0,Digital Wallet,In-store,2023-06-18,Sunday,June
 TXN_9107508,Coffee,1.0,2.0,2.0,,,2023-06-06,Tuesday,June
 TXN_5534944,Tea,5.0,1.5,7.5,Credit Card,Takeaway,2023-01-26,Thursday,January
-TXN_5839300,Cake,1.0,3.0,3.0,Credit Card,UNKNOWN,2023-07-01,Saturday,July
+TXN_5839300,Cake,1.0,3.0,3.0,Credit Card,Unknown location,2023-07-01,Saturday,July
 TXN_7801115,Tea,1.0,1.5,1.5,Cash,,2023-12-18,Monday,December
 TXN_4753853,,5.0,3.0,15.0,Credit Card,Takeaway,2023-05-07,Sunday,May
 TXN_7145259,Juice,2.0,3.0,6.0,Digital Wallet,In-store,2023-11-11,Saturday,November
@@ -3430,7 +3430,7 @@ TXN_1661068,Salad,3.0,5.0,15.0,Cash,Takeaway,2023-04-09,Sunday,April
 TXN_9549381,Juice,1.0,3.0,3.0,Digital Wallet,In-store,2023-11-23,Thursday,November
 TXN_7812084,Sandwich,4.0,4.0,16.0,Cash,In-store,2023-01-17,Tuesday,January
 TXN_1694364,Sandwich,3.0,4.0,12.0,,Takeaway,2023-06-10,Saturday,June
-TXN_4191925,Coffee,2.0,2.0,4.0,,UNKNOWN,2023-10-21,Saturday,October
+TXN_4191925,Coffee,2.0,2.0,4.0,,Unknown location,2023-10-21,Saturday,October
 TXN_2258091,Juice,2.0,3.0,6.0,,In-store,2023-10-11,Wednesday,October
 TXN_6482262,Juice,3.0,3.0,9.0,Credit Card,,2023-05-13,Saturday,May
 TXN_1951166,Tea,2.0,1.5,3.0,Credit Card,ERROR,2023-08-28,Monday,August
@@ -3468,7 +3468,7 @@ TXN_4571510,Smoothie,3.0,4.0,12.0,Cash,Takeaway,2023-11-19,Sunday,November
 TXN_4742476,Coffee,2.0,2.0,4.0,Cash,In-store,2023-10-27,Friday,October
 TXN_8510436,Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-07-19,Wednesday,July
 TXN_7509630,Cookie,3.0,1.0,3.0,Cash,In-store,2023-04-20,Thursday,April
-TXN_5276301,Cake,3.0,3.0,9.0,Cash,UNKNOWN,2023-03-13,Monday,March
+TXN_5276301,Cake,3.0,3.0,9.0,Cash,Unknown location,2023-03-13,Monday,March
 TXN_4977130,Sandwich,1.0,4.0,4.0,Digital Wallet,In-store,2023-07-08,Saturday,July
 TXN_9284099,Cake,2.0,3.0,6.0,Digital Wallet,In-store,2023-07-20,Thursday,July
 TXN_1900411,Salad,3.0,5.0,15.0,,,2023-09-24,Sunday,September
@@ -3498,7 +3498,7 @@ TXN_4049031,Coffee,5.0,2.0,10.0,Digital Wallet,,2023-08-22,Tuesday,August
 TXN_1328968,Tea,1.0,1.5,1.5,,In-store,2023-06-28,Wednesday,June
 TXN_2080228,Juice,1.0,3.0,3.0,,In-store,2023-06-21,Wednesday,June
 TXN_7416880,Cake,1.0,3.0,3.0,Credit Card,In-store,2023-07-20,Thursday,July
-TXN_1360379,Tea,1.0,1.5,1.5,Credit Card,UNKNOWN,2023-08-23,Wednesday,August
+TXN_1360379,Tea,1.0,1.5,1.5,Credit Card,Unknown location,2023-08-23,Wednesday,August
 TXN_9617454,Smoothie,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-08-22,Tuesday,August
 TXN_6421446,Cake,2.0,3.0,6.0,Cash,Takeaway,2023-09-17,Sunday,September
 TXN_6272674,Coffee,3.0,2.0,6.0,Cash,,2023-09-12,Tuesday,September
@@ -3520,7 +3520,7 @@ TXN_8937461,Cookie,5.0,1.0,5.0,Digital Wallet,,2023-12-22,Friday,December
 TXN_2485272,Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-06-30,Friday,June
 TXN_4085337,Smoothie,3.0,4.0,12.0,,In-store,2023-10-25,Wednesday,October
 TXN_6838802,Coffee,1.0,2.0,2.0,,Takeaway,2023-08-29,Tuesday,August
-TXN_2114182,Cookie,3.0,1.0,3.0,Digital Wallet,UNKNOWN,2023-07-28,Friday,July
+TXN_2114182,Cookie,3.0,1.0,3.0,Digital Wallet,Unknown location,2023-07-28,Friday,July
 TXN_9592941,Tea,5.0,1.5,7.5,Digital Wallet,In-store,2023-04-08,Saturday,April
 TXN_1063342,Sandwich,5.0,4.0,20.0,,In-store,2023-01-13,Friday,January
 TXN_7153885,Salad,1.0,5.0,5.0,Credit Card,,2023-05-22,Monday,May
@@ -3540,7 +3540,7 @@ TXN_1244739,Salad,2.0,5.0,10.0,Credit Card,Takeaway,2023-09-13,Wednesday,Septemb
 TXN_7878672,Coffee,1.0,2.0,2.0,Cash,In-store,2023-10-25,Wednesday,October
 TXN_6807913,Juice,3.0,3.0,9.0,Credit Card,Takeaway,2023-01-22,Sunday,January
 TXN_6438869,Juice,5.0,3.0,15.0,Credit Card,Takeaway,2023-10-30,Monday,October
-TXN_1047204,Cookie,3.0,1.0,3.0,Digital Wallet,UNKNOWN,2023-04-13,Thursday,April
+TXN_1047204,Cookie,3.0,1.0,3.0,Digital Wallet,Unknown location,2023-04-13,Thursday,April
 TXN_6017458,Salad,5.0,5.0,25.0,Credit Card,,2023-04-23,Sunday,April
 TXN_1075446,Cookie,4.0,1.0,4.0,Credit Card,,2023-07-17,Monday,July
 TXN_8958723,Sandwich,4.0,4.0,16.0,Digital Wallet,,2023-11-12,Sunday,November
@@ -3599,7 +3599,7 @@ TXN_6487493,Salad,3.0,5.0,15.0,Cash,In-store,2023-03-13,Monday,March
 TXN_4476636,Coffee,3.0,2.0,6.0,Credit Card,In-store,,,
 TXN_9395087,Tea,1.0,1.5,1.5,Cash,In-store,2023-06-12,Monday,June
 TXN_4477559,Juice,5.0,3.0,15.0,Credit Card,,2023-10-02,Monday,October
-TXN_5542033,Sandwich,3.0,4.0,12.0,Digital Wallet,UNKNOWN,2023-06-26,Monday,June
+TXN_5542033,Sandwich,3.0,4.0,12.0,Digital Wallet,Unknown location,2023-06-26,Monday,June
 TXN_8850984,Sandwich,3.0,4.0,12.0,Cash,Takeaway,2023-05-27,Saturday,May
 TXN_1710823,Salad,2.0,5.0,10.0,Credit Card,,2023-01-27,Friday,January
 TXN_6575440,Tea,1.0,1.5,1.5,Cash,,2023-02-05,Sunday,February
@@ -3610,7 +3610,7 @@ TXN_3587444,Juice,2.0,3.0,6.0,Credit Card,,2023-02-03,Friday,February
 TXN_9407000,Sandwich,4.0,4.0,16.0,,Takeaway,2023-10-03,Tuesday,October
 TXN_3017917,Cookie,3.0,1.0,3.0,Credit Card,Takeaway,2023-08-31,Thursday,August
 TXN_7738013,Salad,5.0,5.0,25.0,Credit Card,Takeaway,2023-11-28,Tuesday,November
-TXN_8542781,Cake,2.0,3.0,6.0,,UNKNOWN,2023-05-18,Thursday,May
+TXN_8542781,Cake,2.0,3.0,6.0,,Unknown location,2023-05-18,Thursday,May
 TXN_6617283,Tea,4.0,1.5,6.0,Digital Wallet,,2023-06-09,Friday,June
 TXN_1461221,Salad,2.0,5.0,10.0,Cash,In-store,2023-04-30,Sunday,April
 TXN_2056358,Coffee,3.0,2.0,6.0,Cash,In-store,2023-09-17,Sunday,September
@@ -3618,8 +3618,8 @@ TXN_1858674,Smoothie,2.0,4.0,8.0,,In-store,2023-04-09,Sunday,April
 TXN_2251009,Cookie,5.0,1.0,5.0,,,2023-04-02,Sunday,April
 TXN_5616473,Sandwich,4.0,4.0,16.0,Cash,ERROR,2023-07-28,Friday,July
 TXN_7022398,Sandwich,4.0,4.0,16.0,,,2023-12-23,Saturday,December
-TXN_2615514,Cookie,5.0,1.0,5.0,Digital Wallet,UNKNOWN,,,
-TXN_7379939,Cookie,1.0,1.0,1.0,Cash,UNKNOWN,2023-04-21,Friday,April
+TXN_2615514,Cookie,5.0,1.0,5.0,Digital Wallet,Unknown location,,,
+TXN_7379939,Cookie,1.0,1.0,1.0,Cash,Unknown location,2023-04-21,Friday,April
 TXN_7331525,Cake,2.0,3.0,6.0,,,,,
 TXN_1004184,Smoothie,1.0,4.0,4.0,Credit Card,In-store,2023-05-18,Thursday,May
 TXN_4141868,Tea,3.0,1.5,4.5,Credit Card,,2023-02-08,Wednesday,February
@@ -3649,7 +3649,7 @@ TXN_1884923,Coffee,4.0,2.0,8.0,Digital Wallet,Takeaway,2023-05-11,Thursday,May
 TXN_8215595,Tea,2.0,1.5,3.0,Cash,,2023-11-23,Thursday,November
 TXN_7618171,Cake,5.0,3.0,15.0,Cash,,,,
 TXN_9857674,Tea,5.0,1.5,7.5,,Takeaway,2023-06-12,Monday,June
-TXN_7389626,Tea,2.0,1.5,3.0,,UNKNOWN,,,
+TXN_7389626,Tea,2.0,1.5,3.0,,Unknown location,,,
 TXN_6035512,Cake,5.0,3.0,15.0,Cash,Takeaway,2023-02-19,Sunday,February
 TXN_1398769,Smoothie,1.0,4.0,4.0,Cash,In-store,2023-06-02,Friday,June
 TXN_6874354,Sandwich,4.0,4.0,16.0,Credit Card,,2023-03-23,Thursday,March
@@ -3662,7 +3662,7 @@ TXN_7636238,Sandwich,4.0,4.0,16.0,Credit Card,,2023-03-27,Monday,March
 TXN_8913153,Smoothie,2.0,4.0,8.0,Credit Card,,2023-09-02,Saturday,September
 TXN_7595206,Sandwich,5.0,4.0,20.0,Credit Card,In-store,2023-12-02,Saturday,December
 TXN_8424592,Smoothie,4.0,4.0,16.0,Credit Card,Takeaway,2023-11-09,Thursday,November
-TXN_2000406,Cake,2.0,3.0,6.0,Credit Card,UNKNOWN,2023-06-06,Tuesday,June
+TXN_2000406,Cake,2.0,3.0,6.0,Credit Card,Unknown location,2023-06-06,Tuesday,June
 TXN_3105786,Smoothie,3.0,4.0,12.0,,In-store,2023-10-04,Wednesday,October
 TXN_7820220,Cake,3.0,3.0,9.0,Credit Card,In-store,2023-03-16,Thursday,March
 TXN_5880883,Sandwich,5.0,4.0,20.0,Digital Wallet,In-store,2023-02-02,Thursday,February
@@ -3691,7 +3691,7 @@ TXN_8304002,Juice,1.0,3.0,3.0,Credit Card,Takeaway,2023-05-02,Tuesday,May
 TXN_4341764,Coffee,2.0,2.0,4.0,Cash,,2023-12-02,Saturday,December
 TXN_1751183,,5.0,4.0,20.0,Credit Card,,2023-12-25,Monday,December
 TXN_2112333,Cookie,2.0,1.0,2.0,Credit Card,In-store,,,
-TXN_1046384,Smoothie,1.0,4.0,4.0,Cash,UNKNOWN,2023-06-09,Friday,June
+TXN_1046384,Smoothie,1.0,4.0,4.0,Cash,Unknown location,2023-06-09,Friday,June
 TXN_8287437,Tea,2.0,1.5,3.0,,,2023-03-16,Thursday,March
 TXN_4153132,Salad,3.0,5.0,15.0,Digital Wallet,,2023-03-21,Tuesday,March
 TXN_3243410,Tea,2.0,1.5,3.0,,,2023-10-30,Monday,October
@@ -3739,7 +3739,7 @@ TXN_6381860,Coffee,1.0,2.0,2.0,Digital Wallet,In-store,2023-08-21,Monday,August
 TXN_6028331,Cake,4.0,3.0,12.0,Cash,,2023-10-22,Sunday,October
 TXN_8830924,Tea,2.0,1.5,3.0,Credit Card,,2023-10-25,Wednesday,October
 TXN_3866156,Coffee,4.0,2.0,8.0,,Takeaway,2023-02-28,Tuesday,February
-TXN_6405210,Coffee,4.0,2.0,8.0,Cash,UNKNOWN,2023-08-11,Friday,August
+TXN_6405210,Coffee,4.0,2.0,8.0,Cash,Unknown location,2023-08-11,Friday,August
 TXN_4740952,Tea,4.0,1.5,6.0,,Takeaway,2023-02-21,Tuesday,February
 TXN_6321174,Tea,4.0,1.5,6.0,Digital Wallet,,2023-12-09,Saturday,December
 TXN_5613875,Tea,5.0,1.5,7.5,,In-store,,,
@@ -3748,10 +3748,10 @@ TXN_1253619,Juice,5.0,3.0,15.0,,,2023-05-25,Thursday,May
 TXN_5537517,Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-10-27,Friday,October
 TXN_5496019,Cookie,5.0,1.0,5.0,Cash,In-store,2023-11-26,Sunday,November
 TXN_4579666,Smoothie,2.0,4.0,8.0,,,2023-10-23,Monday,October
-TXN_6359281,Coffee,2.0,2.0,4.0,Credit Card,UNKNOWN,2023-09-16,Saturday,September
+TXN_6359281,Coffee,2.0,2.0,4.0,Credit Card,Unknown location,2023-09-16,Saturday,September
 TXN_3620122,Sandwich,1.0,4.0,4.0,Cash,In-store,2023-05-06,Saturday,May
 TXN_8367716,Tea,2.0,1.5,3.0,Credit Card,Takeaway,2023-02-03,Friday,February
-TXN_6779763,Cookie,1.0,1.0,1.0,Credit Card,UNKNOWN,2023-04-25,Tuesday,April
+TXN_6779763,Cookie,1.0,1.0,1.0,Credit Card,Unknown location,2023-04-25,Tuesday,April
 TXN_1985142,Smoothie,3.0,4.0,12.0,Digital Wallet,,,,
 TXN_8385321,Smoothie,2.0,4.0,8.0,Credit Card,Takeaway,2023-02-08,Wednesday,February
 TXN_5345258,Salad,2.0,5.0,10.0,Credit Card,Takeaway,2023-03-13,Monday,March
@@ -3800,7 +3800,7 @@ TXN_1478016,Cookie,4.0,1.0,4.0,,In-store,2023-08-04,Friday,August
 TXN_5321145,Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-08-29,Tuesday,August
 TXN_3884995,Juice,5.0,3.0,15.0,Cash,In-store,2023-12-25,Monday,December
 TXN_4178488,Sandwich,3.0,4.0,12.0,Cash,In-store,2023-05-08,Monday,May
-TXN_3597806,Cookie,3.0,1.0,3.0,Credit Card,UNKNOWN,2023-12-11,Monday,December
+TXN_3597806,Cookie,3.0,1.0,3.0,Credit Card,Unknown location,2023-12-11,Monday,December
 TXN_2245037,Coffee,2.0,2.0,4.0,,,2023-10-18,Wednesday,October
 TXN_4833378,Cake,5.0,3.0,15.0,Digital Wallet,,2023-10-15,Sunday,October
 TXN_7055306,Salad,1.0,5.0,5.0,,Takeaway,2023-03-09,Thursday,March
@@ -3812,7 +3812,7 @@ TXN_5048650,Smoothie,2.0,4.0,8.0,Cash,Takeaway,2023-11-18,Saturday,November
 TXN_1882700,Tea,3.0,1.5,4.5,Digital Wallet,In-store,2023-04-18,Tuesday,April
 TXN_2112911,Salad,3.0,5.0,15.0,Digital Wallet,Takeaway,2023-09-18,Monday,September
 TXN_7568316,Cake,2.0,3.0,6.0,Credit Card,,2023-11-28,Tuesday,November
-TXN_3642982,Coffee,5.0,2.0,10.0,Cash,UNKNOWN,2023-10-04,Wednesday,October
+TXN_3642982,Coffee,5.0,2.0,10.0,Cash,Unknown location,2023-10-04,Wednesday,October
 TXN_1419669,Cake,5.0,3.0,15.0,Cash,Takeaway,2023-03-07,Tuesday,March
 TXN_4791243,Cookie,5.0,1.0,5.0,,Takeaway,2023-05-12,Friday,May
 TXN_7920897,Salad,2.0,5.0,10.0,,In-store,2023-07-29,Saturday,July
@@ -3863,7 +3863,7 @@ TXN_3431526,Cookie,3.0,1.0,3.0,Credit Card,Takeaway,2023-12-27,Wednesday,Decembe
 TXN_1489218,Salad,2.0,5.0,10.0,Digital Wallet,,2023-09-13,Wednesday,September
 TXN_1936644,Juice,3.0,3.0,9.0,Digital Wallet,ERROR,2023-01-28,Saturday,January
 TXN_4293694,Smoothie,5.0,4.0,20.0,Cash,,2023-08-03,Thursday,August
-TXN_9469529,Coffee,2.0,2.0,4.0,,UNKNOWN,2023-08-09,Wednesday,August
+TXN_9469529,Coffee,2.0,2.0,4.0,,Unknown location,2023-08-09,Wednesday,August
 TXN_7692019,Juice,3.0,3.0,9.0,,In-store,2023-10-14,Saturday,October
 TXN_7677750,Tea,2.0,1.5,3.0,Cash,Takeaway,2023-12-24,Sunday,December
 TXN_9799633,Juice,4.0,3.0,12.0,Cash,In-store,2023-11-07,Tuesday,November
@@ -3891,7 +3891,7 @@ TXN_7976001,Juice,4.0,3.0,12.0,Credit Card,In-store,2023-06-27,Tuesday,June
 TXN_4969003,Cookie,1.0,1.0,1.0,Digital Wallet,In-store,2023-04-19,Wednesday,April
 TXN_3629728,Smoothie,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-03-11,Saturday,March
 TXN_1907428,Juice,4.0,3.0,12.0,Credit Card,In-store,2023-06-06,Tuesday,June
-TXN_6594753,Juice,3.0,3.0,9.0,,UNKNOWN,2023-03-16,Thursday,March
+TXN_6594753,Juice,3.0,3.0,9.0,,Unknown location,2023-03-16,Thursday,March
 TXN_8554646,Coffee,2.0,2.0,4.0,Cash,,2023-01-10,Tuesday,January
 TXN_5860664,Juice,5.0,3.0,15.0,Digital Wallet,,2023-06-06,Tuesday,June
 TXN_3586768,Coffee,2.0,2.0,4.0,,In-store,2023-05-23,Tuesday,May
@@ -3929,7 +3929,7 @@ TXN_9126573,Salad,4.0,5.0,20.0,Digital Wallet,,2023-06-17,Saturday,June
 TXN_5347338,Cake,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-07-04,Tuesday,July
 TXN_1907740,Sandwich,1.0,4.0,4.0,Cash,,2023-03-17,Friday,March
 TXN_3654670,Juice,1.0,3.0,3.0,Credit Card,Takeaway,2023-06-14,Wednesday,June
-TXN_1432682,Tea,1.0,1.5,1.5,,UNKNOWN,2023-07-11,Tuesday,July
+TXN_1432682,Tea,1.0,1.5,1.5,,Unknown location,2023-07-11,Tuesday,July
 TXN_3938271,Salad,3.0,5.0,15.0,,In-store,2023-01-12,Thursday,January
 TXN_7619641,Juice,3.0,3.0,9.0,,In-store,2023-04-02,Sunday,April
 TXN_1870423,Salad,2.0,5.0,10.0,Credit Card,Takeaway,2023-04-12,Wednesday,April
@@ -3967,14 +3967,14 @@ TXN_8455321,Smoothie,3.0,4.0,12.0,,In-store,2023-01-25,Wednesday,January
 TXN_9904505,Smoothie,2.0,4.0,8.0,Digital Wallet,ERROR,2023-06-07,Wednesday,June
 TXN_5020643,Tea,3.0,1.5,4.5,Digital Wallet,In-store,2023-10-19,Thursday,October
 TXN_8170122,Cookie,5.0,1.0,5.0,Digital Wallet,In-store,2023-03-20,Monday,March
-TXN_3930540,Smoothie,3.0,4.0,12.0,Cash,UNKNOWN,2023-03-24,Friday,March
+TXN_3930540,Smoothie,3.0,4.0,12.0,Cash,Unknown location,2023-03-24,Friday,March
 TXN_4663537,Coffee,5.0,2.0,10.0,Credit Card,,2023-10-22,Sunday,October
 TXN_5392630,Juice,5.0,3.0,15.0,Cash,Takeaway,2023-11-23,Thursday,November
 TXN_9480851,Cake,3.0,3.0,9.0,,In-store,2023-03-21,Tuesday,March
 TXN_5927620,Smoothie,1.0,4.0,4.0,Credit Card,,2023-05-04,Thursday,May
 TXN_1561430,Tea,2.0,1.5,3.0,,Takeaway,2023-10-13,Friday,October
 TXN_1133945,Smoothie,2.0,4.0,8.0,Digital Wallet,In-store,2023-10-23,Monday,October
-TXN_5467240,Smoothie,5.0,4.0,20.0,Digital Wallet,UNKNOWN,2023-10-20,Friday,October
+TXN_5467240,Smoothie,5.0,4.0,20.0,Digital Wallet,Unknown location,2023-10-20,Friday,October
 TXN_1586452,Salad,2.0,5.0,10.0,Cash,In-store,2023-02-01,Wednesday,February
 TXN_9814929,Cake,3.0,3.0,9.0,Digital Wallet,In-store,2023-10-01,Sunday,October
 TXN_8961480,Tea,4.0,1.5,6.0,Cash,,2023-02-18,Saturday,February
@@ -3989,7 +3989,7 @@ TXN_3282601,,2.0,3.0,6.0,Digital Wallet,In-store,2023-02-03,Friday,February
 TXN_2970011,Coffee,4.0,2.0,8.0,Credit Card,Takeaway,2023-06-04,Sunday,June
 TXN_5556328,Tea,5.0,1.5,7.5,Digital Wallet,In-store,2023-12-10,Sunday,December
 TXN_8786159,Coffee,3.0,2.0,6.0,Cash,In-store,2023-04-05,Wednesday,April
-TXN_2467699,Tea,1.0,1.5,1.5,Cash,UNKNOWN,2023-06-17,Saturday,June
+TXN_2467699,Tea,1.0,1.5,1.5,Cash,Unknown location,2023-06-17,Saturday,June
 TXN_3085628,Salad,1.0,5.0,5.0,Cash,,2023-08-26,Saturday,August
 TXN_7952153,Smoothie,2.0,4.0,8.0,Digital Wallet,,2023-07-24,Monday,July
 TXN_4439321,Coffee,3.0,2.0,6.0,Cash,In-store,2023-04-25,Tuesday,April
@@ -4007,7 +4007,7 @@ TXN_8122317,Coffee,3.0,2.0,6.0,Cash,Takeaway,2023-10-16,Monday,October
 TXN_2028930,Cookie,2.0,1.0,2.0,Digital Wallet,,2023-11-25,Saturday,November
 TXN_3394874,Coffee,4.0,2.0,8.0,Credit Card,Takeaway,2023-06-18,Sunday,June
 TXN_5926025,,2.0,4.0,8.0,Digital Wallet,,2023-07-29,Saturday,July
-TXN_2220389,Salad,4.0,5.0,20.0,Credit Card,UNKNOWN,2023-07-26,Wednesday,July
+TXN_2220389,Salad,4.0,5.0,20.0,Credit Card,Unknown location,2023-07-26,Wednesday,July
 TXN_9603773,Cookie,2.0,1.0,2.0,Credit Card,,2023-10-10,Tuesday,October
 TXN_1285279,Coffee,2.0,2.0,4.0,Cash,Takeaway,2023-04-09,Sunday,April
 TXN_5244558,Smoothie,4.0,4.0,16.0,Digital Wallet,,2023-06-06,Tuesday,June
@@ -4022,7 +4022,7 @@ TXN_5248011,Cake,2.0,3.0,6.0,,In-store,2023-01-21,Saturday,January
 TXN_7332957,Sandwich,5.0,4.0,20.0,Digital Wallet,,2023-07-26,Wednesday,July
 TXN_1278539,Tea,1.0,1.5,1.5,Credit Card,Takeaway,2023-04-04,Tuesday,April
 TXN_1186221,Salad,4.0,5.0,20.0,Cash,Takeaway,2023-04-21,Friday,April
-TXN_3086676,Cake,2.0,3.0,6.0,Cash,UNKNOWN,2023-07-21,Friday,July
+TXN_3086676,Cake,2.0,3.0,6.0,Cash,Unknown location,2023-07-21,Friday,July
 TXN_9696138,Juice,3.0,3.0,9.0,,,2023-12-01,Friday,December
 TXN_1846455,Sandwich,4.0,4.0,16.0,,,2023-03-16,Thursday,March
 TXN_1548245,,4.0,4.0,16.0,Credit Card,,2023-03-15,Wednesday,March
@@ -4055,7 +4055,7 @@ TXN_5665341,Tea,5.0,1.5,7.5,Cash,,2023-02-27,Monday,February
 TXN_1509627,Juice,4.0,3.0,12.0,Digital Wallet,,2023-03-23,Thursday,March
 TXN_7813066,Juice,1.0,3.0,3.0,,,2023-02-28,Tuesday,February
 TXN_5518591,Cookie,4.0,1.0,4.0,Digital Wallet,,2023-09-21,Thursday,September
-TXN_6540415,Cake,5.0,3.0,15.0,,UNKNOWN,2023-05-27,Saturday,May
+TXN_6540415,Cake,5.0,3.0,15.0,,Unknown location,2023-05-27,Saturday,May
 TXN_2991726,Juice,5.0,3.0,15.0,,In-store,2023-09-01,Friday,September
 TXN_7939659,Cake,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-07-26,Wednesday,July
 TXN_7531403,Smoothie,2.0,4.0,8.0,Cash,In-store,2023-07-08,Saturday,July
@@ -4066,8 +4066,8 @@ TXN_9233948,Cookie,4.0,1.0,4.0,Cash,,2023-03-26,Sunday,March
 TXN_1510673,Juice,3.0,3.0,9.0,,ERROR,2023-02-26,Sunday,February
 TXN_9867586,Smoothie,4.0,4.0,16.0,,In-store,2023-06-02,Friday,June
 TXN_1750875,Juice,3.0,3.0,9.0,,,2023-12-13,Wednesday,December
-TXN_6397944,Salad,5.0,5.0,25.0,,UNKNOWN,2023-10-31,Tuesday,October
-TXN_5216430,Cookie,3.0,1.0,3.0,,UNKNOWN,2023-02-05,Sunday,February
+TXN_6397944,Salad,5.0,5.0,25.0,,Unknown location,2023-10-31,Tuesday,October
+TXN_5216430,Cookie,3.0,1.0,3.0,,Unknown location,2023-02-05,Sunday,February
 TXN_2723755,Juice,3.0,3.0,9.0,Cash,,2023-06-30,Friday,June
 TXN_2313646,Sandwich,3.0,4.0,12.0,,In-store,2023-08-24,Thursday,August
 TXN_4028494,Cake,3.0,3.0,9.0,Digital Wallet,In-store,2023-10-22,Sunday,October
@@ -4079,7 +4079,7 @@ TXN_4605239,Coffee,1.0,2.0,2.0,Credit Card,,2023-08-06,Sunday,August
 TXN_8019396,Sandwich,3.0,4.0,12.0,,,2023-10-20,Friday,October
 TXN_3716685,,5.0,4.0,20.0,Digital Wallet,Takeaway,,,
 TXN_1580822,Juice,5.0,3.0,15.0,Credit Card,,,,
-TXN_5060289,Tea,5.0,1.5,7.5,Credit Card,UNKNOWN,,,
+TXN_5060289,Tea,5.0,1.5,7.5,Credit Card,Unknown location,,,
 TXN_7874772,Tea,1.0,1.5,1.5,Credit Card,Takeaway,2023-04-26,Wednesday,April
 TXN_2625464,Smoothie,3.0,4.0,12.0,Credit Card,In-store,2023-10-06,Friday,October
 TXN_9338442,Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-12-29,Friday,December
@@ -4109,7 +4109,7 @@ TXN_5023419,Cookie,3.0,1.0,3.0,Digital Wallet,Takeaway,2023-02-26,Sunday,Februar
 TXN_9864890,Sandwich,3.0,4.0,12.0,,In-store,2023-12-06,Wednesday,December
 TXN_8798330,Coffee,1.0,2.0,2.0,,In-store,2023-02-16,Thursday,February
 TXN_9951411,Coffee,1.0,2.0,2.0,Cash,In-store,2023-08-09,Wednesday,August
-TXN_6755795,Smoothie,5.0,4.0,20.0,Cash,UNKNOWN,2023-02-22,Wednesday,February
+TXN_6755795,Smoothie,5.0,4.0,20.0,Cash,Unknown location,2023-02-22,Wednesday,February
 TXN_7507071,Smoothie,2.0,4.0,8.0,,In-store,2023-01-10,Tuesday,January
 TXN_1018470,Juice,3.0,3.0,9.0,,ERROR,2023-01-14,Saturday,January
 TXN_2924262,Cookie,5.0,1.0,5.0,,,2023-09-01,Friday,September
@@ -4117,7 +4117,7 @@ TXN_6472242,Sandwich,1.0,4.0,4.0,,,2023-03-27,Monday,March
 TXN_8482647,Sandwich,5.0,4.0,20.0,Credit Card,,2023-01-08,Sunday,January
 TXN_6994354,Salad,5.0,5.0,25.0,,Takeaway,2023-07-03,Monday,July
 TXN_3520910,Salad,1.0,5.0,5.0,Credit Card,Takeaway,2023-05-06,Saturday,May
-TXN_8589003,Tea,4.0,1.5,6.0,Cash,UNKNOWN,2023-08-25,Friday,August
+TXN_8589003,Tea,4.0,1.5,6.0,Cash,Unknown location,2023-08-25,Friday,August
 TXN_9619442,Cake,4.0,3.0,12.0,Digital Wallet,In-store,2023-05-23,Tuesday,May
 TXN_1050323,Juice,1.0,3.0,3.0,,In-store,2023-03-10,Friday,March
 TXN_8379815,Smoothie,5.0,4.0,20.0,Credit Card,,2023-07-31,Monday,July
@@ -4129,7 +4129,7 @@ TXN_4105487,Sandwich,4.0,4.0,16.0,Digital Wallet,In-store,2023-04-13,Thursday,Ap
 TXN_6856558,Juice,4.0,3.0,12.0,,Takeaway,2023-10-30,Monday,October
 TXN_3669990,Tea,2.0,1.5,3.0,Cash,Takeaway,2023-01-27,Friday,January
 TXN_5994713,Tea,3.0,1.5,4.5,,Takeaway,2023-03-05,Sunday,March
-TXN_8091357,Coffee,1.0,2.0,2.0,Cash,UNKNOWN,2023-12-28,Thursday,December
+TXN_8091357,Coffee,1.0,2.0,2.0,Cash,Unknown location,2023-12-28,Thursday,December
 TXN_9555958,Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-09-30,Saturday,September
 TXN_4194085,Salad,1.0,5.0,5.0,Credit Card,,2023-05-25,Thursday,May
 TXN_7780748,Cookie,3.0,1.0,3.0,Credit Card,In-store,2023-01-19,Thursday,January
@@ -4138,12 +4138,12 @@ TXN_1048284,Salad,2.0,5.0,10.0,Cash,In-store,2023-08-19,Saturday,August
 TXN_3120848,Cookie,1.0,1.0,1.0,Cash,In-store,2023-11-01,Wednesday,November
 TXN_3764807,Smoothie,2.0,4.0,8.0,,,2023-08-28,Monday,August
 TXN_3315467,Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-11-17,Friday,November
-TXN_9363990,Cake,3.0,3.0,9.0,Credit Card,UNKNOWN,2023-01-17,Tuesday,January
+TXN_9363990,Cake,3.0,3.0,9.0,Credit Card,Unknown location,2023-01-17,Tuesday,January
 TXN_9666257,Juice,2.0,3.0,6.0,,In-store,2023-09-27,Wednesday,September
 TXN_1504466,Coffee,1.0,2.0,2.0,Cash,,2023-11-07,Tuesday,November
 TXN_7603895,Smoothie,5.0,4.0,20.0,Credit Card,In-store,,,
 TXN_1477525,Salad,3.0,5.0,15.0,Cash,Takeaway,2023-11-06,Monday,November
-TXN_9063624,Coffee,1.0,2.0,2.0,Credit Card,UNKNOWN,2023-04-21,Friday,April
+TXN_9063624,Coffee,1.0,2.0,2.0,Credit Card,Unknown location,2023-04-21,Friday,April
 TXN_1595139,Smoothie,5.0,4.0,20.0,Cash,,2023-08-24,Thursday,August
 TXN_8606912,Salad,5.0,5.0,25.0,Digital Wallet,,2023-03-10,Friday,March
 TXN_8548232,Sandwich,4.0,4.0,16.0,Digital Wallet,In-store,2023-06-21,Wednesday,June
@@ -4188,7 +4188,7 @@ TXN_9999124,Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,,,
 TXN_8787350,Sandwich,5.0,4.0,20.0,,,2023-05-21,Sunday,May
 TXN_7533675,Smoothie,3.0,4.0,12.0,,In-store,2023-10-28,Saturday,October
 TXN_2264601,Tea,1.0,1.5,1.5,,,2023-01-21,Saturday,January
-TXN_6024139,Juice,4.0,3.0,12.0,Digital Wallet,UNKNOWN,2023-08-15,Tuesday,August
+TXN_6024139,Juice,4.0,3.0,12.0,Digital Wallet,Unknown location,2023-08-15,Tuesday,August
 TXN_9841397,Coffee,4.0,2.0,8.0,Cash,In-store,2023-12-28,Thursday,December
 TXN_7302991,,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-04-05,Wednesday,April
 TXN_6093331,Smoothie,2.0,4.0,8.0,Credit Card,,2023-06-24,Saturday,June
@@ -4277,10 +4277,10 @@ TXN_3781198,Cake,3.0,3.0,9.0,Digital Wallet,In-store,2023-11-04,Saturday,Novembe
 TXN_3585464,Cookie,3.0,1.0,3.0,,Takeaway,2023-09-12,Tuesday,September
 TXN_8286164,Smoothie,1.0,4.0,4.0,,In-store,2023-03-08,Wednesday,March
 TXN_8851113,Tea,3.0,1.5,4.5,Digital Wallet,,2023-12-23,Saturday,December
-TXN_9131136,Juice,2.0,3.0,6.0,Credit Card,UNKNOWN,2023-03-20,Monday,March
+TXN_9131136,Juice,2.0,3.0,6.0,Credit Card,Unknown location,2023-03-20,Monday,March
 TXN_8872160,Salad,5.0,5.0,25.0,Digital Wallet,,,,
 TXN_1449065,Salad,2.0,5.0,10.0,Cash,,2023-10-03,Tuesday,October
-TXN_1230311,Juice,3.0,3.0,9.0,Digital Wallet,UNKNOWN,2023-08-14,Monday,August
+TXN_1230311,Juice,3.0,3.0,9.0,Digital Wallet,Unknown location,2023-08-14,Monday,August
 TXN_2325484,Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-08-16,Wednesday,August
 TXN_2647425,Juice,4.0,3.0,12.0,Credit Card,ERROR,2023-07-30,Sunday,July
 TXN_5525916,Coffee,2.0,2.0,4.0,Cash,Takeaway,2023-03-02,Thursday,March
@@ -4326,7 +4326,7 @@ TXN_5406762,Salad,4.0,5.0,20.0,Credit Card,ERROR,2023-09-12,Tuesday,September
 TXN_3039985,Cookie,5.0,1.0,5.0,Digital Wallet,In-store,2023-04-08,Saturday,April
 TXN_1424056,Smoothie,1.0,4.0,4.0,Cash,,2023-07-31,Monday,July
 TXN_1193221,Tea,3.0,1.5,4.5,Credit Card,In-store,2023-10-21,Saturday,October
-TXN_8610501,Sandwich,5.0,4.0,20.0,Cash,UNKNOWN,2023-09-29,Friday,September
+TXN_8610501,Sandwich,5.0,4.0,20.0,Cash,Unknown location,2023-09-29,Friday,September
 TXN_9587445,Coffee,4.0,2.0,8.0,,In-store,2023-08-24,Thursday,August
 TXN_8356048,,5.0,4.0,20.0,Cash,Takeaway,2023-06-05,Monday,June
 TXN_3480278,Smoothie,4.0,4.0,16.0,Digital Wallet,In-store,2023-12-26,Tuesday,December
@@ -4344,7 +4344,7 @@ TXN_2535099,Sandwich,5.0,4.0,20.0,Credit Card,In-store,2023-02-10,Friday,Februar
 TXN_2951148,Sandwich,4.0,4.0,16.0,Cash,In-store,2023-02-21,Tuesday,February
 TXN_1294101,Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-03-31,Friday,March
 TXN_4336247,Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-03-03,Friday,March
-TXN_7101384,Coffee,1.0,2.0,2.0,,UNKNOWN,2023-04-23,Sunday,April
+TXN_7101384,Coffee,1.0,2.0,2.0,,Unknown location,2023-04-23,Sunday,April
 TXN_1356599,Cookie,2.0,1.0,2.0,Cash,Takeaway,2023-12-14,Thursday,December
 TXN_4568452,Cookie,3.0,1.0,3.0,Digital Wallet,In-store,2023-01-14,Saturday,January
 TXN_5036856,Coffee,5.0,2.0,10.0,Cash,In-store,2023-03-27,Monday,March
@@ -4382,7 +4382,7 @@ TXN_8978004,Coffee,2.0,2.0,4.0,Digital Wallet,In-store,2023-04-01,Saturday,April
 TXN_9679889,Sandwich,3.0,4.0,12.0,Credit Card,In-store,2023-06-18,Sunday,June
 TXN_9818163,Tea,2.0,1.5,3.0,Digital Wallet,ERROR,2023-10-23,Monday,October
 TXN_7010020,Cake,5.0,3.0,15.0,,In-store,2023-08-07,Monday,August
-TXN_1712662,Juice,2.0,3.0,6.0,Cash,UNKNOWN,2023-05-31,Wednesday,May
+TXN_1712662,Juice,2.0,3.0,6.0,Cash,Unknown location,2023-05-31,Wednesday,May
 TXN_4077799,Cake,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-08-12,Saturday,August
 TXN_8225571,Tea,4.0,1.5,6.0,Digital Wallet,,2023-01-17,Tuesday,January
 TXN_3103520,Cake,3.0,3.0,9.0,,,2023-09-04,Monday,September
@@ -4390,7 +4390,7 @@ TXN_2084080,Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-09-22,Friday,Septemb
 TXN_2740398,Cookie,4.0,1.0,4.0,Digital Wallet,In-store,,,
 TXN_8046057,Coffee,1.0,2.0,2.0,Credit Card,In-store,2023-11-24,Friday,November
 TXN_3752448,Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-05-16,Tuesday,May
-TXN_3842881,Salad,5.0,5.0,25.0,,UNKNOWN,2023-01-25,Wednesday,January
+TXN_3842881,Salad,5.0,5.0,25.0,,Unknown location,2023-01-25,Wednesday,January
 TXN_4060160,Coffee,4.0,2.0,8.0,,In-store,2023-07-05,Wednesday,July
 TXN_3847405,Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-15,Thursday,June
 TXN_5103644,Cake,4.0,3.0,12.0,Credit Card,Takeaway,2023-04-17,Monday,April
@@ -4437,7 +4437,7 @@ TXN_2633322,Salad,4.0,5.0,20.0,Digital Wallet,,2023-01-15,Sunday,January
 TXN_9910333,Cake,2.0,3.0,6.0,,In-store,2023-09-15,Friday,September
 TXN_7321479,Cake,1.0,3.0,3.0,,ERROR,2023-10-31,Tuesday,October
 TXN_4315166,Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-10,Saturday,June
-TXN_7843112,Cookie,4.0,1.0,4.0,,UNKNOWN,2023-01-25,Wednesday,January
+TXN_7843112,Cookie,4.0,1.0,4.0,,Unknown location,2023-01-25,Wednesday,January
 TXN_2879791,Sandwich,1.0,4.0,4.0,,,2023-07-10,Monday,July
 TXN_2503128,Cake,1.0,3.0,3.0,Cash,In-store,2023-01-12,Thursday,January
 TXN_2371763,Sandwich,4.0,4.0,16.0,Cash,,2023-05-17,Wednesday,May
@@ -4460,7 +4460,7 @@ TXN_8843108,Juice,5.0,3.0,15.0,,,2023-07-18,Tuesday,July
 TXN_4643305,Cookie,4.0,1.0,4.0,,Takeaway,2023-04-12,Wednesday,April
 TXN_8754977,Sandwich,3.0,4.0,12.0,Digital Wallet,In-store,2023-10-24,Tuesday,October
 TXN_2052060,Sandwich,3.0,4.0,12.0,Cash,Takeaway,2023-11-07,Tuesday,November
-TXN_1275124,Coffee,3.0,2.0,6.0,,UNKNOWN,2023-06-21,Wednesday,June
+TXN_1275124,Coffee,3.0,2.0,6.0,,Unknown location,2023-06-21,Wednesday,June
 TXN_3534536,Coffee,1.0,2.0,2.0,Credit Card,,2023-02-02,Thursday,February
 TXN_1779679,Coffee,5.0,2.0,10.0,,In-store,2023-01-06,Friday,January
 TXN_6379692,Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-11-05,Sunday,November
@@ -4503,7 +4503,7 @@ TXN_1467546,Cookie,3.0,1.0,3.0,,Takeaway,2023-07-20,Thursday,July
 TXN_2276722,Salad,2.0,5.0,10.0,Cash,Takeaway,2023-12-21,Thursday,December
 TXN_2519044,Salad,5.0,5.0,25.0,Digital Wallet,Takeaway,2023-05-20,Saturday,May
 TXN_2851147,Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-06-24,Saturday,June
-TXN_3349404,Coffee,3.0,2.0,6.0,Digital Wallet,UNKNOWN,2023-01-31,Tuesday,January
+TXN_3349404,Coffee,3.0,2.0,6.0,Digital Wallet,Unknown location,2023-01-31,Tuesday,January
 TXN_3877580,Salad,2.0,5.0,10.0,Digital Wallet,ERROR,2023-05-30,Tuesday,May
 TXN_5220523,Juice,3.0,3.0,9.0,Cash,Takeaway,2023-01-30,Monday,January
 TXN_5934526,Coffee,5.0,2.0,10.0,Credit Card,In-store,2023-05-27,Saturday,May
@@ -4576,7 +4576,7 @@ TXN_4831345,Sandwich,5.0,4.0,20.0,,In-store,2023-05-10,Wednesday,May
 TXN_6301984,Juice,5.0,3.0,15.0,,Takeaway,,,
 TXN_1456374,Cookie,5.0,1.0,5.0,Cash,,2023-02-15,Wednesday,February
 TXN_3263746,Coffee,1.0,2.0,2.0,Cash,Takeaway,2023-11-14,Tuesday,November
-TXN_2268203,Salad,3.0,5.0,15.0,,UNKNOWN,,,
+TXN_2268203,Salad,3.0,5.0,15.0,,Unknown location,,,
 TXN_9502077,Smoothie,3.0,4.0,12.0,,,2023-12-21,Thursday,December
 TXN_4994052,Coffee,4.0,2.0,8.0,,Takeaway,,,
 TXN_1671480,Cookie,5.0,1.0,5.0,,,2023-01-06,Friday,January
@@ -4597,7 +4597,7 @@ TXN_9720012,Smoothie,5.0,4.0,20.0,Cash,In-store,2023-09-25,Monday,September
 TXN_9390188,Tea,1.0,1.5,1.5,,Takeaway,2023-06-20,Tuesday,June
 TXN_1952465,Cake,2.0,3.0,6.0,,Takeaway,2023-06-11,Sunday,June
 TXN_7605154,Juice,5.0,3.0,15.0,Cash,In-store,2023-09-09,Saturday,September
-TXN_4702378,Cake,2.0,3.0,6.0,Cash,UNKNOWN,2023-08-28,Monday,August
+TXN_4702378,Cake,2.0,3.0,6.0,Cash,Unknown location,2023-08-28,Monday,August
 TXN_6312755,Sandwich,2.0,4.0,8.0,Credit Card,,2023-02-11,Saturday,February
 TXN_7584025,Tea,4.0,1.5,6.0,,In-store,2023-09-18,Monday,September
 TXN_7533540,Sandwich,5.0,4.0,20.0,,In-store,2023-11-01,Wednesday,November
@@ -4614,12 +4614,12 @@ TXN_6347670,Tea,2.0,1.5,3.0,Digital Wallet,In-store,2023-06-24,Saturday,June
 TXN_9180345,Sandwich,4.0,4.0,16.0,Digital Wallet,,2023-06-13,Tuesday,June
 TXN_9632482,Cake,2.0,3.0,6.0,Credit Card,,2023-08-27,Sunday,August
 TXN_4642770,Tea,4.0,1.5,6.0,,,2023-09-22,Friday,September
-TXN_5148730,Cake,1.0,3.0,3.0,Cash,UNKNOWN,2023-12-12,Tuesday,December
+TXN_5148730,Cake,1.0,3.0,3.0,Cash,Unknown location,2023-12-12,Tuesday,December
 TXN_8848847,Cookie,3.0,1.0,3.0,Cash,Takeaway,2023-08-15,Tuesday,August
 TXN_3686848,Tea,3.0,1.5,4.5,,,2023-04-06,Thursday,April
 TXN_2328896,Smoothie,4.0,4.0,16.0,Cash,,2023-10-20,Friday,October
 TXN_5942011,Tea,1.0,1.5,1.5,Cash,,2023-10-08,Sunday,October
-TXN_7137364,Salad,5.0,5.0,25.0,Cash,UNKNOWN,2023-08-09,Wednesday,August
+TXN_7137364,Salad,5.0,5.0,25.0,Cash,Unknown location,2023-08-09,Wednesday,August
 TXN_1510406,Salad,3.0,5.0,15.0,,In-store,2023-01-12,Thursday,January
 TXN_8176812,Sandwich,5.0,4.0,20.0,Digital Wallet,,2023-06-21,Wednesday,June
 TXN_1360872,Coffee,2.0,2.0,4.0,Credit Card,In-store,2023-11-04,Saturday,November
@@ -4640,7 +4640,7 @@ TXN_1643870,Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-10-07,Saturday,Octob
 TXN_4734216,Salad,3.0,5.0,15.0,Digital Wallet,In-store,2023-11-30,Thursday,November
 TXN_4060538,Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-09-08,Friday,September
 TXN_5173628,Tea,3.0,1.5,4.5,,Takeaway,2023-05-30,Tuesday,May
-TXN_9040196,Juice,3.0,3.0,9.0,Cash,UNKNOWN,2023-06-28,Wednesday,June
+TXN_9040196,Juice,3.0,3.0,9.0,Cash,Unknown location,2023-06-28,Wednesday,June
 TXN_1853983,Tea,1.0,1.5,1.5,Cash,In-store,2023-12-04,Monday,December
 TXN_1936915,Salad,3.0,5.0,15.0,Digital Wallet,In-store,2023-01-24,Tuesday,January
 TXN_8693747,Smoothie,4.0,4.0,16.0,Digital Wallet,,2023-02-13,Monday,February
@@ -4710,7 +4710,7 @@ TXN_2221447,Cookie,1.0,1.0,1.0,Credit Card,In-store,2023-12-06,Wednesday,Decembe
 TXN_3564954,Smoothie,4.0,4.0,16.0,Cash,,2023-03-09,Thursday,March
 TXN_8464222,Cake,4.0,3.0,12.0,Cash,In-store,2023-08-17,Thursday,August
 TXN_6815753,Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-10-27,Friday,October
-TXN_9477892,Cake,3.0,3.0,9.0,Credit Card,UNKNOWN,2023-08-21,Monday,August
+TXN_9477892,Cake,3.0,3.0,9.0,Credit Card,Unknown location,2023-08-21,Monday,August
 TXN_3136701,,2.0,4.0,8.0,,In-store,2023-12-18,Monday,December
 TXN_1634534,Juice,5.0,3.0,15.0,,,2023-12-03,Sunday,December
 TXN_7809121,Cake,4.0,3.0,12.0,,,2023-05-15,Monday,May
@@ -4721,7 +4721,7 @@ TXN_8969428,Salad,3.0,5.0,15.0,,Takeaway,2023-03-08,Wednesday,March
 TXN_5269634,Cake,5.0,3.0,15.0,Digital Wallet,In-store,2023-04-07,Friday,April
 TXN_3043982,Sandwich,5.0,4.0,20.0,Cash,In-store,2023-01-10,Tuesday,January
 TXN_6310896,Sandwich,1.0,4.0,4.0,,In-store,2023-05-01,Monday,May
-TXN_5496282,Smoothie,2.0,4.0,8.0,,UNKNOWN,2023-03-03,Friday,March
+TXN_5496282,Smoothie,2.0,4.0,8.0,,Unknown location,2023-03-03,Friday,March
 TXN_3947201,Cookie,5.0,1.0,5.0,,Takeaway,2023-06-17,Saturday,June
 TXN_3666951,Juice,2.0,3.0,6.0,,In-store,2023-01-06,Friday,January
 TXN_7254494,Coffee,5.0,2.0,10.0,Credit Card,Takeaway,2023-03-16,Thursday,March
@@ -4745,7 +4745,7 @@ TXN_1173155,Coffee,1.0,2.0,2.0,Cash,In-store,2023-03-14,Tuesday,March
 TXN_1476711,Tea,2.0,1.5,3.0,,,2023-01-26,Thursday,January
 TXN_5341644,Cake,4.0,3.0,12.0,Cash,,2023-01-24,Tuesday,January
 TXN_4548274,Juice,5.0,3.0,15.0,Digital Wallet,,2023-05-09,Tuesday,May
-TXN_8008815,Salad,2.0,5.0,10.0,,UNKNOWN,2023-03-16,Thursday,March
+TXN_8008815,Salad,2.0,5.0,10.0,,Unknown location,2023-03-16,Thursday,March
 TXN_3639760,Cake,5.0,3.0,15.0,Credit Card,Takeaway,2023-01-29,Sunday,January
 TXN_8159727,Salad,5.0,5.0,25.0,Digital Wallet,,2023-04-24,Monday,April
 TXN_5061028,Cookie,1.0,1.0,1.0,Credit Card,Takeaway,2023-05-17,Wednesday,May
@@ -4787,7 +4787,7 @@ TXN_3868402,Coffee,3.0,2.0,6.0,Cash,In-store,2023-01-21,Saturday,January
 TXN_4624591,Salad,2.0,5.0,10.0,Credit Card,In-store,2023-08-03,Thursday,August
 TXN_9640865,Cookie,2.0,1.0,2.0,Cash,Takeaway,2023-03-18,Saturday,March
 TXN_6456008,Salad,5.0,5.0,25.0,Credit Card,In-store,2023-03-26,Sunday,March
-TXN_4986668,Cake,3.0,3.0,9.0,Digital Wallet,UNKNOWN,2023-11-30,Thursday,November
+TXN_4986668,Cake,3.0,3.0,9.0,Digital Wallet,Unknown location,2023-11-30,Thursday,November
 TXN_6235329,Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-10-11,Wednesday,October
 TXN_8536578,Cake,5.0,3.0,15.0,Digital Wallet,In-store,2023-11-11,Saturday,November
 TXN_4545512,Coffee,1.0,2.0,2.0,,Takeaway,2023-12-18,Monday,December
@@ -4872,7 +4872,7 @@ TXN_1815061,Cake,3.0,3.0,9.0,Digital Wallet,In-store,2023-01-20,Friday,January
 TXN_9522690,Cookie,4.0,1.0,4.0,Credit Card,In-store,2023-07-23,Sunday,July
 TXN_2858635,Sandwich,1.0,4.0,4.0,Digital Wallet,In-store,2023-09-28,Thursday,September
 TXN_7030681,Juice,1.0,3.0,3.0,Cash,,2023-10-01,Sunday,October
-TXN_6817358,Smoothie,2.0,4.0,8.0,Credit Card,UNKNOWN,2023-12-22,Friday,December
+TXN_6817358,Smoothie,2.0,4.0,8.0,Credit Card,Unknown location,2023-12-22,Friday,December
 TXN_4430474,Cake,2.0,3.0,6.0,Digital Wallet,,2023-06-08,Thursday,June
 TXN_2329938,Sandwich,3.0,4.0,12.0,Credit Card,,2023-03-29,Wednesday,March
 TXN_3642052,Cake,1.0,3.0,3.0,,Takeaway,2023-07-19,Wednesday,July
@@ -5011,7 +5011,7 @@ TXN_4892165,Juice,3.0,3.0,9.0,Cash,In-store,2023-07-27,Thursday,July
 TXN_6588156,Cake,4.0,3.0,12.0,,In-store,2023-04-14,Friday,April
 TXN_6941542,Sandwich,3.0,4.0,12.0,,In-store,2023-09-27,Wednesday,September
 TXN_5214986,Cookie,5.0,1.0,5.0,Credit Card,In-store,2023-09-21,Thursday,September
-TXN_3635874,Sandwich,2.0,4.0,8.0,Cash,UNKNOWN,2023-03-16,Thursday,March
+TXN_3635874,Sandwich,2.0,4.0,8.0,Cash,Unknown location,2023-03-16,Thursday,March
 TXN_1721910,Juice,4.0,3.0,12.0,Digital Wallet,,2023-03-21,Tuesday,March
 TXN_9615339,Sandwich,1.0,4.0,4.0,,In-store,,,
 TXN_1120969,Coffee,2.0,2.0,4.0,Credit Card,,2023-04-15,Saturday,April
@@ -5020,14 +5020,14 @@ TXN_9699174,Smoothie,3.0,4.0,12.0,,,2023-01-03,Tuesday,January
 TXN_6036409,Tea,5.0,1.5,7.5,Cash,Takeaway,2023-02-16,Thursday,February
 TXN_5927258,Tea,5.0,1.5,7.5,,In-store,2023-10-18,Wednesday,October
 TXN_6027031,Juice,5.0,3.0,15.0,Credit Card,In-store,2023-11-15,Wednesday,November
-TXN_4449992,Cookie,3.0,1.0,3.0,Digital Wallet,UNKNOWN,2023-01-09,Monday,January
+TXN_4449992,Cookie,3.0,1.0,3.0,Digital Wallet,Unknown location,2023-01-09,Monday,January
 TXN_3018211,Salad,4.0,5.0,20.0,,,,,
 TXN_1900906,Coffee,5.0,2.0,10.0,Cash,,2023-01-31,Tuesday,January
 TXN_7171590,Coffee,3.0,2.0,6.0,Credit Card,In-store,2023-04-24,Monday,April
 TXN_5746203,Tea,5.0,1.5,7.5,Cash,,2023-07-08,Saturday,July
 TXN_1696300,Cookie,1.0,1.0,1.0,Digital Wallet,In-store,2023-05-28,Sunday,May
 TXN_1255476,Smoothie,1.0,4.0,4.0,,,2023-08-28,Monday,August
-TXN_9403115,Tea,1.0,1.5,1.5,,UNKNOWN,2023-04-17,Monday,April
+TXN_9403115,Tea,1.0,1.5,1.5,,Unknown location,2023-04-17,Monday,April
 TXN_4476539,Salad,2.0,5.0,10.0,Cash,,2023-04-19,Wednesday,April
 TXN_5263133,Juice,2.0,3.0,6.0,,Takeaway,2023-05-22,Monday,May
 TXN_8473362,Juice,3.0,3.0,9.0,Digital Wallet,,2023-11-22,Wednesday,November
@@ -5093,7 +5093,7 @@ TXN_1643122,Juice,3.0,3.0,9.0,,In-store,2023-05-15,Monday,May
 TXN_2252586,Tea,3.0,1.5,4.5,Cash,Takeaway,2023-09-08,Friday,September
 TXN_8853027,Smoothie,5.0,4.0,20.0,Credit Card,In-store,2023-06-21,Wednesday,June
 TXN_2351890,Tea,4.0,1.5,6.0,,In-store,2023-02-27,Monday,February
-TXN_3882139,Smoothie,4.0,4.0,16.0,,UNKNOWN,2023-12-28,Thursday,December
+TXN_3882139,Smoothie,4.0,4.0,16.0,,Unknown location,2023-12-28,Thursday,December
 TXN_6296806,Sandwich,2.0,4.0,8.0,,Takeaway,,,
 TXN_6149247,Sandwich,3.0,4.0,12.0,,Takeaway,2023-09-21,Thursday,September
 TXN_3371429,Salad,2.0,5.0,10.0,Credit Card,,2023-11-01,Wednesday,November
@@ -5143,7 +5143,7 @@ TXN_8363628,Salad,1.0,5.0,5.0,Digital Wallet,,2023-04-07,Friday,April
 TXN_4761088,Cake,4.0,3.0,12.0,Digital Wallet,,2023-08-27,Sunday,August
 TXN_8526941,Sandwich,5.0,4.0,20.0,,Takeaway,2023-03-16,Thursday,March
 TXN_2453194,Cake,4.0,3.0,12.0,Digital Wallet,ERROR,2023-11-18,Saturday,November
-TXN_9970195,Coffee,2.0,2.0,4.0,,UNKNOWN,2023-11-10,Friday,November
+TXN_9970195,Coffee,2.0,2.0,4.0,,Unknown location,2023-11-10,Friday,November
 TXN_4458848,Cookie,2.0,1.0,2.0,,In-store,2023-10-30,Monday,October
 TXN_1606273,Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-11-02,Thursday,November
 TXN_8053946,Tea,1.0,1.5,1.5,,Takeaway,2023-09-18,Monday,September
@@ -5151,7 +5151,7 @@ TXN_7963189,Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-03-24,Friday,March
 TXN_9151273,Tea,2.0,1.5,3.0,Cash,,2023-04-09,Sunday,April
 TXN_4702345,Salad,4.0,5.0,20.0,Digital Wallet,,2023-01-08,Sunday,January
 TXN_4832452,Tea,5.0,1.5,7.5,Cash,,2023-02-05,Sunday,February
-TXN_9314690,Salad,2.0,5.0,10.0,Credit Card,UNKNOWN,2023-12-11,Monday,December
+TXN_9314690,Salad,2.0,5.0,10.0,Credit Card,Unknown location,2023-12-11,Monday,December
 TXN_3852141,Cake,5.0,3.0,15.0,Credit Card,In-store,2023-08-04,Friday,August
 TXN_6039321,Salad,2.0,5.0,10.0,Credit Card,,2023-02-15,Wednesday,February
 TXN_5797307,Tea,5.0,1.5,7.5,,In-store,2023-03-16,Thursday,March
@@ -5172,7 +5172,7 @@ TXN_2521185,Smoothie,2.0,4.0,8.0,Cash,Takeaway,2023-03-20,Monday,March
 TXN_6233021,Juice,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-12-22,Friday,December
 TXN_7498795,Cookie,2.0,1.0,2.0,Cash,Takeaway,2023-03-11,Saturday,March
 TXN_6730130,Tea,2.0,1.5,3.0,,,2023-10-16,Monday,October
-TXN_8810855,Sandwich,4.0,4.0,16.0,,UNKNOWN,2023-04-30,Sunday,April
+TXN_8810855,Sandwich,4.0,4.0,16.0,,Unknown location,2023-04-30,Sunday,April
 TXN_1599516,Juice,3.0,3.0,9.0,Cash,In-store,2023-05-11,Thursday,May
 TXN_6888839,Tea,3.0,1.5,4.5,Digital Wallet,Takeaway,2023-11-19,Sunday,November
 TXN_5970304,Salad,4.0,5.0,20.0,Credit Card,,2023-07-14,Friday,July
@@ -5180,7 +5180,7 @@ TXN_4559065,Juice,1.0,3.0,3.0,Cash,In-store,2023-05-03,Wednesday,May
 TXN_7637325,Cookie,4.0,1.0,4.0,,,2023-05-03,Wednesday,May
 TXN_9685491,Coffee,4.0,2.0,8.0,Cash,,2023-09-20,Wednesday,September
 TXN_1767321,Sandwich,1.0,4.0,4.0,,In-store,2023-03-24,Friday,March
-TXN_9046415,Smoothie,2.0,4.0,8.0,,UNKNOWN,2023-06-06,Tuesday,June
+TXN_9046415,Smoothie,2.0,4.0,8.0,,Unknown location,2023-06-06,Tuesday,June
 TXN_3785168,,3.0,3.0,9.0,,Takeaway,2023-05-01,Monday,May
 TXN_2696377,Juice,4.0,3.0,12.0,Digital Wallet,In-store,2023-04-11,Tuesday,April
 TXN_7754382,Sandwich,4.0,4.0,16.0,Credit Card,ERROR,2023-06-28,Wednesday,June
@@ -5233,7 +5233,7 @@ TXN_4147675,Tea,2.0,1.5,3.0,Credit Card,In-store,2023-01-04,Wednesday,January
 TXN_7560178,Cookie,5.0,1.0,5.0,Digital Wallet,In-store,2023-08-17,Thursday,August
 TXN_4677478,Cake,4.0,3.0,12.0,,In-store,2023-07-09,Sunday,July
 TXN_3930990,Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-02-27,Monday,February
-TXN_6621596,Salad,2.0,5.0,10.0,Credit Card,UNKNOWN,2023-09-25,Monday,September
+TXN_6621596,Salad,2.0,5.0,10.0,Credit Card,Unknown location,2023-09-25,Monday,September
 TXN_8076942,Cookie,2.0,1.0,2.0,Cash,Takeaway,2023-04-29,Saturday,April
 TXN_4367689,Cookie,2.0,1.0,2.0,Cash,,2023-09-30,Saturday,September
 TXN_2941800,Salad,5.0,5.0,25.0,Cash,,2023-04-25,Tuesday,April
@@ -5292,7 +5292,7 @@ TXN_9699083,Smoothie,1.0,4.0,4.0,Cash,In-store,2023-02-12,Sunday,February
 TXN_5714767,Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-03-02,Thursday,March
 TXN_5844851,Smoothie,5.0,4.0,20.0,,,2023-02-15,Wednesday,February
 TXN_7243779,Cookie,1.0,1.0,1.0,,In-store,,,
-TXN_8141558,Cake,5.0,3.0,15.0,Credit Card,UNKNOWN,2023-12-05,Tuesday,December
+TXN_8141558,Cake,5.0,3.0,15.0,Credit Card,Unknown location,2023-12-05,Tuesday,December
 TXN_4314314,Cake,4.0,3.0,12.0,Cash,ERROR,2023-01-02,Monday,January
 TXN_4155001,Smoothie,1.0,4.0,4.0,,,2023-11-30,Thursday,November
 TXN_1072678,Juice,2.0,3.0,6.0,Cash,,2023-05-30,Tuesday,May
@@ -5333,7 +5333,7 @@ TXN_5438652,Sandwich,4.0,4.0,16.0,Cash,,2023-03-17,Friday,March
 TXN_8385625,Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-12-23,Saturday,December
 TXN_7814715,Cookie,5.0,1.0,5.0,Cash,,2023-04-24,Monday,April
 TXN_6532452,Smoothie,5.0,4.0,20.0,Cash,Takeaway,2023-02-24,Friday,February
-TXN_9706608,Smoothie,1.0,4.0,4.0,Cash,UNKNOWN,2023-05-22,Monday,May
+TXN_9706608,Smoothie,1.0,4.0,4.0,Cash,Unknown location,2023-05-22,Monday,May
 TXN_5963749,Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-11-04,Saturday,November
 TXN_6885218,Salad,1.0,5.0,5.0,,In-store,2023-10-23,Monday,October
 TXN_3845871,Sandwich,1.0,4.0,4.0,,In-store,2023-10-29,Sunday,October
@@ -5406,10 +5406,10 @@ TXN_2265543,Salad,3.0,5.0,15.0,,Takeaway,2023-02-19,Sunday,February
 TXN_7360979,Sandwich,1.0,4.0,4.0,,In-store,2023-08-16,Wednesday,August
 TXN_1849597,Sandwich,2.0,4.0,8.0,Cash,,2023-11-01,Wednesday,November
 TXN_3214521,Tea,4.0,1.5,6.0,,,2023-06-30,Friday,June
-TXN_5107249,Smoothie,4.0,4.0,16.0,Cash,UNKNOWN,2023-03-20,Monday,March
+TXN_5107249,Smoothie,4.0,4.0,16.0,Cash,Unknown location,2023-03-20,Monday,March
 TXN_3228646,Cookie,5.0,1.0,5.0,Credit Card,,2023-09-19,Tuesday,September
 TXN_3717422,Salad,2.0,5.0,10.0,Cash,,2023-06-15,Thursday,June
-TXN_5350735,Tea,2.0,1.5,3.0,Cash,UNKNOWN,2023-04-08,Saturday,April
+TXN_5350735,Tea,2.0,1.5,3.0,Cash,Unknown location,2023-04-08,Saturday,April
 TXN_1128577,Sandwich,1.0,4.0,4.0,Digital Wallet,In-store,2023-11-23,Thursday,November
 TXN_6533267,Tea,3.0,1.5,4.5,Cash,In-store,2023-07-14,Friday,July
 TXN_1413310,Smoothie,3.0,4.0,12.0,,Takeaway,2023-04-06,Thursday,April
@@ -5422,7 +5422,7 @@ TXN_5584275,Smoothie,1.0,4.0,4.0,Credit Card,In-store,2023-07-10,Monday,July
 TXN_1873800,Smoothie,3.0,4.0,12.0,,In-store,2023-02-01,Wednesday,February
 TXN_3602823,Coffee,4.0,2.0,8.0,,,2023-08-26,Saturday,August
 TXN_5528426,Smoothie,4.0,4.0,16.0,Cash,Takeaway,2023-06-01,Thursday,June
-TXN_4432546,Coffee,2.0,2.0,4.0,Digital Wallet,UNKNOWN,2023-11-29,Wednesday,November
+TXN_4432546,Coffee,2.0,2.0,4.0,Digital Wallet,Unknown location,2023-11-29,Wednesday,November
 TXN_6372031,Juice,3.0,3.0,9.0,Digital Wallet,In-store,2023-08-11,Friday,August
 TXN_6874059,Salad,4.0,5.0,20.0,,Takeaway,2023-01-12,Thursday,January
 TXN_3843111,Smoothie,2.0,4.0,8.0,,,2023-09-15,Friday,September
@@ -5438,7 +5438,7 @@ TXN_7108012,Tea,1.0,1.5,1.5,Digital Wallet,Takeaway,2023-12-31,Sunday,December
 TXN_3272946,Salad,3.0,5.0,15.0,Credit Card,In-store,2023-09-06,Wednesday,September
 TXN_6896663,Cake,3.0,3.0,9.0,,In-store,2023-05-16,Tuesday,May
 TXN_7308096,Tea,2.0,1.5,3.0,Cash,Takeaway,2023-08-13,Sunday,August
-TXN_3607778,Smoothie,2.0,4.0,8.0,Cash,UNKNOWN,2023-11-20,Monday,November
+TXN_3607778,Smoothie,2.0,4.0,8.0,Cash,Unknown location,2023-11-20,Monday,November
 TXN_7105069,Coffee,1.0,2.0,2.0,Cash,Takeaway,2023-12-06,Wednesday,December
 TXN_7461544,Cookie,4.0,1.0,4.0,Credit Card,,2023-08-22,Tuesday,August
 TXN_5853281,Coffee,4.0,2.0,8.0,,,2023-08-29,Tuesday,August
@@ -5486,7 +5486,7 @@ TXN_9943050,Tea,1.0,1.5,1.5,Digital Wallet,Takeaway,2023-05-16,Tuesday,May
 TXN_2694605,Cookie,2.0,1.0,2.0,Credit Card,Takeaway,2023-11-09,Thursday,November
 TXN_2161957,Cookie,2.0,1.0,2.0,,Takeaway,2023-05-19,Friday,May
 TXN_3647474,Coffee,4.0,2.0,8.0,,Takeaway,2023-05-05,Friday,May
-TXN_7868470,Juice,3.0,3.0,9.0,Digital Wallet,UNKNOWN,2023-04-14,Friday,April
+TXN_7868470,Juice,3.0,3.0,9.0,Digital Wallet,Unknown location,2023-04-14,Friday,April
 TXN_1927704,Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-01-05,Thursday,January
 TXN_4819416,Salad,3.0,5.0,15.0,,,2023-06-01,Thursday,June
 TXN_8076152,Tea,4.0,1.5,6.0,Digital Wallet,ERROR,2023-12-18,Monday,December
@@ -5507,7 +5507,7 @@ TXN_5729112,Coffee,1.0,2.0,2.0,Credit Card,,2023-06-30,Friday,June
 TXN_4613595,Salad,3.0,5.0,15.0,Credit Card,Takeaway,2023-07-07,Friday,July
 TXN_4152991,Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-12-17,Sunday,December
 TXN_1196324,Tea,4.0,1.5,6.0,Credit Card,In-store,2023-09-26,Tuesday,September
-TXN_5944318,Cookie,1.0,1.0,1.0,Cash,UNKNOWN,2023-01-23,Monday,January
+TXN_5944318,Cookie,1.0,1.0,1.0,Cash,Unknown location,2023-01-23,Monday,January
 TXN_5148823,Juice,1.0,3.0,3.0,Digital Wallet,,2023-03-27,Monday,March
 TXN_2887528,,2.0,3.0,6.0,,,2023-04-23,Sunday,April
 TXN_7312736,Cookie,2.0,1.0,2.0,Digital Wallet,,2023-12-02,Saturday,December
@@ -5581,14 +5581,14 @@ TXN_2435025,Juice,1.0,3.0,3.0,Cash,In-store,2023-10-08,Sunday,October
 TXN_4197090,Juice,3.0,3.0,9.0,Credit Card,Takeaway,2023-11-17,Friday,November
 TXN_4209626,,5.0,4.0,20.0,Credit Card,,2023-07-04,Tuesday,July
 TXN_1777171,Coffee,2.0,2.0,4.0,,In-store,2023-08-17,Thursday,August
-TXN_5706734,Juice,1.0,3.0,3.0,Cash,UNKNOWN,2023-09-09,Saturday,September
+TXN_5706734,Juice,1.0,3.0,3.0,Cash,Unknown location,2023-09-09,Saturday,September
 TXN_6228847,Smoothie,3.0,4.0,12.0,Cash,,2023-01-13,Friday,January
 TXN_6479368,Smoothie,2.0,4.0,8.0,Credit Card,Takeaway,2023-09-08,Friday,September
 TXN_6991528,Cookie,3.0,1.0,3.0,Digital Wallet,Takeaway,2023-08-17,Thursday,August
 TXN_2154866,Tea,2.0,1.5,3.0,Credit Card,Takeaway,2023-08-11,Friday,August
 TXN_1333524,Cake,2.0,3.0,6.0,Credit Card,,2023-05-05,Friday,May
 TXN_8903514,Salad,4.0,5.0,20.0,,Takeaway,2023-09-14,Thursday,September
-TXN_5762828,Tea,2.0,1.5,3.0,Digital Wallet,UNKNOWN,2023-03-23,Thursday,March
+TXN_5762828,Tea,2.0,1.5,3.0,Digital Wallet,Unknown location,2023-03-23,Thursday,March
 TXN_2099497,Juice,1.0,3.0,3.0,,Takeaway,2023-02-27,Monday,February
 TXN_5679935,Coffee,2.0,2.0,4.0,Credit Card,,2023-07-19,Wednesday,July
 TXN_5236861,Coffee,4.0,2.0,8.0,Cash,Takeaway,2023-10-27,Friday,October
@@ -5613,7 +5613,7 @@ TXN_2174821,Coffee,1.0,2.0,2.0,,,2023-11-08,Wednesday,November
 TXN_5951573,Salad,3.0,5.0,15.0,Cash,,2023-12-22,Friday,December
 TXN_4612146,Cake,3.0,3.0,9.0,Cash,ERROR,2023-12-31,Sunday,December
 TXN_7954368,Cake,3.0,3.0,9.0,Credit Card,,2023-10-06,Friday,October
-TXN_7898391,Salad,4.0,5.0,20.0,Credit Card,UNKNOWN,2023-02-26,Sunday,February
+TXN_7898391,Salad,4.0,5.0,20.0,Credit Card,Unknown location,2023-02-26,Sunday,February
 TXN_5746800,Coffee,4.0,2.0,8.0,Credit Card,Takeaway,2023-07-04,Tuesday,July
 TXN_4630658,Smoothie,1.0,4.0,4.0,Cash,Takeaway,2023-07-10,Monday,July
 TXN_8918905,Cookie,5.0,1.0,5.0,Digital Wallet,In-store,2023-06-05,Monday,June
@@ -5691,7 +5691,7 @@ TXN_7213830,,5.0,3.0,15.0,Credit Card,,2023-08-04,Friday,August
 TXN_4224350,Tea,2.0,1.5,3.0,,In-store,2023-07-09,Sunday,July
 TXN_7763212,Sandwich,1.0,4.0,4.0,Credit Card,,2023-01-10,Tuesday,January
 TXN_6889357,Salad,1.0,5.0,5.0,Cash,Takeaway,2023-03-08,Wednesday,March
-TXN_8565218,Cake,1.0,3.0,3.0,Digital Wallet,UNKNOWN,2023-05-03,Wednesday,May
+TXN_8565218,Cake,1.0,3.0,3.0,Digital Wallet,Unknown location,2023-05-03,Wednesday,May
 TXN_8235675,Tea,1.0,1.5,1.5,Credit Card,,2023-08-08,Tuesday,August
 TXN_6323915,Tea,3.0,1.5,4.5,Credit Card,In-store,2023-02-09,Thursday,February
 TXN_4704321,Cake,3.0,3.0,9.0,Cash,,,,
@@ -5713,7 +5713,7 @@ TXN_2050630,Cookie,3.0,1.0,3.0,,Takeaway,2023-01-18,Wednesday,January
 TXN_3447575,Sandwich,4.0,4.0,16.0,Credit Card,Takeaway,2023-01-17,Tuesday,January
 TXN_1131785,Sandwich,1.0,4.0,4.0,Cash,,2023-12-19,Tuesday,December
 TXN_8572783,Salad,3.0,5.0,15.0,,,2023-03-29,Wednesday,March
-TXN_4284507,Smoothie,4.0,4.0,16.0,,UNKNOWN,2023-07-17,Monday,July
+TXN_4284507,Smoothie,4.0,4.0,16.0,,Unknown location,2023-07-17,Monday,July
 TXN_9819697,Smoothie,3.0,4.0,12.0,Digital Wallet,In-store,2023-05-16,Tuesday,May
 TXN_1731476,Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-04-19,Wednesday,April
 TXN_1721342,Smoothie,5.0,4.0,20.0,Digital Wallet,In-store,2023-08-23,Wednesday,August
@@ -5739,7 +5739,7 @@ TXN_4921865,Tea,2.0,1.5,3.0,Digital Wallet,In-store,2023-02-06,Monday,February
 TXN_7755372,Juice,5.0,3.0,15.0,,Takeaway,2023-01-10,Tuesday,January
 TXN_7218134,Cake,5.0,3.0,15.0,Cash,,2023-01-14,Saturday,January
 TXN_2897794,Cookie,4.0,1.0,4.0,Credit Card,Takeaway,2023-01-29,Sunday,January
-TXN_5743616,Cake,4.0,3.0,12.0,,UNKNOWN,2023-12-14,Thursday,December
+TXN_5743616,Cake,4.0,3.0,12.0,,Unknown location,2023-12-14,Thursday,December
 TXN_4623642,Sandwich,1.0,4.0,4.0,Cash,Takeaway,2023-09-12,Tuesday,September
 TXN_6047710,Smoothie,3.0,4.0,12.0,,Takeaway,2023-06-16,Friday,June
 TXN_2813872,Salad,1.0,5.0,5.0,Credit Card,Takeaway,2023-05-01,Monday,May
@@ -5805,7 +5805,7 @@ TXN_2822949,Smoothie,2.0,4.0,8.0,Digital Wallet,,2023-11-19,Sunday,November
 TXN_5868082,Coffee,5.0,2.0,10.0,Credit Card,In-store,2023-10-22,Sunday,October
 TXN_1413335,Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-05-17,Wednesday,May
 TXN_7086603,Cake,4.0,3.0,12.0,Credit Card,,2023-03-18,Saturday,March
-TXN_6919325,Cake,3.0,3.0,9.0,Cash,UNKNOWN,2023-02-05,Sunday,February
+TXN_6919325,Cake,3.0,3.0,9.0,Cash,Unknown location,2023-02-05,Sunday,February
 TXN_7286934,Smoothie,2.0,4.0,8.0,Credit Card,In-store,2023-03-27,Monday,March
 TXN_5213014,Sandwich,3.0,4.0,12.0,Credit Card,,2023-05-09,Tuesday,May
 TXN_3121483,Salad,2.0,5.0,10.0,,Takeaway,2023-01-06,Friday,January
@@ -5819,7 +5819,7 @@ TXN_8273645,Juice,2.0,3.0,6.0,Cash,Takeaway,2023-11-02,Thursday,November
 TXN_2474286,Juice,2.0,3.0,6.0,Digital Wallet,In-store,2023-12-09,Saturday,December
 TXN_5145016,Sandwich,1.0,4.0,4.0,Cash,Takeaway,,,
 TXN_6700141,Sandwich,1.0,4.0,4.0,Cash,Takeaway,2023-04-12,Wednesday,April
-TXN_4006771,Cookie,3.0,1.0,3.0,Credit Card,UNKNOWN,2023-02-06,Monday,February
+TXN_4006771,Cookie,3.0,1.0,3.0,Credit Card,Unknown location,2023-02-06,Monday,February
 TXN_4406290,Coffee,5.0,2.0,10.0,,In-store,2023-07-02,Sunday,July
 TXN_2714524,Sandwich,4.0,4.0,16.0,Cash,Takeaway,2023-01-02,Monday,January
 TXN_3585097,Coffee,3.0,2.0,6.0,,Takeaway,2023-05-31,Wednesday,May
@@ -5866,9 +5866,9 @@ TXN_7682621,Sandwich,4.0,4.0,16.0,Cash,Takeaway,2023-11-07,Tuesday,November
 TXN_2770536,Smoothie,2.0,4.0,8.0,,In-store,2023-11-03,Friday,November
 TXN_3291900,Smoothie,4.0,4.0,16.0,Cash,Takeaway,2023-05-04,Thursday,May
 TXN_1390917,Sandwich,1.0,4.0,4.0,Credit Card,,2023-01-16,Monday,January
-TXN_7334418,Cookie,2.0,1.0,2.0,Digital Wallet,UNKNOWN,2023-03-24,Friday,March
+TXN_7334418,Cookie,2.0,1.0,2.0,Digital Wallet,Unknown location,2023-03-24,Friday,March
 TXN_7927109,Tea,1.0,1.5,1.5,Cash,,2023-04-18,Tuesday,April
-TXN_9352814,Tea,4.0,1.5,6.0,Cash,UNKNOWN,2023-09-10,Sunday,September
+TXN_9352814,Tea,4.0,1.5,6.0,Cash,Unknown location,2023-09-10,Sunday,September
 TXN_8872984,Salad,5.0,5.0,25.0,Credit Card,In-store,2023-08-23,Wednesday,August
 TXN_8305586,Coffee,4.0,2.0,8.0,Cash,,2023-01-06,Friday,January
 TXN_6501091,Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-05-07,Sunday,May
@@ -5887,7 +5887,7 @@ TXN_1577802,Juice,2.0,3.0,6.0,Credit Card,In-store,2023-11-29,Wednesday,November
 TXN_3202346,Salad,2.0,5.0,10.0,,In-store,2023-11-19,Sunday,November
 TXN_2141924,Salad,5.0,5.0,25.0,Cash,In-store,2023-11-27,Monday,November
 TXN_6775972,Coffee,3.0,2.0,6.0,Credit Card,,2023-09-15,Friday,September
-TXN_8799599,Coffee,1.0,2.0,2.0,Credit Card,UNKNOWN,2023-09-10,Sunday,September
+TXN_8799599,Coffee,1.0,2.0,2.0,Credit Card,Unknown location,2023-09-10,Sunday,September
 TXN_2866735,Cookie,4.0,1.0,4.0,Cash,Takeaway,2023-03-13,Monday,March
 TXN_2199500,Smoothie,1.0,4.0,4.0,Credit Card,,2023-04-04,Tuesday,April
 TXN_8279269,Smoothie,4.0,4.0,16.0,Digital Wallet,,2023-06-14,Wednesday,June
@@ -5919,7 +5919,7 @@ TXN_1898102,Cake,4.0,3.0,12.0,Credit Card,Takeaway,2023-10-17,Tuesday,October
 TXN_6142529,Tea,5.0,1.5,7.5,Credit Card,In-store,2023-07-21,Friday,July
 TXN_9279935,Coffee,2.0,2.0,4.0,Digital Wallet,In-store,2023-06-02,Friday,June
 TXN_3233211,Tea,2.0,1.5,3.0,,Takeaway,2023-06-07,Wednesday,June
-TXN_1607650,Cookie,2.0,1.0,2.0,,UNKNOWN,2023-04-27,Thursday,April
+TXN_1607650,Cookie,2.0,1.0,2.0,,Unknown location,2023-04-27,Thursday,April
 TXN_1873852,,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-07-07,Friday,July
 TXN_2501656,Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-07-02,Sunday,July
 TXN_8917809,Salad,5.0,5.0,25.0,Cash,,2023-07-29,Saturday,July
@@ -5978,7 +5978,7 @@ TXN_4377249,Coffee,3.0,2.0,6.0,Digital Wallet,,2023-07-26,Wednesday,July
 TXN_1571824,Cookie,4.0,1.0,4.0,Cash,Takeaway,2023-10-16,Monday,October
 TXN_3920273,Smoothie,4.0,4.0,16.0,Digital Wallet,In-store,2023-09-05,Tuesday,September
 TXN_8222593,Sandwich,4.0,4.0,16.0,Credit Card,,2023-05-11,Thursday,May
-TXN_5054719,Sandwich,2.0,4.0,8.0,Credit Card,UNKNOWN,2023-04-17,Monday,April
+TXN_5054719,Sandwich,2.0,4.0,8.0,Credit Card,Unknown location,2023-04-17,Monday,April
 TXN_2242015,Tea,2.0,1.5,3.0,Cash,ERROR,2023-08-26,Saturday,August
 TXN_7268387,Juice,3.0,3.0,9.0,Credit Card,Takeaway,2023-04-09,Sunday,April
 TXN_6268823,Smoothie,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-04-18,Tuesday,April
@@ -6012,7 +6012,7 @@ TXN_8951525,Juice,3.0,3.0,9.0,,,2023-06-08,Thursday,June
 TXN_3896128,Cake,1.0,3.0,3.0,,In-store,2023-01-04,Wednesday,January
 TXN_6554101,Smoothie,3.0,4.0,12.0,,,2023-02-15,Wednesday,February
 TXN_3500571,Juice,3.0,3.0,9.0,,Takeaway,2023-05-03,Wednesday,May
-TXN_6761273,Juice,5.0,3.0,15.0,Digital Wallet,UNKNOWN,2023-10-13,Friday,October
+TXN_6761273,Juice,5.0,3.0,15.0,Digital Wallet,Unknown location,2023-10-13,Friday,October
 TXN_6076602,Tea,4.0,1.5,6.0,Credit Card,In-store,2023-02-07,Tuesday,February
 TXN_9196658,Cookie,1.0,1.0,1.0,,Takeaway,2023-06-12,Monday,June
 TXN_7330330,Cookie,2.0,1.0,2.0,,In-store,2023-10-16,Monday,October
@@ -6056,10 +6056,10 @@ TXN_2253622,Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-09-30,Saturday,Se
 TXN_8982328,Juice,1.0,3.0,3.0,Credit Card,In-store,2023-10-20,Friday,October
 TXN_9969706,Cake,5.0,3.0,15.0,,In-store,2023-03-17,Friday,March
 TXN_1915046,Sandwich,5.0,4.0,20.0,,,2023-04-12,Wednesday,April
-TXN_4624019,Cookie,1.0,1.0,1.0,Cash,UNKNOWN,2023-02-12,Sunday,February
+TXN_4624019,Cookie,1.0,1.0,1.0,Cash,Unknown location,2023-02-12,Sunday,February
 TXN_1773856,Cake,2.0,3.0,6.0,,ERROR,2023-08-11,Friday,August
 TXN_6667083,Cake,1.0,3.0,3.0,Cash,,2023-03-19,Sunday,March
-TXN_5144090,Coffee,5.0,2.0,10.0,Digital Wallet,UNKNOWN,2023-05-15,Monday,May
+TXN_5144090,Coffee,5.0,2.0,10.0,Digital Wallet,Unknown location,2023-05-15,Monday,May
 TXN_1322421,Juice,4.0,3.0,12.0,Credit Card,Takeaway,2023-03-05,Sunday,March
 TXN_4474441,Coffee,4.0,2.0,8.0,Credit Card,,2023-08-23,Wednesday,August
 TXN_6598343,Juice,4.0,3.0,12.0,,,2023-07-10,Monday,July
@@ -6145,10 +6145,10 @@ TXN_9965686,Cake,4.0,3.0,12.0,Credit Card,Takeaway,2023-10-02,Monday,October
 TXN_5303413,Coffee,1.0,2.0,2.0,Digital Wallet,In-store,2023-06-21,Wednesday,June
 TXN_5328814,Tea,3.0,1.5,4.5,Cash,,2023-10-18,Wednesday,October
 TXN_2334962,Juice,5.0,3.0,15.0,,,2023-01-31,Tuesday,January
-TXN_9321776,Cake,1.0,3.0,3.0,,UNKNOWN,2023-04-23,Sunday,April
+TXN_9321776,Cake,1.0,3.0,3.0,,Unknown location,2023-04-23,Sunday,April
 TXN_7625537,Juice,3.0,3.0,9.0,,Takeaway,2023-12-09,Saturday,December
 TXN_8722491,Smoothie,4.0,4.0,16.0,Cash,,2023-04-24,Monday,April
-TXN_4129569,Cookie,4.0,1.0,4.0,Digital Wallet,UNKNOWN,2023-08-27,Sunday,August
+TXN_4129569,Cookie,4.0,1.0,4.0,Digital Wallet,Unknown location,2023-08-27,Sunday,August
 TXN_6018020,Cookie,2.0,1.0,2.0,Credit Card,Takeaway,2023-01-12,Thursday,January
 TXN_3305132,Cake,4.0,3.0,12.0,Credit Card,Takeaway,2023-01-30,Monday,January
 TXN_7951885,Salad,3.0,5.0,15.0,Credit Card,,2023-12-08,Friday,December
@@ -6156,14 +6156,14 @@ TXN_9175684,Tea,3.0,1.5,4.5,,,2023-09-16,Saturday,September
 TXN_1640649,Cookie,4.0,1.0,4.0,,In-store,2023-12-05,Tuesday,December
 TXN_9845746,Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-09-23,Saturday,September
 TXN_1547704,Coffee,5.0,2.0,10.0,Cash,In-store,2023-02-14,Tuesday,February
-TXN_8477415,Salad,2.0,5.0,10.0,Credit Card,UNKNOWN,2023-05-01,Monday,May
+TXN_8477415,Salad,2.0,5.0,10.0,Credit Card,Unknown location,2023-05-01,Monday,May
 TXN_1039367,Sandwich,3.0,4.0,12.0,Cash,,2023-03-12,Sunday,March
 TXN_5433982,Salad,5.0,5.0,25.0,Digital Wallet,,2023-07-07,Friday,July
 TXN_4469550,,3.0,3.0,9.0,Credit Card,In-store,2023-05-10,Wednesday,May
 TXN_2838588,Coffee,2.0,2.0,4.0,,In-store,2023-01-28,Saturday,January
 TXN_6135727,Juice,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-12-15,Friday,December
 TXN_3660227,Juice,4.0,3.0,12.0,Credit Card,Takeaway,2023-05-13,Saturday,May
-TXN_5640232,Sandwich,4.0,4.0,16.0,Digital Wallet,UNKNOWN,2023-04-08,Saturday,April
+TXN_5640232,Sandwich,4.0,4.0,16.0,Digital Wallet,Unknown location,2023-04-08,Saturday,April
 TXN_4064310,Tea,4.0,1.5,6.0,Cash,Takeaway,2023-07-24,Monday,July
 TXN_7418562,Sandwich,4.0,4.0,16.0,,,2023-01-15,Sunday,January
 TXN_2978326,Smoothie,3.0,4.0,12.0,Cash,,2023-12-02,Saturday,December
@@ -6185,7 +6185,7 @@ TXN_3486548,Tea,1.0,1.5,1.5,Digital Wallet,,2023-07-08,Saturday,July
 TXN_1465584,Sandwich,1.0,4.0,4.0,Credit Card,In-store,2023-04-29,Saturday,April
 TXN_7662502,Cake,1.0,3.0,3.0,,In-store,2023-03-06,Monday,March
 TXN_3212505,Sandwich,3.0,4.0,12.0,Credit Card,,2023-07-15,Saturday,July
-TXN_2311188,Cake,2.0,3.0,6.0,Digital Wallet,UNKNOWN,2023-09-07,Thursday,September
+TXN_2311188,Cake,2.0,3.0,6.0,Digital Wallet,Unknown location,2023-09-07,Thursday,September
 TXN_6344806,Juice,3.0,3.0,9.0,Credit Card,,2023-05-08,Monday,May
 TXN_4891221,Cookie,5.0,1.0,5.0,,Takeaway,2023-12-09,Saturday,December
 TXN_7419274,Juice,2.0,3.0,6.0,Cash,Takeaway,2023-12-18,Monday,December
@@ -6218,7 +6218,7 @@ TXN_6335423,Coffee,2.0,2.0,4.0,Credit Card,In-store,2023-06-18,Sunday,June
 TXN_9475783,Sandwich,5.0,4.0,20.0,Credit Card,Takeaway,2023-02-11,Saturday,February
 TXN_4108869,Smoothie,5.0,4.0,20.0,,,2023-05-02,Tuesday,May
 TXN_6011341,Juice,4.0,3.0,12.0,,In-store,2023-12-21,Thursday,December
-TXN_5257531,Tea,2.0,1.5,3.0,,UNKNOWN,2023-04-10,Monday,April
+TXN_5257531,Tea,2.0,1.5,3.0,,Unknown location,2023-04-10,Monday,April
 TXN_1645743,Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-07-02,Sunday,July
 TXN_2377667,Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-10-27,Friday,October
 TXN_9554670,,4.0,3.0,12.0,Credit Card,In-store,2023-06-20,Tuesday,June
@@ -6265,12 +6265,12 @@ TXN_2199647,Salad,1.0,5.0,5.0,Cash,,2023-05-05,Friday,May
 TXN_3016079,Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-09-24,Sunday,September
 TXN_3140950,Juice,5.0,3.0,15.0,Credit Card,,,,
 TXN_6881662,Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-07-10,Monday,July
-TXN_4238818,Coffee,2.0,2.0,4.0,Digital Wallet,UNKNOWN,2023-04-05,Wednesday,April
+TXN_4238818,Coffee,2.0,2.0,4.0,Digital Wallet,Unknown location,2023-04-05,Wednesday,April
 TXN_2146829,Salad,4.0,5.0,20.0,Cash,,2023-12-26,Tuesday,December
 TXN_8131537,Smoothie,2.0,4.0,8.0,Credit Card,,2023-12-03,Sunday,December
 TXN_9812021,Tea,5.0,1.5,7.5,Credit Card,In-store,2023-02-12,Sunday,February
 TXN_7947711,Salad,3.0,5.0,15.0,Digital Wallet,Takeaway,2023-12-06,Wednesday,December
-TXN_6774688,Salad,1.0,5.0,5.0,Credit Card,UNKNOWN,2023-01-18,Wednesday,January
+TXN_6774688,Salad,1.0,5.0,5.0,Credit Card,Unknown location,2023-01-18,Wednesday,January
 TXN_3949676,Juice,4.0,3.0,12.0,Credit Card,In-store,2023-12-21,Thursday,December
 TXN_4283693,Salad,2.0,5.0,10.0,Cash,In-store,2023-01-05,Thursday,January
 TXN_2274945,Sandwich,4.0,4.0,16.0,Cash,In-store,2023-03-29,Wednesday,March
@@ -6346,7 +6346,7 @@ TXN_1021087,Sandwich,1.0,4.0,4.0,,ERROR,2023-11-01,Wednesday,November
 TXN_2530326,Sandwich,5.0,4.0,20.0,,In-store,2023-05-06,Saturday,May
 TXN_1309653,Salad,2.0,5.0,10.0,Cash,In-store,,,
 TXN_9781679,Sandwich,2.0,4.0,8.0,Credit Card,Takeaway,2023-09-08,Friday,September
-TXN_5499117,Salad,4.0,5.0,20.0,Digital Wallet,UNKNOWN,2023-07-16,Sunday,July
+TXN_5499117,Salad,4.0,5.0,20.0,Digital Wallet,Unknown location,2023-07-16,Sunday,July
 TXN_9370771,Juice,5.0,3.0,15.0,Cash,In-store,2023-08-21,Monday,August
 TXN_5914284,Coffee,2.0,2.0,4.0,Credit Card,Takeaway,2023-06-25,Sunday,June
 TXN_9590819,Coffee,3.0,2.0,6.0,,In-store,2023-11-21,Tuesday,November
@@ -6362,7 +6362,7 @@ TXN_8211133,Tea,2.0,1.5,3.0,,Takeaway,2023-08-31,Thursday,August
 TXN_2331025,Cookie,2.0,1.0,2.0,Cash,,2023-04-28,Friday,April
 TXN_3543133,Tea,2.0,1.5,3.0,,,2023-04-08,Saturday,April
 TXN_2640771,Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,2023-01-27,Friday,January
-TXN_1103883,Cookie,5.0,1.0,5.0,Credit Card,UNKNOWN,2023-08-09,Wednesday,August
+TXN_1103883,Cookie,5.0,1.0,5.0,Credit Card,Unknown location,2023-08-09,Wednesday,August
 TXN_8593064,Smoothie,4.0,4.0,16.0,Cash,Takeaway,2023-03-12,Sunday,March
 TXN_2873573,Coffee,3.0,2.0,6.0,,In-store,2023-01-11,Wednesday,January
 TXN_9223045,Tea,5.0,1.5,7.5,Credit Card,In-store,2023-10-29,Sunday,October
@@ -6417,7 +6417,7 @@ TXN_3902815,Juice,5.0,3.0,15.0,,,2023-06-28,Wednesday,June
 TXN_6218380,Cookie,4.0,1.0,4.0,Cash,In-store,2023-02-07,Tuesday,February
 TXN_6905143,Coffee,5.0,2.0,10.0,Cash,ERROR,2023-08-09,Wednesday,August
 TXN_3839691,Coffee,4.0,2.0,8.0,Credit Card,In-store,2023-02-13,Monday,February
-TXN_4866254,Salad,4.0,5.0,20.0,Cash,UNKNOWN,2023-03-18,Saturday,March
+TXN_4866254,Salad,4.0,5.0,20.0,Cash,Unknown location,2023-03-18,Saturday,March
 TXN_8935781,Coffee,2.0,2.0,4.0,,,2023-09-10,Sunday,September
 TXN_2559020,Cake,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-07-20,Thursday,July
 TXN_8607376,Coffee,5.0,2.0,10.0,Cash,In-store,2023-06-13,Tuesday,June
@@ -6443,7 +6443,7 @@ TXN_1665056,Salad,5.0,5.0,25.0,Cash,,2023-01-05,Thursday,January
 TXN_2904046,Smoothie,1.0,4.0,4.0,Credit Card,In-store,2023-12-11,Monday,December
 TXN_9743274,Tea,5.0,1.5,7.5,,ERROR,2023-01-25,Wednesday,January
 TXN_5518232,Salad,3.0,5.0,15.0,,Takeaway,2023-05-01,Monday,May
-TXN_3770267,Cake,2.0,3.0,6.0,,UNKNOWN,2023-10-21,Saturday,October
+TXN_3770267,Cake,2.0,3.0,6.0,,Unknown location,2023-10-21,Saturday,October
 TXN_7177709,Juice,5.0,3.0,15.0,,Takeaway,2023-03-08,Wednesday,March
 TXN_6246494,Coffee,3.0,2.0,6.0,,In-store,2023-03-31,Friday,March
 TXN_6540200,Tea,2.0,1.5,3.0,Digital Wallet,In-store,2023-10-23,Monday,October
@@ -6563,7 +6563,7 @@ TXN_8675558,Tea,5.0,1.5,7.5,,In-store,2023-05-23,Tuesday,May
 TXN_1963345,Smoothie,4.0,4.0,16.0,,In-store,2023-10-12,Thursday,October
 TXN_6332405,Juice,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-12-03,Sunday,December
 TXN_8946323,Tea,2.0,1.5,3.0,Cash,,2023-08-23,Wednesday,August
-TXN_1529961,Smoothie,4.0,4.0,16.0,Credit Card,UNKNOWN,2023-09-29,Friday,September
+TXN_1529961,Smoothie,4.0,4.0,16.0,Credit Card,Unknown location,2023-09-29,Friday,September
 TXN_8860052,Cake,5.0,3.0,15.0,Credit Card,Takeaway,2023-07-18,Tuesday,July
 TXN_6732833,Salad,1.0,5.0,5.0,Digital Wallet,In-store,2023-07-21,Friday,July
 TXN_1983705,,3.0,3.0,9.0,Cash,Takeaway,,,
@@ -6594,7 +6594,7 @@ TXN_6236737,Juice,5.0,3.0,15.0,Cash,In-store,2023-03-19,Sunday,March
 TXN_9691364,Cookie,3.0,1.0,3.0,Credit Card,In-store,2023-03-02,Thursday,March
 TXN_1770648,Sandwich,4.0,4.0,16.0,Credit Card,,2023-09-30,Saturday,September
 TXN_5289658,Smoothie,2.0,4.0,8.0,Digital Wallet,Takeaway,,,
-TXN_2602732,Salad,4.0,5.0,20.0,Digital Wallet,UNKNOWN,2023-06-09,Friday,June
+TXN_2602732,Salad,4.0,5.0,20.0,Digital Wallet,Unknown location,2023-06-09,Friday,June
 TXN_5132482,Juice,2.0,3.0,6.0,Digital Wallet,In-store,2023-12-21,Thursday,December
 TXN_9969836,Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-04-06,Thursday,April
 TXN_7938279,Tea,3.0,1.5,4.5,Cash,Takeaway,2023-03-17,Friday,March
@@ -6606,7 +6606,7 @@ TXN_8384428,Cookie,1.0,1.0,1.0,Digital Wallet,In-store,2023-08-11,Friday,August
 TXN_6541329,Cookie,2.0,1.0,2.0,Cash,Takeaway,2023-09-28,Thursday,September
 TXN_7667139,Sandwich,3.0,4.0,12.0,Credit Card,Takeaway,2023-12-05,Tuesday,December
 TXN_1268811,Salad,1.0,5.0,5.0,,,2023-01-04,Wednesday,January
-TXN_9190025,Tea,4.0,1.5,6.0,Digital Wallet,UNKNOWN,,,
+TXN_9190025,Tea,4.0,1.5,6.0,Digital Wallet,Unknown location,,,
 TXN_5056808,Juice,1.0,3.0,3.0,Credit Card,,2023-02-25,Saturday,February
 TXN_9191048,Cake,5.0,3.0,15.0,Digital Wallet,ERROR,2023-09-18,Monday,September
 TXN_3272613,Cookie,2.0,1.0,2.0,Cash,,2023-03-30,Thursday,March
@@ -6645,11 +6645,11 @@ TXN_1336727,Smoothie,2.0,4.0,8.0,,In-store,2023-10-18,Wednesday,October
 TXN_5724548,Cake,5.0,3.0,15.0,,,2023-08-12,Saturday,August
 TXN_3521791,Coffee,1.0,2.0,2.0,,Takeaway,2023-06-11,Sunday,June
 TXN_6696619,Cake,3.0,3.0,9.0,,Takeaway,2023-03-19,Sunday,March
-TXN_2734718,Tea,2.0,1.5,3.0,,UNKNOWN,2023-08-16,Wednesday,August
+TXN_2734718,Tea,2.0,1.5,3.0,,Unknown location,2023-08-16,Wednesday,August
 TXN_6125646,Cookie,2.0,1.0,2.0,,,2023-06-12,Monday,June
 TXN_8639973,Cookie,5.0,1.0,5.0,,,2023-07-06,Thursday,July
 TXN_1349640,Juice,2.0,3.0,6.0,Credit Card,In-store,2023-06-17,Saturday,June
-TXN_3719842,Cake,3.0,3.0,9.0,Cash,UNKNOWN,2023-05-05,Friday,May
+TXN_3719842,Cake,3.0,3.0,9.0,Cash,Unknown location,2023-05-05,Friday,May
 TXN_3863940,Salad,2.0,5.0,10.0,,,2023-06-18,Sunday,June
 TXN_9660030,Cake,5.0,3.0,15.0,Credit Card,In-store,2023-11-24,Friday,November
 TXN_9649503,Cake,1.0,3.0,3.0,Credit Card,Takeaway,2023-01-02,Monday,January
@@ -6782,7 +6782,7 @@ TXN_4002142,Cake,5.0,3.0,15.0,,,2023-06-27,Tuesday,June
 TXN_4757873,Tea,1.0,1.5,1.5,Credit Card,In-store,2023-09-12,Tuesday,September
 TXN_6283718,Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-07-20,Thursday,July
 TXN_2019127,Salad,1.0,5.0,5.0,Cash,,2023-08-03,Thursday,August
-TXN_2007652,Juice,2.0,3.0,6.0,Digital Wallet,UNKNOWN,2023-12-09,Saturday,December
+TXN_2007652,Juice,2.0,3.0,6.0,Digital Wallet,Unknown location,2023-12-09,Saturday,December
 TXN_3048882,Juice,2.0,3.0,6.0,Cash,Takeaway,2023-12-30,Saturday,December
 TXN_3241510,Tea,5.0,1.5,7.5,Credit Card,ERROR,2023-10-05,Thursday,October
 TXN_1978239,Salad,4.0,5.0,20.0,,In-store,2023-09-20,Wednesday,September
@@ -6839,7 +6839,7 @@ TXN_3936339,,5.0,3.0,15.0,Digital Wallet,In-store,2023-09-08,Friday,September
 TXN_7784608,Coffee,5.0,2.0,10.0,,,2023-06-01,Thursday,June
 TXN_7132021,Smoothie,2.0,4.0,8.0,Credit Card,In-store,,,
 TXN_6438980,Salad,2.0,5.0,10.0,Credit Card,Takeaway,2023-11-10,Friday,November
-TXN_2196926,Juice,2.0,3.0,6.0,Digital Wallet,UNKNOWN,2023-07-27,Thursday,July
+TXN_2196926,Juice,2.0,3.0,6.0,Digital Wallet,Unknown location,2023-07-27,Thursday,July
 TXN_9582506,Cookie,2.0,1.0,2.0,Credit Card,,2023-04-28,Friday,April
 TXN_2424839,Juice,4.0,3.0,12.0,Digital Wallet,In-store,2023-09-28,Thursday,September
 TXN_5215704,Sandwich,5.0,4.0,20.0,Credit Card,,2023-10-31,Tuesday,October
@@ -6897,7 +6897,7 @@ TXN_3270584,Cake,3.0,3.0,9.0,Credit Card,Takeaway,2023-01-10,Tuesday,January
 TXN_8258798,Coffee,3.0,2.0,6.0,Cash,In-store,2023-10-18,Wednesday,October
 TXN_7412012,Coffee,1.0,2.0,2.0,Cash,In-store,2023-08-02,Wednesday,August
 TXN_1927324,Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-08-29,Tuesday,August
-TXN_9159655,Cookie,5.0,1.0,5.0,Cash,UNKNOWN,2023-03-21,Tuesday,March
+TXN_9159655,Cookie,5.0,1.0,5.0,Cash,Unknown location,2023-03-21,Tuesday,March
 TXN_1293057,Tea,2.0,1.5,3.0,Digital Wallet,,2023-07-03,Monday,July
 TXN_8829698,Cake,2.0,3.0,6.0,Cash,,2023-03-19,Sunday,March
 TXN_5056351,Juice,1.0,3.0,3.0,,Takeaway,2023-04-24,Monday,April
@@ -6932,7 +6932,7 @@ TXN_2726749,Juice,4.0,3.0,12.0,,Takeaway,2023-05-19,Friday,May
 TXN_3357336,Cake,4.0,3.0,12.0,,In-store,2023-02-20,Monday,February
 TXN_3529354,Juice,2.0,3.0,6.0,Credit Card,Takeaway,2023-09-06,Wednesday,September
 TXN_1046659,Smoothie,3.0,4.0,12.0,,Takeaway,2023-12-14,Thursday,December
-TXN_2032049,Salad,2.0,5.0,10.0,Credit Card,UNKNOWN,2023-10-12,Thursday,October
+TXN_2032049,Salad,2.0,5.0,10.0,Credit Card,Unknown location,2023-10-12,Thursday,October
 TXN_1444479,,1.0,3.0,3.0,Credit Card,,2023-12-10,Sunday,December
 TXN_7251037,Salad,3.0,5.0,15.0,Credit Card,In-store,2023-08-17,Thursday,August
 TXN_9891576,Sandwich,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-04-28,Friday,April
@@ -6949,7 +6949,7 @@ TXN_7312277,Juice,4.0,3.0,12.0,,In-store,2023-09-07,Thursday,September
 TXN_2342308,Cookie,5.0,1.0,5.0,Digital Wallet,,2023-05-20,Saturday,May
 TXN_7797507,Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-06,Tuesday,June
 TXN_3121360,Cake,3.0,3.0,9.0,Digital Wallet,,2023-01-21,Saturday,January
-TXN_5568416,Cake,5.0,3.0,15.0,Credit Card,UNKNOWN,2023-09-06,Wednesday,September
+TXN_5568416,Cake,5.0,3.0,15.0,Credit Card,Unknown location,2023-09-06,Wednesday,September
 TXN_7032922,Sandwich,4.0,4.0,16.0,,,2023-08-18,Friday,August
 TXN_5734186,Juice,3.0,3.0,9.0,Cash,,2023-04-03,Monday,April
 TXN_5107025,Tea,2.0,1.5,3.0,,In-store,2023-02-19,Sunday,February
@@ -6981,9 +6981,9 @@ TXN_4343133,Cookie,4.0,1.0,4.0,Digital Wallet,,2023-03-04,Saturday,March
 TXN_7712544,Cookie,3.0,1.0,3.0,Cash,,2023-05-06,Saturday,May
 TXN_6904952,Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-04-04,Tuesday,April
 TXN_4023091,Smoothie,3.0,4.0,12.0,Credit Card,,2023-07-24,Monday,July
-TXN_6005707,Juice,4.0,3.0,12.0,Cash,UNKNOWN,2023-02-06,Monday,February
+TXN_6005707,Juice,4.0,3.0,12.0,Cash,Unknown location,2023-02-06,Monday,February
 TXN_9824238,Tea,5.0,1.5,7.5,Cash,In-store,2023-07-14,Friday,July
-TXN_2867795,Cookie,1.0,1.0,1.0,Credit Card,UNKNOWN,2023-06-26,Monday,June
+TXN_2867795,Cookie,1.0,1.0,1.0,Credit Card,Unknown location,2023-06-26,Monday,June
 TXN_8434259,Tea,2.0,1.5,3.0,Digital Wallet,,,,
 TXN_5437961,Sandwich,3.0,4.0,12.0,,In-store,2023-06-30,Friday,June
 TXN_3440463,Cake,1.0,3.0,3.0,Credit Card,Takeaway,2023-04-04,Tuesday,April
@@ -7010,13 +7010,13 @@ TXN_6774559,Cookie,2.0,1.0,2.0,,,2023-02-18,Saturday,February
 TXN_7914312,Sandwich,5.0,4.0,20.0,,In-store,2023-06-06,Tuesday,June
 TXN_5282804,Sandwich,1.0,4.0,4.0,Credit Card,,2023-12-01,Friday,December
 TXN_6526078,Sandwich,5.0,4.0,20.0,Cash,,2023-11-07,Tuesday,November
-TXN_4070040,Cake,1.0,3.0,3.0,,UNKNOWN,,,
+TXN_4070040,Cake,1.0,3.0,3.0,,Unknown location,,,
 TXN_2210019,Sandwich,3.0,4.0,12.0,Cash,In-store,2023-12-05,Tuesday,December
 TXN_4727260,Tea,2.0,1.5,3.0,,,2023-01-30,Monday,January
 TXN_2617632,Smoothie,4.0,4.0,16.0,Digital Wallet,,2023-10-17,Tuesday,October
 TXN_5585601,Cake,4.0,3.0,12.0,,Takeaway,2023-05-28,Sunday,May
 TXN_8019306,Juice,1.0,3.0,3.0,Credit Card,,2023-05-21,Sunday,May
-TXN_6469563,Juice,5.0,3.0,15.0,Credit Card,UNKNOWN,2023-03-04,Saturday,March
+TXN_6469563,Juice,5.0,3.0,15.0,Credit Card,Unknown location,2023-03-04,Saturday,March
 TXN_4059695,Salad,3.0,5.0,15.0,Cash,Takeaway,2023-12-30,Saturday,December
 TXN_3799280,Coffee,5.0,2.0,10.0,Cash,,2023-09-23,Saturday,September
 TXN_1454024,Cookie,5.0,1.0,5.0,Digital Wallet,,,,
@@ -7086,7 +7086,7 @@ TXN_7174856,Sandwich,1.0,4.0,4.0,Cash,Takeaway,2023-05-03,Wednesday,May
 TXN_5548756,Cookie,4.0,1.0,4.0,Credit Card,ERROR,2023-09-09,Saturday,September
 TXN_1990997,Salad,1.0,5.0,5.0,Digital Wallet,,2023-03-27,Monday,March
 TXN_7325508,Salad,4.0,5.0,20.0,Credit Card,Takeaway,2023-05-27,Saturday,May
-TXN_5398134,Coffee,2.0,2.0,4.0,Credit Card,UNKNOWN,2023-10-01,Sunday,October
+TXN_5398134,Coffee,2.0,2.0,4.0,Credit Card,Unknown location,2023-10-01,Sunday,October
 TXN_1936447,Cookie,2.0,1.0,2.0,Cash,,2023-10-28,Saturday,October
 TXN_8469087,Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-11-06,Monday,November
 TXN_5556985,Juice,3.0,3.0,9.0,Digital Wallet,In-store,,,
@@ -7094,7 +7094,7 @@ TXN_8621589,Juice,5.0,3.0,15.0,Digital Wallet,,2023-11-15,Wednesday,November
 TXN_9901097,Coffee,1.0,2.0,2.0,Cash,,2023-01-07,Saturday,January
 TXN_8783484,Smoothie,1.0,4.0,4.0,Cash,In-store,2023-11-20,Monday,November
 TXN_9599703,Cake,2.0,3.0,6.0,Digital Wallet,In-store,2023-09-25,Monday,September
-TXN_1353248,Sandwich,3.0,4.0,12.0,Cash,UNKNOWN,2023-09-03,Sunday,September
+TXN_1353248,Sandwich,3.0,4.0,12.0,Cash,Unknown location,2023-09-03,Sunday,September
 TXN_1266598,Cake,4.0,3.0,12.0,Digital Wallet,,2023-04-05,Wednesday,April
 TXN_5445994,Juice,1.0,3.0,3.0,Credit Card,In-store,2023-06-11,Sunday,June
 TXN_5689687,Cake,5.0,3.0,15.0,,In-store,2023-06-04,Sunday,June
@@ -7133,7 +7133,7 @@ TXN_4336844,Smoothie,4.0,4.0,16.0,,,2023-07-09,Sunday,July
 TXN_6090715,Juice,3.0,3.0,9.0,Credit Card,In-store,2023-11-14,Tuesday,November
 TXN_9162014,Cake,1.0,3.0,3.0,Cash,,2023-07-21,Friday,July
 TXN_4751689,Smoothie,5.0,4.0,20.0,Cash,In-store,2023-07-28,Friday,July
-TXN_2200163,Coffee,4.0,2.0,8.0,Cash,UNKNOWN,2023-03-13,Monday,March
+TXN_2200163,Coffee,4.0,2.0,8.0,Cash,Unknown location,2023-03-13,Monday,March
 TXN_7310903,Smoothie,3.0,4.0,12.0,Credit Card,,2023-09-10,Sunday,September
 TXN_7155957,Salad,5.0,5.0,25.0,Digital Wallet,In-store,2023-02-22,Wednesday,February
 TXN_4350828,Juice,2.0,3.0,6.0,Digital Wallet,In-store,2023-02-16,Thursday,February
@@ -7174,7 +7174,7 @@ TXN_1357780,Tea,4.0,1.5,6.0,,In-store,2023-10-23,Monday,October
 TXN_6113724,Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-03-26,Sunday,March
 TXN_6496176,Cookie,4.0,1.0,4.0,,In-store,2023-07-26,Wednesday,July
 TXN_2381411,Coffee,5.0,2.0,10.0,Cash,In-store,2023-07-30,Sunday,July
-TXN_9210096,Smoothie,3.0,4.0,12.0,,UNKNOWN,2023-05-25,Thursday,May
+TXN_9210096,Smoothie,3.0,4.0,12.0,,Unknown location,2023-05-25,Thursday,May
 TXN_4563544,Sandwich,5.0,4.0,20.0,,ERROR,2023-06-10,Saturday,June
 TXN_4623468,Coffee,5.0,2.0,10.0,Credit Card,Takeaway,,,
 TXN_2168277,Cookie,1.0,1.0,1.0,,Takeaway,2023-06-02,Friday,June
@@ -7195,7 +7195,7 @@ TXN_1099119,Smoothie,4.0,4.0,16.0,Cash,,2023-02-09,Thursday,February
 TXN_2421387,Cookie,4.0,1.0,4.0,,,2023-04-09,Sunday,April
 TXN_8627017,Tea,4.0,1.5,6.0,Cash,In-store,2023-01-28,Saturday,January
 TXN_7468084,Coffee,5.0,2.0,10.0,Credit Card,,2023-06-14,Wednesday,June
-TXN_1185069,Salad,1.0,5.0,5.0,Digital Wallet,UNKNOWN,2023-02-21,Tuesday,February
+TXN_1185069,Salad,1.0,5.0,5.0,Digital Wallet,Unknown location,2023-02-21,Tuesday,February
 TXN_5100941,Cookie,5.0,1.0,5.0,Digital Wallet,,2023-07-11,Tuesday,July
 TXN_6428745,Cake,1.0,3.0,3.0,,Takeaway,2023-06-02,Friday,June
 TXN_4096757,Salad,5.0,5.0,25.0,Credit Card,In-store,2023-07-20,Thursday,July
@@ -7224,7 +7224,7 @@ TXN_3669068,Cake,5.0,3.0,15.0,Cash,Takeaway,2023-01-17,Tuesday,January
 TXN_2201248,Tea,1.0,1.5,1.5,Cash,Takeaway,2023-07-20,Thursday,July
 TXN_4432252,Smoothie,5.0,4.0,20.0,Credit Card,,2023-02-16,Thursday,February
 TXN_6595038,Cookie,2.0,1.0,2.0,,,2023-02-08,Wednesday,February
-TXN_2940895,Cake,4.0,3.0,12.0,,UNKNOWN,2023-02-20,Monday,February
+TXN_2940895,Cake,4.0,3.0,12.0,,Unknown location,2023-02-20,Monday,February
 TXN_9796122,Salad,3.0,5.0,15.0,,,,,
 TXN_9737509,Tea,5.0,1.5,7.5,Digital Wallet,In-store,2023-11-27,Monday,November
 TXN_8749404,Coffee,4.0,2.0,8.0,Digital Wallet,In-store,2023-12-16,Saturday,December
@@ -7264,7 +7264,7 @@ TXN_8196921,Coffee,4.0,2.0,8.0,Credit Card,Takeaway,2023-05-19,Friday,May
 TXN_9289408,Coffee,4.0,2.0,8.0,Digital Wallet,,2023-09-23,Saturday,September
 TXN_3771902,Juice,5.0,3.0,15.0,Cash,Takeaway,2023-03-31,Friday,March
 TXN_8506937,Salad,1.0,5.0,5.0,,In-store,2023-09-07,Thursday,September
-TXN_6217375,Smoothie,5.0,4.0,20.0,Cash,UNKNOWN,2023-12-07,Thursday,December
+TXN_6217375,Smoothie,5.0,4.0,20.0,Cash,Unknown location,2023-12-07,Thursday,December
 TXN_3779320,Tea,4.0,1.5,6.0,Credit Card,In-store,2023-03-27,Monday,March
 TXN_9789876,Salad,4.0,5.0,20.0,Cash,Takeaway,2023-09-05,Tuesday,September
 TXN_9129403,Sandwich,3.0,4.0,12.0,Credit Card,,2023-12-05,Tuesday,December
@@ -7298,7 +7298,7 @@ TXN_9265423,Juice,1.0,3.0,3.0,,,2023-10-20,Friday,October
 TXN_5808749,Salad,1.0,5.0,5.0,Cash,Takeaway,2023-01-25,Wednesday,January
 TXN_7677646,Sandwich,5.0,4.0,20.0,,,2023-02-15,Wednesday,February
 TXN_3894165,Smoothie,5.0,4.0,20.0,Credit Card,,2023-03-31,Friday,March
-TXN_5270067,Cake,3.0,3.0,9.0,Digital Wallet,UNKNOWN,2023-03-09,Thursday,March
+TXN_5270067,Cake,3.0,3.0,9.0,Digital Wallet,Unknown location,2023-03-09,Thursday,March
 TXN_9326761,Tea,1.0,1.5,1.5,,,2023-01-02,Monday,January
 TXN_2168513,Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-02-09,Thursday,February
 TXN_3947116,Sandwich,1.0,4.0,4.0,,Takeaway,2023-01-13,Friday,January
@@ -7326,7 +7326,7 @@ TXN_8359693,Sandwich,2.0,4.0,8.0,Digital Wallet,In-store,2023-10-23,Monday,Octob
 TXN_2244902,Coffee,5.0,2.0,10.0,Credit Card,,2023-02-13,Monday,February
 TXN_5561958,Smoothie,4.0,4.0,16.0,Digital Wallet,,2023-07-24,Monday,July
 TXN_6963106,Sandwich,1.0,4.0,4.0,Cash,In-store,2023-06-01,Thursday,June
-TXN_6008133,Coffee,3.0,2.0,6.0,Digital Wallet,UNKNOWN,2023-11-08,Wednesday,November
+TXN_6008133,Coffee,3.0,2.0,6.0,Digital Wallet,Unknown location,2023-11-08,Wednesday,November
 TXN_2551074,Cookie,1.0,1.0,1.0,Cash,,2023-09-17,Sunday,September
 TXN_1899827,Coffee,5.0,2.0,10.0,Credit Card,Takeaway,2023-06-24,Saturday,June
 TXN_3046572,Salad,4.0,5.0,20.0,Cash,ERROR,2023-05-16,Tuesday,May
@@ -7339,7 +7339,7 @@ TXN_4192665,Coffee,1.0,2.0,2.0,Cash,,2023-07-15,Saturday,July
 TXN_5433077,Cake,4.0,3.0,12.0,Cash,In-store,2023-11-29,Wednesday,November
 TXN_1844925,Tea,5.0,1.5,7.5,Cash,,2023-10-21,Saturday,October
 TXN_7215311,Tea,1.0,1.5,1.5,,,2023-07-31,Monday,July
-TXN_8003664,Sandwich,1.0,4.0,4.0,Credit Card,UNKNOWN,2023-11-26,Sunday,November
+TXN_8003664,Sandwich,1.0,4.0,4.0,Credit Card,Unknown location,2023-11-26,Sunday,November
 TXN_3872616,Cake,2.0,3.0,6.0,,Takeaway,2023-10-23,Monday,October
 TXN_3659483,Smoothie,3.0,4.0,12.0,Cash,,2023-05-14,Sunday,May
 TXN_1688499,Smoothie,2.0,4.0,8.0,Credit Card,,2023-03-23,Thursday,March
@@ -7407,7 +7407,7 @@ TXN_6540267,Salad,2.0,5.0,10.0,,Takeaway,2023-09-26,Tuesday,September
 TXN_6994245,Coffee,4.0,2.0,8.0,Digital Wallet,In-store,2023-12-30,Saturday,December
 TXN_8973007,Coffee,5.0,2.0,10.0,,Takeaway,2023-02-07,Tuesday,February
 TXN_8103630,Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-03-08,Wednesday,March
-TXN_2575160,Tea,5.0,1.5,7.5,,UNKNOWN,2023-01-02,Monday,January
+TXN_2575160,Tea,5.0,1.5,7.5,,Unknown location,2023-01-02,Monday,January
 TXN_8002309,Sandwich,1.0,4.0,4.0,,,2023-04-04,Tuesday,April
 TXN_3252542,Sandwich,5.0,4.0,20.0,Digital Wallet,In-store,2023-09-22,Friday,September
 TXN_4775220,Juice,3.0,3.0,9.0,,Takeaway,2023-07-21,Friday,July
@@ -7451,11 +7451,11 @@ TXN_7021592,Salad,4.0,5.0,20.0,Credit Card,In-store,2023-07-01,Saturday,July
 TXN_3041142,Smoothie,3.0,4.0,12.0,Digital Wallet,ERROR,2023-12-22,Friday,December
 TXN_5618631,Coffee,5.0,2.0,10.0,Credit Card,In-store,2023-12-21,Thursday,December
 TXN_6496379,Sandwich,1.0,4.0,4.0,Cash,Takeaway,2023-12-24,Sunday,December
-TXN_1486119,Cookie,4.0,1.0,4.0,,UNKNOWN,2023-08-24,Thursday,August
+TXN_1486119,Cookie,4.0,1.0,4.0,,Unknown location,2023-08-24,Thursday,August
 TXN_2386202,Salad,4.0,5.0,20.0,Cash,In-store,2023-01-22,Sunday,January
 TXN_6836109,Coffee,4.0,2.0,8.0,,Takeaway,2023-04-09,Sunday,April
 TXN_9190061,Salad,5.0,5.0,25.0,Cash,Takeaway,2023-06-14,Wednesday,June
-TXN_1691512,Smoothie,1.0,4.0,4.0,,UNKNOWN,2023-03-25,Saturday,March
+TXN_1691512,Smoothie,1.0,4.0,4.0,,Unknown location,2023-03-25,Saturday,March
 TXN_8813052,Tea,4.0,1.5,6.0,,In-store,,,
 TXN_2495471,Salad,3.0,5.0,15.0,Credit Card,Takeaway,2023-10-22,Sunday,October
 TXN_7708201,Salad,3.0,5.0,15.0,Cash,,2023-01-04,Wednesday,January
@@ -7486,7 +7486,7 @@ TXN_4581359,Juice,2.0,3.0,6.0,Credit Card,,2023-03-22,Wednesday,March
 TXN_3561451,Salad,4.0,5.0,20.0,Credit Card,,2023-05-31,Wednesday,May
 TXN_7768989,Sandwich,2.0,4.0,8.0,Cash,In-store,2023-10-02,Monday,October
 TXN_5963316,Tea,2.0,1.5,3.0,Credit Card,Takeaway,2023-06-25,Sunday,June
-TXN_4265942,Coffee,5.0,2.0,10.0,,UNKNOWN,2023-04-24,Monday,April
+TXN_4265942,Coffee,5.0,2.0,10.0,,Unknown location,2023-04-24,Monday,April
 TXN_6014389,Cookie,5.0,1.0,5.0,Credit Card,In-store,2023-07-21,Friday,July
 TXN_7358729,Cookie,2.0,1.0,2.0,Cash,Takeaway,2023-02-25,Saturday,February
 TXN_9815521,Sandwich,3.0,4.0,12.0,Credit Card,In-store,2023-05-26,Friday,May
@@ -7499,7 +7499,7 @@ TXN_7896586,Sandwich,2.0,4.0,8.0,Credit Card,,2023-09-04,Monday,September
 TXN_5835004,Smoothie,5.0,4.0,20.0,Credit Card,In-store,2023-04-14,Friday,April
 TXN_3774886,Sandwich,3.0,4.0,12.0,,,2023-06-01,Thursday,June
 TXN_5950951,Salad,1.0,5.0,5.0,Credit Card,In-store,2023-04-10,Monday,April
-TXN_3918096,Juice,4.0,3.0,12.0,,UNKNOWN,2023-08-17,Thursday,August
+TXN_3918096,Juice,4.0,3.0,12.0,,Unknown location,2023-08-17,Thursday,August
 TXN_2786231,Juice,1.0,3.0,3.0,Cash,Takeaway,2023-08-17,Thursday,August
 TXN_4262451,Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-10-16,Monday,October
 TXN_4773210,Coffee,1.0,2.0,2.0,Credit Card,,2023-11-29,Wednesday,November
@@ -7512,7 +7512,7 @@ TXN_5164540,Tea,2.0,1.5,3.0,,Takeaway,2023-01-05,Thursday,January
 TXN_6488040,Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-05-20,Saturday,May
 TXN_7269738,Cookie,3.0,1.0,3.0,Cash,,2023-05-26,Friday,May
 TXN_2638760,Cake,5.0,3.0,15.0,Cash,,2023-02-09,Thursday,February
-TXN_8013818,Tea,2.0,1.5,3.0,,UNKNOWN,2023-07-24,Monday,July
+TXN_8013818,Tea,2.0,1.5,3.0,,Unknown location,2023-07-24,Monday,July
 TXN_6643922,Coffee,5.0,2.0,10.0,Digital Wallet,In-store,2023-06-24,Saturday,June
 TXN_8388056,Salad,1.0,5.0,5.0,Credit Card,,2023-06-23,Friday,June
 TXN_4728936,Juice,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-02-27,Monday,February
@@ -7555,12 +7555,12 @@ TXN_7407946,Salad,3.0,5.0,15.0,Credit Card,,2023-03-26,Sunday,March
 TXN_8635803,Tea,2.0,1.5,3.0,Cash,,2023-03-17,Friday,March
 TXN_9550508,Smoothie,5.0,4.0,20.0,,,2023-11-18,Saturday,November
 TXN_8010562,Sandwich,1.0,4.0,4.0,Cash,,2023-07-23,Sunday,July
-TXN_2501648,Cake,2.0,3.0,6.0,Credit Card,UNKNOWN,2023-12-05,Tuesday,December
+TXN_2501648,Cake,2.0,3.0,6.0,Credit Card,Unknown location,2023-12-05,Tuesday,December
 TXN_9455679,Salad,5.0,5.0,25.0,,Takeaway,2023-05-18,Thursday,May
 TXN_8105705,Juice,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-10-17,Tuesday,October
 TXN_9676096,Cake,3.0,3.0,9.0,Digital Wallet,,2023-04-05,Wednesday,April
 TXN_2126034,Coffee,4.0,2.0,8.0,Cash,In-store,2023-10-30,Monday,October
-TXN_2151258,Cake,3.0,3.0,9.0,Credit Card,UNKNOWN,2023-08-09,Wednesday,August
+TXN_2151258,Cake,3.0,3.0,9.0,Credit Card,Unknown location,2023-08-09,Wednesday,August
 TXN_3672345,Tea,3.0,1.5,4.5,Credit Card,,2023-10-17,Tuesday,October
 TXN_6793298,Tea,2.0,1.5,3.0,Credit Card,,2023-04-14,Friday,April
 TXN_7480853,Smoothie,2.0,4.0,8.0,Digital Wallet,In-store,2023-10-07,Saturday,October
@@ -7625,7 +7625,7 @@ TXN_9948753,Tea,2.0,1.5,3.0,,Takeaway,2023-05-09,Tuesday,May
 TXN_1196223,Juice,3.0,3.0,9.0,Digital Wallet,In-store,2023-10-14,Saturday,October
 TXN_2401073,Coffee,4.0,2.0,8.0,Credit Card,,2023-02-10,Friday,February
 TXN_9639089,Juice,4.0,3.0,12.0,Credit Card,In-store,2023-05-14,Sunday,May
-TXN_8654093,Coffee,3.0,2.0,6.0,Digital Wallet,UNKNOWN,2023-11-29,Wednesday,November
+TXN_8654093,Coffee,3.0,2.0,6.0,Digital Wallet,Unknown location,2023-11-29,Wednesday,November
 TXN_1038397,Cookie,3.0,1.0,3.0,,In-store,2023-05-20,Saturday,May
 TXN_8872715,Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,,,
 TXN_4638979,Salad,1.0,5.0,5.0,,,2023-06-28,Wednesday,June
@@ -7726,7 +7726,7 @@ TXN_7740239,Tea,2.0,1.5,3.0,,,2023-01-26,Thursday,January
 TXN_6901162,,3.0,4.0,12.0,Digital Wallet,In-store,,,
 TXN_3689579,,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-12-02,Saturday,December
 TXN_7770188,Juice,5.0,3.0,15.0,Digital Wallet,In-store,2023-10-28,Saturday,October
-TXN_5088167,Coffee,5.0,2.0,10.0,Credit Card,UNKNOWN,2023-09-02,Saturday,September
+TXN_5088167,Coffee,5.0,2.0,10.0,Credit Card,Unknown location,2023-09-02,Saturday,September
 TXN_1865302,Cookie,5.0,1.0,5.0,Credit Card,In-store,2023-08-16,Wednesday,August
 TXN_4224423,Juice,3.0,3.0,9.0,Cash,Takeaway,2023-08-27,Sunday,August
 TXN_3879052,Coffee,3.0,2.0,6.0,Credit Card,,2023-12-14,Thursday,December
@@ -7769,7 +7769,7 @@ TXN_1148060,Cookie,5.0,1.0,5.0,Cash,,2023-10-12,Thursday,October
 TXN_5151780,Salad,4.0,5.0,20.0,Cash,Takeaway,2023-06-24,Saturday,June
 TXN_3398955,Cookie,3.0,1.0,3.0,Cash,ERROR,2023-10-19,Thursday,October
 TXN_8140360,Coffee,4.0,2.0,8.0,Digital Wallet,Takeaway,2023-05-05,Friday,May
-TXN_4448318,Coffee,4.0,2.0,8.0,Digital Wallet,UNKNOWN,2023-08-07,Monday,August
+TXN_4448318,Coffee,4.0,2.0,8.0,Digital Wallet,Unknown location,2023-08-07,Monday,August
 TXN_8341520,Sandwich,3.0,4.0,12.0,,Takeaway,2023-06-24,Saturday,June
 TXN_9883214,Juice,3.0,3.0,9.0,,,2023-04-04,Tuesday,April
 TXN_2912934,Cookie,5.0,1.0,5.0,Credit Card,,2023-04-01,Saturday,April
@@ -7816,7 +7816,7 @@ TXN_8039560,Coffee,5.0,2.0,10.0,Digital Wallet,,2023-03-29,Wednesday,March
 TXN_6785331,Cake,1.0,3.0,3.0,,,2023-04-12,Wednesday,April
 TXN_8260297,Salad,2.0,5.0,10.0,Cash,In-store,2023-07-04,Tuesday,July
 TXN_7152012,Sandwich,3.0,4.0,12.0,Digital Wallet,In-store,2023-04-02,Sunday,April
-TXN_7907366,Coffee,4.0,2.0,8.0,Digital Wallet,UNKNOWN,2023-01-13,Friday,January
+TXN_7907366,Coffee,4.0,2.0,8.0,Digital Wallet,Unknown location,2023-01-13,Friday,January
 TXN_3830888,Coffee,4.0,2.0,8.0,,In-store,2023-02-20,Monday,February
 TXN_5618377,Sandwich,2.0,4.0,8.0,,In-store,2023-04-02,Sunday,April
 TXN_3645674,Tea,4.0,1.5,6.0,Cash,Takeaway,2023-07-18,Tuesday,July
@@ -7877,7 +7877,7 @@ TXN_3196388,Salad,3.0,5.0,15.0,Cash,In-store,2023-03-04,Saturday,March
 TXN_6960031,Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-04-25,Tuesday,April
 TXN_8963106,Coffee,5.0,2.0,10.0,Cash,In-store,2023-04-01,Saturday,April
 TXN_8732716,Tea,3.0,1.5,4.5,,,2023-12-29,Friday,December
-TXN_3530118,Cake,5.0,3.0,15.0,Digital Wallet,UNKNOWN,2023-11-14,Tuesday,November
+TXN_3530118,Cake,5.0,3.0,15.0,Digital Wallet,Unknown location,2023-11-14,Tuesday,November
 TXN_7875743,Cake,5.0,3.0,15.0,Cash,Takeaway,2023-04-17,Monday,April
 TXN_1526920,Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,,,
 TXN_1933315,Juice,2.0,3.0,6.0,Digital Wallet,In-store,2023-09-29,Friday,September
@@ -7893,7 +7893,7 @@ TXN_2375919,Sandwich,3.0,4.0,12.0,,ERROR,2023-11-23,Thursday,November
 TXN_1091243,Sandwich,2.0,4.0,8.0,,In-store,2023-01-06,Friday,January
 TXN_8800741,Coffee,4.0,2.0,8.0,,,2023-06-26,Monday,June
 TXN_3546303,Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-09-11,Monday,September
-TXN_7595096,Juice,1.0,3.0,3.0,,UNKNOWN,2023-11-02,Thursday,November
+TXN_7595096,Juice,1.0,3.0,3.0,,Unknown location,2023-11-02,Thursday,November
 TXN_4788849,Cookie,1.0,1.0,1.0,,Takeaway,2023-03-13,Monday,March
 TXN_7838802,Cookie,2.0,1.0,2.0,Credit Card,Takeaway,2023-11-20,Monday,November
 TXN_6736326,Salad,2.0,5.0,10.0,Credit Card,In-store,2023-04-14,Friday,April
@@ -7914,7 +7914,7 @@ TXN_5881237,Cookie,2.0,1.0,2.0,,,2023-08-14,Monday,August
 TXN_2271705,Tea,5.0,1.5,7.5,,,2023-07-20,Thursday,July
 TXN_4618211,Smoothie,4.0,4.0,16.0,Cash,,2023-09-12,Tuesday,September
 TXN_9618563,Smoothie,1.0,4.0,4.0,,Takeaway,2023-02-24,Friday,February
-TXN_4374260,Cookie,1.0,1.0,1.0,Cash,UNKNOWN,2023-04-20,Thursday,April
+TXN_4374260,Cookie,1.0,1.0,1.0,Cash,Unknown location,2023-04-20,Thursday,April
 TXN_1946773,Sandwich,4.0,4.0,16.0,Cash,,2023-08-28,Monday,August
 TXN_4387523,Cake,3.0,3.0,9.0,,,2023-02-07,Tuesday,February
 TXN_7661094,Salad,4.0,5.0,20.0,Cash,,2023-07-21,Friday,July
@@ -7942,7 +7942,7 @@ TXN_4565080,Smoothie,4.0,4.0,16.0,Digital Wallet,In-store,2023-09-28,Thursday,Se
 TXN_8348710,Coffee,1.0,2.0,2.0,Cash,In-store,2023-12-27,Wednesday,December
 TXN_7496394,Smoothie,4.0,4.0,16.0,,,2023-06-12,Monday,June
 TXN_8495889,Cake,1.0,3.0,3.0,Cash,Takeaway,2023-06-26,Monday,June
-TXN_5064188,Sandwich,4.0,4.0,16.0,Credit Card,UNKNOWN,2023-12-08,Friday,December
+TXN_5064188,Sandwich,4.0,4.0,16.0,Credit Card,Unknown location,2023-12-08,Friday,December
 TXN_6104335,Smoothie,2.0,4.0,8.0,Credit Card,,2023-11-13,Monday,November
 TXN_5313435,Salad,4.0,5.0,20.0,Cash,,2023-02-18,Saturday,February
 TXN_6700745,Juice,3.0,3.0,9.0,,In-store,2023-04-23,Sunday,April
@@ -7972,26 +7972,26 @@ TXN_6612143,Tea,5.0,1.5,7.5,Cash,In-store,2023-11-07,Tuesday,November
 TXN_8352416,Salad,1.0,5.0,5.0,Digital Wallet,In-store,2023-07-26,Wednesday,July
 TXN_2644561,,4.0,4.0,16.0,Digital Wallet,,2023-09-13,Wednesday,September
 TXN_8330837,Juice,3.0,3.0,9.0,Digital Wallet,,2023-10-13,Friday,October
-TXN_3703482,Cake,4.0,3.0,12.0,,UNKNOWN,2023-01-08,Sunday,January
+TXN_3703482,Cake,4.0,3.0,12.0,,Unknown location,2023-01-08,Sunday,January
 TXN_3455103,Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-04-22,Saturday,April
 TXN_1496962,Smoothie,5.0,4.0,20.0,,In-store,2023-12-17,Sunday,December
 TXN_4216294,Tea,4.0,1.5,6.0,Cash,In-store,2023-10-19,Thursday,October
-TXN_3002889,Coffee,3.0,2.0,6.0,Digital Wallet,UNKNOWN,2023-10-22,Sunday,October
+TXN_3002889,Coffee,3.0,2.0,6.0,Digital Wallet,Unknown location,2023-10-22,Sunday,October
 TXN_4008135,Cookie,5.0,1.0,5.0,Cash,Takeaway,2023-11-25,Saturday,November
 TXN_5654331,Coffee,4.0,2.0,8.0,Cash,In-store,2023-07-31,Monday,July
 TXN_1213938,Salad,5.0,5.0,25.0,Digital Wallet,Takeaway,2023-07-06,Thursday,July
 TXN_2522182,Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-11-11,Saturday,November
 TXN_5329431,Sandwich,3.0,4.0,12.0,Credit Card,In-store,2023-10-03,Tuesday,October
-TXN_9647494,,2.0,4.0,8.0,Credit Card,UNKNOWN,2023-10-21,Saturday,October
+TXN_9647494,,2.0,4.0,8.0,Credit Card,Unknown location,2023-10-21,Saturday,October
 TXN_8482887,Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-10-29,Sunday,October
-TXN_3883425,Smoothie,5.0,4.0,20.0,Digital Wallet,UNKNOWN,2023-07-09,Sunday,July
+TXN_3883425,Smoothie,5.0,4.0,20.0,Digital Wallet,Unknown location,2023-07-09,Sunday,July
 TXN_4434185,Smoothie,5.0,4.0,20.0,Credit Card,Takeaway,2023-04-30,Sunday,April
 TXN_7388851,Smoothie,1.0,4.0,4.0,Digital Wallet,,2023-09-30,Saturday,September
 TXN_5471175,Cookie,4.0,1.0,4.0,Cash,,2023-04-16,Sunday,April
 TXN_1874601,Coffee,4.0,2.0,8.0,,,2023-12-10,Sunday,December
 TXN_3641001,Smoothie,3.0,4.0,12.0,Digital Wallet,ERROR,2023-11-10,Friday,November
 TXN_6446441,Salad,3.0,5.0,15.0,Digital Wallet,,2023-02-18,Saturday,February
-TXN_9718216,Juice,4.0,3.0,12.0,,UNKNOWN,2023-07-07,Friday,July
+TXN_9718216,Juice,4.0,3.0,12.0,,Unknown location,2023-07-07,Friday,July
 TXN_7391138,Tea,5.0,1.5,7.5,Cash,,2023-08-23,Wednesday,August
 TXN_9548077,Tea,2.0,1.5,3.0,Cash,In-store,2023-07-05,Wednesday,July
 TXN_9185022,Sandwich,3.0,4.0,12.0,Digital Wallet,In-store,2023-06-19,Monday,June
@@ -8015,7 +8015,7 @@ TXN_7260110,Salad,5.0,5.0,25.0,Credit Card,In-store,2023-03-07,Tuesday,March
 TXN_1588687,Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-08-22,Tuesday,August
 TXN_2886505,Tea,3.0,1.5,4.5,,,2023-09-05,Tuesday,September
 TXN_3864453,Cookie,5.0,1.0,5.0,Digital Wallet,,2023-11-15,Wednesday,November
-TXN_5346027,Sandwich,2.0,4.0,8.0,,UNKNOWN,2023-12-19,Tuesday,December
+TXN_5346027,Sandwich,2.0,4.0,8.0,,Unknown location,2023-12-19,Tuesday,December
 TXN_3674876,Smoothie,5.0,4.0,20.0,Cash,Takeaway,,,
 TXN_8690361,Smoothie,3.0,4.0,12.0,,,2023-07-12,Wednesday,July
 TXN_8419805,Cake,5.0,3.0,15.0,,In-store,2023-07-24,Monday,July
@@ -8092,7 +8092,7 @@ TXN_5213761,Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-08-18,Friday,August
 TXN_1427485,Coffee,3.0,2.0,6.0,Credit Card,,2023-07-19,Wednesday,July
 TXN_5954991,Sandwich,3.0,4.0,12.0,,Takeaway,2023-08-07,Monday,August
 TXN_8860270,,1.0,4.0,4.0,Cash,Takeaway,2023-11-06,Monday,November
-TXN_6482416,Coffee,1.0,2.0,2.0,,UNKNOWN,2023-07-20,Thursday,July
+TXN_6482416,Coffee,1.0,2.0,2.0,,Unknown location,2023-07-20,Thursday,July
 TXN_4916611,Juice,5.0,3.0,15.0,,Takeaway,2023-05-21,Sunday,May
 TXN_7968892,Tea,2.0,1.5,3.0,,In-store,2023-10-02,Monday,October
 TXN_9535721,Cake,5.0,3.0,15.0,Digital Wallet,In-store,2023-08-03,Thursday,August
@@ -8121,7 +8121,7 @@ TXN_7484886,Smoothie,3.0,4.0,12.0,,,2023-04-17,Monday,April
 TXN_7316790,Coffee,1.0,2.0,2.0,Credit Card,In-store,2023-11-07,Tuesday,November
 TXN_4663529,Sandwich,5.0,4.0,20.0,Digital Wallet,ERROR,2023-12-24,Sunday,December
 TXN_2675174,Salad,2.0,5.0,10.0,,Takeaway,2023-12-04,Monday,December
-TXN_7229543,Cake,1.0,3.0,3.0,Credit Card,UNKNOWN,2023-07-10,Monday,July
+TXN_7229543,Cake,1.0,3.0,3.0,Credit Card,Unknown location,2023-07-10,Monday,July
 TXN_4330643,Cookie,3.0,1.0,3.0,Cash,Takeaway,2023-05-15,Monday,May
 TXN_2003488,Juice,3.0,3.0,9.0,,Takeaway,2023-09-25,Monday,September
 TXN_3492393,Coffee,1.0,2.0,2.0,,In-store,2023-05-29,Monday,May
@@ -8133,7 +8133,7 @@ TXN_2581559,Sandwich,1.0,4.0,4.0,Credit Card,Takeaway,2023-03-25,Saturday,March
 TXN_9146123,Coffee,2.0,2.0,4.0,Digital Wallet,,2023-12-12,Tuesday,December
 TXN_1335256,Coffee,5.0,2.0,10.0,,Takeaway,2023-08-04,Friday,August
 TXN_5968921,Salad,5.0,5.0,25.0,Credit Card,Takeaway,2023-10-10,Tuesday,October
-TXN_6895558,Coffee,2.0,2.0,4.0,Credit Card,UNKNOWN,2023-04-10,Monday,April
+TXN_6895558,Coffee,2.0,2.0,4.0,Credit Card,Unknown location,2023-04-10,Monday,April
 TXN_6428404,Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-02-06,Monday,February
 TXN_6762311,Juice,1.0,3.0,3.0,Credit Card,Takeaway,,,
 TXN_1190402,Cake,1.0,3.0,3.0,Credit Card,Takeaway,2023-12-01,Friday,December
@@ -8166,7 +8166,7 @@ TXN_4834450,Cake,2.0,3.0,6.0,Cash,,2023-06-26,Monday,June
 TXN_9081686,Cookie,5.0,1.0,5.0,,,2023-06-11,Sunday,June
 TXN_6650875,Cookie,5.0,1.0,5.0,Credit Card,Takeaway,2023-01-29,Sunday,January
 TXN_2133223,Cake,3.0,3.0,9.0,Cash,,2023-11-17,Friday,November
-TXN_9575926,Sandwich,3.0,4.0,12.0,Credit Card,UNKNOWN,2023-12-12,Tuesday,December
+TXN_9575926,Sandwich,3.0,4.0,12.0,Credit Card,Unknown location,2023-12-12,Tuesday,December
 TXN_5425911,Smoothie,1.0,4.0,4.0,Digital Wallet,,2023-11-30,Thursday,November
 TXN_9860308,Smoothie,2.0,4.0,8.0,Digital Wallet,,2023-02-20,Monday,February
 TXN_3507013,Juice,1.0,3.0,3.0,Digital Wallet,In-store,2023-01-16,Monday,January
@@ -8176,12 +8176,12 @@ TXN_8131570,Salad,4.0,5.0,20.0,,In-store,2023-12-02,Saturday,December
 TXN_3898445,Sandwich,3.0,4.0,12.0,Cash,Takeaway,2023-06-17,Saturday,June
 TXN_8588758,Sandwich,4.0,4.0,16.0,Credit Card,In-store,,,
 TXN_7641606,Coffee,3.0,2.0,6.0,Credit Card,Takeaway,2023-12-26,Tuesday,December
-TXN_1414039,Juice,4.0,3.0,12.0,,UNKNOWN,2023-02-13,Monday,February
+TXN_1414039,Juice,4.0,3.0,12.0,,Unknown location,2023-02-13,Monday,February
 TXN_6190857,Tea,1.0,1.5,1.5,,In-store,2023-10-14,Saturday,October
 TXN_1805937,Juice,3.0,3.0,9.0,Credit Card,,2023-06-12,Monday,June
 TXN_7390866,Tea,5.0,1.5,7.5,,Takeaway,,,
 TXN_4717715,Sandwich,3.0,4.0,12.0,Digital Wallet,,2023-07-27,Thursday,July
-TXN_1237674,Tea,3.0,1.5,4.5,Credit Card,UNKNOWN,2023-10-04,Wednesday,October
+TXN_1237674,Tea,3.0,1.5,4.5,Credit Card,Unknown location,2023-10-04,Wednesday,October
 TXN_9686177,Cake,3.0,3.0,9.0,,In-store,,,
 TXN_2672972,Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-15,Thursday,June
 TXN_9582818,,1.0,4.0,4.0,Cash,In-store,2023-10-27,Friday,October
@@ -8252,7 +8252,7 @@ TXN_5244674,Cake,5.0,3.0,15.0,,,2023-04-27,Thursday,April
 TXN_9679675,Coffee,1.0,2.0,2.0,Cash,,2023-07-07,Friday,July
 TXN_2562041,Cake,5.0,3.0,15.0,Cash,Takeaway,2023-12-24,Sunday,December
 TXN_2738904,Smoothie,4.0,4.0,16.0,Digital Wallet,,2023-11-23,Thursday,November
-TXN_9266499,Cake,1.0,3.0,3.0,Digital Wallet,UNKNOWN,2023-02-16,Thursday,February
+TXN_9266499,Cake,1.0,3.0,3.0,Digital Wallet,Unknown location,2023-02-16,Thursday,February
 TXN_9196229,Sandwich,5.0,4.0,20.0,Credit Card,,2023-12-08,Friday,December
 TXN_3740505,Tea,2.0,1.5,3.0,,,2023-11-21,Tuesday,November
 TXN_4308634,Coffee,3.0,2.0,6.0,Cash,In-store,2023-02-14,Tuesday,February
@@ -8275,7 +8275,7 @@ TXN_3105633,Coffee,1.0,2.0,2.0,,In-store,2023-03-30,Thursday,March
 TXN_1964893,Smoothie,1.0,4.0,4.0,,ERROR,,,
 TXN_7936851,Sandwich,3.0,4.0,12.0,,,2023-10-07,Saturday,October
 TXN_6393305,Salad,5.0,5.0,25.0,Digital Wallet,In-store,2023-10-19,Thursday,October
-TXN_3069563,Sandwich,2.0,4.0,8.0,Cash,UNKNOWN,2023-04-25,Tuesday,April
+TXN_3069563,Sandwich,2.0,4.0,8.0,Cash,Unknown location,2023-04-25,Tuesday,April
 TXN_1728427,Coffee,5.0,2.0,10.0,Cash,,2023-02-11,Saturday,February
 TXN_9176288,Tea,2.0,1.5,3.0,Digital Wallet,In-store,2023-02-08,Wednesday,February
 TXN_9071439,Juice,3.0,3.0,9.0,Credit Card,,2023-02-05,Sunday,February
@@ -8299,10 +8299,10 @@ TXN_4948026,Tea,4.0,1.5,6.0,Digital Wallet,In-store,2023-07-02,Sunday,July
 TXN_8741663,Smoothie,1.0,4.0,4.0,Credit Card,Takeaway,2023-01-21,Saturday,January
 TXN_7249396,Cake,1.0,3.0,3.0,Cash,,2023-09-26,Tuesday,September
 TXN_8104914,Cookie,1.0,1.0,1.0,,Takeaway,,,
-TXN_8922585,Salad,5.0,5.0,25.0,Credit Card,UNKNOWN,2023-06-22,Thursday,June
+TXN_8922585,Salad,5.0,5.0,25.0,Credit Card,Unknown location,2023-06-22,Thursday,June
 TXN_2112522,Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-04-30,Sunday,April
 TXN_6133115,Smoothie,5.0,4.0,20.0,,In-store,2023-12-08,Friday,December
-TXN_8408353,Tea,1.0,1.5,1.5,Credit Card,UNKNOWN,2023-12-13,Wednesday,December
+TXN_8408353,Tea,1.0,1.5,1.5,Credit Card,Unknown location,2023-12-13,Wednesday,December
 TXN_6420902,Cake,3.0,3.0,9.0,Credit Card,Takeaway,2023-11-22,Wednesday,November
 TXN_9400245,Salad,1.0,5.0,5.0,,In-store,2023-02-24,Friday,February
 TXN_4767609,Coffee,3.0,2.0,6.0,Digital Wallet,In-store,2023-10-15,Sunday,October
@@ -8319,7 +8319,7 @@ TXN_8844497,Sandwich,3.0,4.0,12.0,,Takeaway,2023-11-18,Saturday,November
 TXN_5171519,Salad,3.0,5.0,15.0,,In-store,2023-04-06,Thursday,April
 TXN_6049240,Juice,1.0,3.0,3.0,Cash,,2023-05-31,Wednesday,May
 TXN_4428252,Sandwich,3.0,4.0,12.0,,Takeaway,2023-10-31,Tuesday,October
-TXN_8344810,Smoothie,2.0,4.0,8.0,,UNKNOWN,,,
+TXN_8344810,Smoothie,2.0,4.0,8.0,,Unknown location,,,
 TXN_9460419,Cake,1.0,3.0,3.0,,Takeaway,,,
 TXN_1169615,Smoothie,5.0,4.0,20.0,Digital Wallet,In-store,2023-03-16,Thursday,March
 TXN_1949093,Smoothie,2.0,4.0,8.0,Cash,,2023-02-05,Sunday,February
@@ -8361,14 +8361,14 @@ TXN_4302199,Tea,3.0,1.5,4.5,,,2023-02-16,Thursday,February
 TXN_9933628,Smoothie,5.0,4.0,20.0,Cash,In-store,2023-07-20,Thursday,July
 TXN_8567525,Cookie,2.0,1.0,2.0,,Takeaway,2023-12-30,Saturday,December
 TXN_9226047,Smoothie,3.0,4.0,12.0,Cash,,,,
-TXN_3297457,Cake,2.0,3.0,6.0,,UNKNOWN,2023-01-03,Tuesday,January
+TXN_3297457,Cake,2.0,3.0,6.0,,Unknown location,2023-01-03,Tuesday,January
 TXN_2858441,Sandwich,2.0,4.0,8.0,Credit Card,In-store,2023-12-14,Thursday,December
 TXN_1784478,Juice,5.0,3.0,15.0,Cash,,2023-07-31,Monday,July
 TXN_1741685,Juice,5.0,3.0,15.0,Cash,,2023-08-18,Friday,August
 TXN_1538510,Coffee,5.0,2.0,10.0,Digital Wallet,,2023-05-22,Monday,May
 TXN_3897619,Sandwich,3.0,4.0,12.0,Cash,Takeaway,2023-02-24,Friday,February
 TXN_4766549,Smoothie,2.0,4.0,8.0,Cash,,2023-10-20,Friday,October
-TXN_7672686,Coffee,2.0,2.0,4.0,,UNKNOWN,2023-08-30,Wednesday,August
+TXN_7672686,Coffee,2.0,2.0,4.0,,Unknown location,2023-08-30,Wednesday,August
 TXN_5255387,Coffee,4.0,2.0,8.0,Digital Wallet,,2023-03-02,Thursday,March
 TXN_7695629,Cookie,3.0,1.0,3.0,Digital Wallet,,2023-12-02,Saturday,December
 TXN_6170729,Sandwich,3.0,4.0,12.0,Cash,In-store,2023-11-07,Tuesday,November
